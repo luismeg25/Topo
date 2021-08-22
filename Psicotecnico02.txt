@@ -1,20 +1,20 @@
-Indica entre las siguientes palabras cuál es el sinónimo de la palabra REMUNERACIÓN@1)    Alabanza@2) Enumeración@3) Ascenso@4) Paga@4@Paga
-CACEREÑO es a CÁCERES como EGABRENSE es a ...@1) Cabra@2) Calatayud@3) Gerona@4) Cádiz@1@Cabra
-Sigue la secuencia: AB(C), KO(Z), AJ(?)@1) B@2) O@3) K@4) P@3@K
-Según el siguiente cuadro  ¿Cuál es la letra que más se repite en la columna 2?@1) Q@2) P@3) T@4) S@2@P
-Señale la palabra que no pertenece al grupo:@1) Explosión@2) Rebelión@3) Motín@4) Levantamiento@1@Explosión
-Completa la serie: 4AC7, 8EG11, 16IK15, ...@1) 18MÑ19@2) 32LM17@3) 32LM19@4) 32MÑ17@4@32MÑ17
-Qué letra sigue la serie D, E, F, Ñ, O, P, I, J, K, S, T, U, ...@1) V@2) M@3) L@4) N@4@N
-COCHE es a VOLANTE como BARCO es a ...@1) Proa@2) Timón@3) Ancla@4) Sextante@2@Timón
-¿Cuántas faltas de ortografía tiene la siguiente frase?: Aquel sexagenario goza de granflesibilidad.@1) Dos@2) Cuatro@3) Una@4) Tres@1@Dos
-Señale la palabra que no pertenece al grupo:@1) Extraño@2) Advenedizo@3) Eximio@4) Intruso@3@Eximio
-Señala la palabra que está incorrectamente escrita:@1) Lava@2) Instantaneo@3) Rabia@4) Físico@2@Instantaneo
-FLOR es a PISTILO como MUJER es a ...@1) Abdomen@2) Útero@3) Ano@4) Vagina@2@Útero
-Averigua las incógnitas para que el resultado de la operación sea el correcto: 6 ? ? x ? = -34@1) -, 23, 2@2) x, 2, 4@3) +, 6, 6@4) -, 10, 4@4@-, 10, 4
-Sigue la secuencia 4, 6, 9, 13, 18, ?@1) 21@2) 15@3) 19@4) 24@4@24
-Señale la palabra que no pertenece al grupo:@1) Gallina@2) Pichón@3) Cordero@4) Ternera@1@Gallina
-¿Qué letra continúa la serie? (no cuenta la W) G O M H P N I Q ...@1) Ñ@2) L@3) T@4) S@1@Ñ
-¿Cuál es el máximo común divisor de: 18 y 24?@1) 48@2) 6@3) 3@4) 72@2@6
-Señala la palabra que está incorrectamente escrita:@1) Levantar@2) Escorpión@3) Churrería@4) Alquitran@4@Alquitran
-Completa la serie: 4 N 8 Q 2 U 6 ?@1) Z@2) X@3) V@4) Y@4@Y
-La suma de dos números es 14. Añadiendo 1 al mayor se obtiene el doble del menor. ¿Cuál es el menor?@1) 6@2) 5@3) 8@4) 7@2@5
+Indica entre las siguientes palabras cuál es el sinónimo de la palabra REMUNERACIÓN@    Alabanza@ Enumeración@ Ascenso@ Paga@4@Paga
+CACEREÑO es a CÁCERES como EGABRENSE es a ...@ Cabra@ Calatayud@ Gerona@ Cádiz@1@Cabra
+Sigue la secuencia: AB(C), KO(Z), AJ(?)@ B@ O@ K@ P@3@K
+Según el siguiente cuadro  ¿Cuál es la letra que más se repite en la columna 2?@ Q@ P@ T@ S@2@P
+Señale la palabra que no pertenece al grupo:@ Explosión@ Rebelión@ Motín@ Levantamiento@1@Explosión
+Completa la serie: 4AC7, 8EG11, 16IK15, ...@ 18MÑ19@ 32LM17@ 32LM19@ 32MÑ17@4@32MÑ17
+Qué letra sigue la serie D, E, F, Ñ, O, P, I, J, K, S, T, U, ...@ V@ M@ L@ N@4@N
+COCHE es a VOLANTE como BARCO es a ...@ Proa@ Timón@ Ancla@ Sextante@2@Timón
+¿Cuántas faltas de ortografía tiene la siguiente frase?: Aquel sexagenario goza de granflesibilidad.@ Dos@ Cuatro@ Una@ Tres@1@Dos
+Señale la palabra que no pertenece al grupo:@ Extraño@ Advenedizo@ Eximio@ Intruso@3@Eximio
+Señala la palabra que está incorrectamente escrita:@ Lava@ Instantaneo@ Rabia@ Físico@2@Instantaneo
+FLOR es a PISTILO como MUJER es a ...@ Abdomen@ Útero@ Ano@ Vagina@2@Útero
+Averigua las incógnitas para que el resultado de la operación sea el correcto: 6 ? ? x ? = -34@ -, 23, 2@ x, 2, 4@ +, 6, 6@ -, 10, 4@4@-, 10, 4
+Sigue la secuencia 4, 6, 9, 13, 18, ?@ 21@ 15@ 19@ 24@4@24
+Señale la palabra que no pertenece al grupo:@ Gallina@ Pichón@ Cordero@ Ternera@1@Gallina
+¿Qué letra continúa la serie? (no cuenta la W) G O M H P N I Q ...@ Ñ@ L@ T@ S@1@Ñ
+¿Cuál es el máximo común divisor de: 18 y 24?@ 48@ 6@ 3@ 72@2@6
+Señala la palabra que está incorrectamente escrita:@ Levantar@ Escorpión@ Churrería@ Alquitran@4@Alquitran
+Completa la serie: 4 N 8 Q 2 U 6 ?@ Z@ X@ V@ Y@4@Y
+La suma de dos números es 14. Añadiendo 1 al mayor se obtiene el doble del menor. ¿Cuál es el menor?@ 6@ 5@ 8@ 7@2@5
