@@ -1,1 +1,2 @@
-1@Información General@Constitucion01.txt
+1@Información Preliminar 1@Constitucion01.txt
+2@Información Preliminar 2@Constitucion02.txt
