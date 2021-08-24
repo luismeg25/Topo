@@ -4,3 +4,5 @@
 4@Información Preliminar 4@Constitucion04.txt
 5@Título I. De los Derechos y Deberes Fundamentales I.@Constitucion05.txt
 6@Título I. De los Derechos y Deberes Fundamentales II.@Constitucion06.txt
+7@Título II. De la Corona I.@@Constitucion07.txt
+8@Título II. De la Corona II.@@Constitucion08.txt
