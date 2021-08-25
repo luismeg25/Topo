@@ -1,0 +1,20 @@
+Sigue la secuencia: M H Y L G X K F ...@T@W@E@J@2@W
+Encuentra la segunda letra que continuaría la siguiente serie A C A F H F K M K O Q O ...@V@T@S@U@1@V
+Continúa la serie (valen las letras dobles) Z Y A B X W C D V ...@U@Y@H@F@1@U
+Sigue la serie A A B C C D E E F G G ...@C@B@H@G@3@H
+Sigue la serie A B C C B A D E F F E D G H I ...@L@K@I@J@3@I
+Qué letra sigue la serie (valen las letras dobles) D, C, S, R, G, F, P, ...@L@M@O@A@3@O
+Qué letra sigue la serie (valen las letras dobles) G, H, I, X, W, V, J, K, L, U, ...@O@N@T@S@3@T
+Qué letra sigue la serie (valen las letras dobles) N, J, L, M, Ñ, P, R, S ...@U@O@T@Q@1@U
+Qué letra sigue la serie (valen las letras dobles) X, A, E, J, Ñ, T, ...@I@L@B@K@3@B
+Encuentra la segunda letra que continuaría la siguiente serie A B A B B C C D C D D E ...@D@F@C@G@2@F
+Qué letra sigue la serie (valen las letras dobles) C, D, O, P, G, H, RR, S, K ...@M@L@J@B@2@L
+Sigue la serie A C E G I K M ...@M@K@L@Ñ@4@Ñ
+¿Qué letra continúa la serie? (no cuenta la W) X F Y E X D Y ...@Y@C@F@X@2@C
+Encuentra la segunda letra que continuaría la siguiente serie R Q P Q P O Ñ N P O M L K O Ñ J I H ...@M@Ñ@O@N@4@N
+Qué letra sigue la serie X, Y, Z, B, C, D, F, G, H, ...@A@K@I@J@4@J
+Encuentra la segunda letra que continuaría la siguiente serie T V X Y X Y A B C B C E F G F G ...@K@L@I@J@4@J
+¿Qué letra continúa la serie? (no cuenta la W) T X B E ...@H@L@I@N@3@I
+Encuentra la segunda letra que continuaría la siguiente serie Y O Q A S U C X Z ...@E@D@B@C@3@B
+Sigue la secuencia (valen las letras dobles) Q, P, N, M, K, J, G, F ...@C@D@M@L@1@C
+Encuentra la segunda letra que continuaría la siguiente serie H I J K I J K L J K L M K L M N ...@M@G@E@F@1@M
