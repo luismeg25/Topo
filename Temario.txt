@@ -1,2 +1,2 @@
-1@Psicotécnico@3
-2@Constitución@1
+1@Psicotécnico@Test Psicotécnico
+2@Constitución@Test Constitución
