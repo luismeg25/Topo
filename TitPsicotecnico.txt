@@ -1,6 +1,6 @@
 1@Psicotecnico01@Psicotecnico01.txt
 2@Psicotecnico02@Psicotecnico02.txt
 3@Psicotecnico03@Psicotecnico03.txt
-4@Series Numéricas@Psicotecnico04.txt
-5@Series Letras I@Psicotecnico05.txt
-5@Series Letras II@Psicotecnico06.txt
+4@Series numéricas@Psicotecnico04.txt
+5@Series de letras I@Psicotecnico05.txt
+5@Series de letras II@Psicotecnico06.txt
