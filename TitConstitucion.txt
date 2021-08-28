@@ -9,3 +9,16 @@
 9@Título III. De las Cortes Generales I@Constitucion09.txt
 10@Título III. De las Cortes Generales II@Constitucion10.txt
 11@Título IV. Del Gobierno y de la Administración I@Constitucion11.txt
+12@Título IV. Del Gobierno y de la Administración II@Constitucion12.txt
+13@Título V. De las Relaciones entre el Gobierno y las Cortes Generales I@Constitucion13.txt
+14@Título V. De las Relaciones entre el Gobierno y las Cortes Generales II@Constitucion14.txt
+15@Título VI. Del Poder Judicial I@Constitucion15.txt
+16@Título VI. Del Poder Judicial II@Constitucion16.txt
+17@Título VII. Economia y Hacienda I@Constitucion17.txt
+18@Título VII. Economia y Hacienda II@Constitucion18.txt
+19@Título VIII. De la Organización Territorial del Estado I@Constitucion19.txt
+20@Título VIII. De la Organización Territorial del Estado II@Constitucion20.txt
+21@Título IX. Del Tribunal Constitucional I@Constitucion21.txt
+22@Título IX. Del Tribunal Constitucional II@Constitucion22.txt
+23@Título X. De la Reforma Constitucional I@Constitucion23.txt
+24@Título X. De la Reforma Constitucional II@Constitucion24.txt
