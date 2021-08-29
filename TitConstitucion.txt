@@ -22,3 +22,8 @@
 22@Título IX. Del Tribunal Constitucional II@Constitucion22.txt
 23@Título X. De la Reforma Constitucional I@Constitucion23.txt
 24@Título X. De la Reforma Constitucional II@Constitucion24.txt
+25@Examen I@Constitucion25.txt
+26@Examen II@Constitucion26.txt
+27@Examen III@Constitucion27.txt
+28@Examen VI@Constitucion28.txt
+29@Examen V@Constitucion29.txt
