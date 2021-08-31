@@ -1,30 +1,12 @@
 1@Información Preliminar 1@Constitucion01.txt
-2@Información Preliminar 2@Constitucion02.txt
-3@Información Preliminar 3@Constitucion03.txt
-4@Información Preliminar 4@Constitucion04.txt
-30@Título I. De los Derechos y Deberes Fundamentales@Constitucion30.txt
-5@Título I. De los Derechos y Deberes Fundamentales I@Constitucion05.txt
-6@Título I. De los Derechos y Deberes Fundamentales II@Constitucion06.txt
-7@Título II. De la Corona I@Constitucion07.txt
-8@Título II. De la Corona II@Constitucion08.txt
-9@Título III. De las Cortes Generales I@Constitucion09.txt
-10@Título III. De las Cortes Generales II@Constitucion10.txt
-11@Título IV. Del Gobierno y de la Administración I@Constitucion11.txt
-12@Título IV. Del Gobierno y de la Administración II@Constitucion12.txt
-13@Título V. De las Relaciones entre el Gobierno y las Cortes Generales I@Constitucion13.txt
-14@Título V. De las Relaciones entre el Gobierno y las Cortes Generales II@Constitucion14.txt
-15@Título VI. Del Poder Judicial I@Constitucion15.txt
-16@Título VI. Del Poder Judicial II@Constitucion16.txt
-17@Título VII. Economia y Hacienda I@Constitucion17.txt
-18@Título VII. Economia y Hacienda II@Constitucion18.txt
-19@Título VIII. De la Organización Territorial del Estado I@Constitucion19.txt
-20@Título VIII. De la Organización Territorial del Estado II@Constitucion20.txt
-21@Título IX. Del Tribunal Constitucional I@Constitucion21.txt
-22@Título IX. Del Tribunal Constitucional II@Constitucion22.txt
-23@Título X. De la Reforma Constitucional I@Constitucion23.txt
-24@Título X. De la Reforma Constitucional II@Constitucion24.txt
-25@Examen I@Constitucion25.txt
-26@Examen II@Constitucion26.txt
-27@Examen III@Constitucion27.txt
-28@Examen VI@Constitucion28.txt
-29@Examen V@Constitucion29.txt
+20@Título I. De los Derechos y Deberes Fundamentales@Constitucion02.txt
+3@Título II. De la Corona I@Constitucion03.txt
+4@Título III. De las Cortes Generales I@Constitucion04.txt
+5@Título IV. Del Gobierno y de la Administración I@Constitucion05.txt
+6@Título V. De las Relaciones entre el Gobierno y las Cortes Generales I@Constitucion06.txt
+7@Título VI. Del Poder Judicial I@Constitucion07.txt
+8@Título VII. Economia y Hacienda I@Constitucion08.txt
+8@Título VIII. De la Organización Territorial del Estado I@Constitucion09.txt
+10@Título IX. Del Tribunal Constitucional I@Constitucion10.txt
+11@Título X. De la Reforma Constitucional I@Constitucion11.txt
+12@Examen I@Constitucion12.txt
