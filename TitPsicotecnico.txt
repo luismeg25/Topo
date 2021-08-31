@@ -1,3 +1,3 @@
 1@Psicotecnico Varios@Psicotecnico01.txt
 2@Series numéricas@Psicotecnico02.txt
-3@Series de letras I@Psicotecnico03.txt
+3@Series de letras@Psicotecnico03.txt
