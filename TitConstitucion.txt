@@ -1,12 +1,12 @@
-1@Información Preliminar 1@Constitucion01.txt
+1@Información Preliminar@Constitucion01.txt
 20@Título I. De los Derechos y Deberes Fundamentales@Constitucion02.txt
-3@Título II. De la Corona I@Constitucion03.txt
-4@Título III. De las Cortes Generales I@Constitucion04.txt
-5@Título IV. Del Gobierno y de la Administración I@Constitucion05.txt
-6@Título V. De las Relaciones entre el Gobierno y las Cortes Generales I@Constitucion06.txt
-7@Título VI. Del Poder Judicial I@Constitucion07.txt
-8@Título VII. Economia y Hacienda I@Constitucion08.txt
-8@Título VIII. De la Organización Territorial del Estado I@Constitucion09.txt
-10@Título IX. Del Tribunal Constitucional I@Constitucion10.txt
-11@Título X. De la Reforma Constitucional I@Constitucion11.txt
+3@Título II. De la Corona@Constitucion03.txt
+4@Título III. De las Cortes Generales@Constitucion04.txt
+5@Título IV. Del Gobierno y de la Administración@Constitucion05.txt
+6@Título V. De las Relaciones entre el Gobierno y las Cortes Generales@Constitucion06.txt
+7@Título VI. Del Poder Judicial@Constitucion07.txt
+8@Título VII. Economia y Hacienda@Constitucion08.txt
+8@Título VIII. De la Organización Territorial del Estado@Constitucion09.txt
+10@Título IX. Del Tribunal Constitucional@Constitucion10.txt
+11@Título X. De la Reforma Constitucional@Constitucion11.txt
 12@Examen@Constitucion12.txt
