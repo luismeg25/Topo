@@ -1,2 +1,1 @@
-1@Año 2000@AuxAdminEstado01.txt
-2@Año 2008@AuxAdminEstado02.txt
+1@Estado@Aux Administrativo01.txt
