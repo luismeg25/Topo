@@ -1,3 +1,4 @@
 1@Psicotécnico@Psicotécnico
 2@Constitución@Constitución
-3@Auxiliar Administrativo@Aux Administrativo
+3@Informática@Informática
+4@Auxiliar Administrativo@Aux Administrativo

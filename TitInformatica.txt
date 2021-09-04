@@ -1,0 +1,3 @@
+1@Ordenadores@Informatica01.txt
+2@Hoja de cálculo@Informatica02.txt
+3@Procesador de texto@Informatica03.txt
