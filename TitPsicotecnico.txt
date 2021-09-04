@@ -1,3 +1,5 @@
 1@Psicotecnico Varios@Psicotecnico01.txt
 2@Series numéricas@Psicotecnico02.txt
 3@Series de letras@Psicotecnico03.txt
+3@Calculo mental@Psicotecnico04.txt
+3@Comprensión@Psicotecnico05.txt

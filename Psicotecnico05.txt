@@ -1,20 +1,62 @@
-¿Qué letra continúa la serie? (no cuenta la W) I J M N Ñ R S T U ...@X@Z@A@B@3@A
-Sigue la secuencia A A, B B B, C C C C, D D D D ...@E@D@F@C@2@D
-Sigue la secuencia: D C B G F E J I H ? ?@N - M@Ñ - N@M - L@L - K@3@M - L
-Sigue la secuencia (valen las letras dobles) X, V, T, RR, Q, O, N, LL ...@L@M@K@X@3@K
-Sigue la secuencia (valen las letras dobles) R, Q, P, L, K, J, O, Ñ, N, ...@L@J@H@I@4@I
-Encuentra la segunda letra que continuaría la siguiente serie C F H E J L G N O ...@Q@S@R@T@1@Q
-Qué letra sigue la serie D, E, F, Ñ, O, P, I, J, K, S, T, U, ...@V@N@L@M@2@N
-Continúa la serie (valen las letras dobles) A A, B B B, C C C C, D D D D ...@F@G@E@D@4@D
-Continúa la serie (valen las letras dobles) D C S R G F P ...@O@Q@A@B@1@O
-Continúa la serie (valen las letras dobles) Z A Y B X C W D V E ...@U@S@F@T@1@U
-¿Qué letra continúa la serie? (no cuenta la W) X E L ...@T@B@R@Z@3@R
-Sigue la serie A A C C E E G G I I ...@J@K@L@H@2@K
-Sigue la serie A X B Y C Z A X B Y C Z A X B ...@A@Y@C@X@2@Y
-Sigue la serie A S B T C U D V E W F X G ...@H@F@X@Y@4@Y
-Encuentra la segunda letra que continuaría la siguiente serie B D F D H J F L N ...@P@J@O@I@3@O
-Sigue la serie A B C B C D E F E F G H I H ...@H@J@G@I@4@I
-Qué letra sigue la serie G, H, K, L, Ñ, O, R, S, V, ...@X@Y@W@U@3@W
-Sigue la secuencia A, Z, B, Y, C, X, D, W, E, V, F ...@T@H@U@G@3@U
-Continúa la serie (valen las letras dobles) D E F G Z A B C V W ...@H@Y@I@X@4@X
-Sigue la serie A B B C C C D D D D E E E E ...@D@H@E@F@3@E
+Señale la opción que tenga un significado MAS PARECIDO al de la palabra MARISMA:@Planicie@Despeñadero@Albufera@Secarral@3@Albufera
+Señale la opción que tenga un significado MAS PARECIDO al de la palabra HEDOR:@Aura@Aroma@Fetidez@Transpiración@3@Fetidez
+Señale la opción que tenga un significado MAS PARECIDO al de la palabra REMISO:@Melindroso@Irresoluto@Diligente@Cauto@2@Irresoluto
+Señale la opción que tenga un significado MAS PARECIDO al de la palabra DENOSTAR:@Percatar@Sucumbir@Injuriar@Devaluar@3@Injuriar
+Señale la opción que tenga un significado MAS PARECIDO al de la palabra SOLÍCITO:@Cuidadoso@Imponente@Rendido@Firme@1@Cuidadoso
+Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No hay _____ para poder concederle lo _____ .@precedentes / solicitado@inconbeniente / pedido@motibos /generado@razones / acostunbrado@1@precedentes / solicitado
+Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “Los métodos contables _____ no difieren en _____ de los clásicos.@nombrados / algo@actuales / exceso@anteriores / demasiado@antigüos / demasía@2@actuales / exceso
+ Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No hay ______ excluyentes cuando los asuntos son de ______ importancia.@solicitudes / otra@ventajas / gran@precedentes / menos@razones / vital@4@razones / vital
+ Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “Muchos trabajadores ______ inicialmente los protectores oculares a causa de las inadecuadas campañas de ______.@prescindieron / publicidad@prescindirán / anuncios@renegaron / marketing@rechazarán / información@4@rechazarán / información
+¿Qué palabra significa lo mismo que «enervar»?@ Tranquilizar.@  Fortalecer.@    Indisponer.@    Debilitar.@4@Debilitar.
+¿Cuál es el antónimo de «entusiasta»?@ Ingenuo.@ Frio.@ Fogoso.@ Vehemente.@2@Frio.
+.......... es a «principio» como «muerte» es a ..........@ Inicio - Cadáver.@ Nacimiento - Fin.@ Meta - Transcurso.@ Vida - Final.@2@Nacimiento - Fin.
+En las siguientes palabras hay tres que mantienen alguna clase de relación desde el punto de vista de su significado y una que no. Se trata de averiguar cuál es la palabra no relacionada semánticamente con las demás.@ Atún@ Rodaballo@ Delfín@ Jurel@3@Delfín. (Todas son especies comestibles, el delfín no).
+Se almacena toda la lluvia que cae sobre el tejado plano de una casa en un tanque rectangular de 2 x 1,5 metros. Si 5 mm de lluvia cae sobre el tejado plano que tiene un área total de 90 metros cuadrados, el nivel del agua en el tanque se eleva en:@ 1,5 mm@ 1,5 m@ 15 mm@ 150 mm@4@150 mm.En total caen 0,45 metros cúbicos de agua sobre el tejado que hace que el depósito suba 0,15 metros, es decir 150 milímetros.
+.......... es a «educación» como «enfermero» es a ..........@ Colegio - hospital.@ Profesor - sanidad.@ Aprender - curar.@ Maestro - médico.@2@Profesor - sanidad.
+Las palabras «crispación» y «crueldad» tienen como antónimo y sinónimo, respectivamente:@ Conmoción - ferocidad.@ Relajación - bondad.@ Distensión - barbarie.@ Convulsión - brutalidad.@3@Distensión - barbarie.
+Indica entre las siguientes palabras cuál es el sinónimo de la palabra ESPURIO@Dogmático@Tácito@Delgado@Falso@4@Falso
+Tres docenas de limones cuestan tantos euros como limones dan por 16 euros. ¿Cuánto vale la docena de limones?@ 8 euros.@ 10 euros.@ 12 euros.@ 14 euros.@1@8 euros.Llamando «p» al precio de un limón expresado en euros: 36 limones cuestan 36 x p euros.Por 16 euros dan 16 / plimones, luego 36 x p = 16 / p, de donde p = 0,66 euros. Doce limones valdrán entonces aproximadamente 8 euros.
+¿Qué par de palabras sustituirían a las entrecomilladas en la siguiente frase sin alterar el sentido de la misma?La venta de alcohol es «acicate» para la «algarabía» nocturna.@ Incentivo - bulla.@ Aliciente - policía.@ Causa - algarada.@ Motivo - rebelión.@1@Incentivo - bulla.
+De las siguientes oraciones una de ellas es ortográficamente incorrecta. Indíquela.@ La ojiba nuclear absorbió calor.@ La alhaja está en la joroba del baobab.@ La vitola calibra las balas del fusil.@ El eximio diputado divagó vehementemente.@1@La ojiba nuclear absorbió calor. (Correcto ojiva).
+La pregunta que sigue es un ejercicio de resistencia a la fatiga consistente en contar visualmente y sin ninguna otra ayuda el número total de signos que hay como el que aparece entre corchetes indicando la respuesta verdadera.[e]  seseeesssseseseseseseesssseeesessessesseseseseesssseeesesseseesesesesssssesesessseessesesesesesseeseseseseesssseeesesses@ 52@ 53@ 54@ 55@3@54
+De los cuatro pares de palabras que se proponen, uno no guarda relación de sinonimia. Señálelo:@ Asenso - escaño.@ Acicate - incentivo.@ Menester - necesidad.@ Impetu - brío.@1@Asenso - escaño.
+Dadas las siguientes series de palabras, señalar la opción donde el par de palabras no son antónimas entre sí.@ Expulsión - admisión.@ Fragor - guerra.@ Presunción - modestia.@ Fáctico - teórico.@2@Fragor - guerra.
+Señálese la palabra que corresponde a la siguiente definición:«Persona que no ha tomado estado de matrimonio»@ Casto@ Célibe@ Presbítero@ Púber@2@Célibe.
+Una de estas series de antónimos es incorrecta. Señálela:@ Ejecutorio - apelable.@ Tieso - lacio.@ Efusivo - frío.@ Dúctil - maleable.@4@Dúctil - maleable.
+De las siguientes frases una de ellas está acentuada incorrectamente. Indíquela.@ Vine en cuánto me llamaste.@ ¡Cuánto dolor sentía!@ ¿Cuánto vale este libro?@ Vinieron cuantos invitaste.@1@Correcto: Vine en cuanto me llamaste.
+.......... es a «mentira», como «mal» es a ...........@ Falso - peor@ Correcto - bueno@ Verdad - bien.@ Deshonesto - demonio@3@Verdad - bien.
+Señale el antónimo de «desencajar»:@ Sacar.@ Adaptar.@ Entristecer.@ Limpiar.@2@Adaptar.
+Señale qué palabra de las presentadas como opciones responde con mayor exactitud a la siguiente definición.«Procedimiento que se sigue en las ciencias para hallar la verdad y enseñala».@ Razonamiento.@ Método.@ Hipótesis.@ Empirismo@2@Método.
+Indica entre las siguientes palabras cuál es el sinónimo de la palabra REMUNERACIÓN@ Alabanza@ Enumeración@ Ascenso@ Paga@4@Paga
+CACEREÑO es a CÁCERES como EGABRENSE es a ...@ Cabra@ Calatayud@ Gerona@ Cádiz@1@Cabra
+Señale la palabra que no pertenece al grupo:@Alquitrán@Resina@Brea@Asfalto@2@Resina
+Señale la palabra que no pertenece al grupo:@ Explosión@ Rebelión@ Motín@ Levantamiento@1@Explosión
+COCHE es a VOLANTE como BARCO es a ...@ Proa@ Timón@ Ancla@ Sextante@2@Timón
+¿Cuántas faltas de ortografía tiene la siguiente frase?: Aquel sexagenario goza de granflesibilidad.@ Dos@ Cuatro@ Una@ Tres@1@Dos
+Señale la palabra que no pertenece al grupo:@ Extraño@ Advenedizo@ Eximio@ Intruso@3@Eximio
+Señala la palabra que está incorrectamente escrita:@ Lava@ Instantaneo@ Rabia@ Físico@2@Instantaneo
+FLOR es a PISTILO como MUJER es a ...@ Abdomen@ Útero@ Ano@ Vagina@2@Útero
+Señale la palabra que no pertenece al grupo:@ Gallina@ Pichón@ Cordero@ Ternera@1@Gallina
+Señala la palabra que está incorrectamente escrita:@ Levantar@ Escorpión@ Churrería@ Alquitran@4@Alquitran
+¿Cuál de las siguientes series de palabras está correctamente escrita?@ Agasajar - anhelar - apatía - método - exceso.@ Antojo - abto - menudencia - estasis - fatasma.@ Ajenda - anelar - arrabal - malsano - extorbo.@ Andrajoso - excluir - mestiso - ajustar - alavanza.@1@Agasajar - anhelar - apatía - método - exceso.
+Indica el antónimo de la palabra DERECHO@ Quebrado@ Inclinado@ Torcido@ Recto@3@Torcido
+Indica entre las siguientes palabras cuál es el sinónimo de la palabra ERRAR@ Acertar@ Descalzar@ Herrar@ Fallar@4@Fallar
+ALTO es a DEPORTE como BAJO es a ...@ Natación@ Tranquilidad@ Actividad@ Inactividad@4@Inactividad
+Señala el antónimo correspondiente de la palabra ANODINO@ Fútil@ Baladí@ Nimio@ Sabroso@4@Sabroso
+Señale la palabra que no pertenece al grupo:@ Proporción@ Coyuntura@ Oportunidad@ Cifra@4@Cifra
+Indica entre las siguientes palabras cuál es el antónimo de la palabra ETÉREO@ Vaporoso@ Elevado@ Sutil@ Corpóreo@4@Corpóreo
+Señala el sinónimo correspondiente de la palabra GRANDE@ Descomunal@ Infundioso@ Magno@ Grave@3@Magno
+FIRME es a ... como VOLUBLE es a ...@ Constante - Idóneo@ Versátil - Arbitrario@ Estable - Versátil@ Enérgico - Espacioso@3@Estable - Versátil
+El número 1.666, en números romanos se escribe@MDCLXVI@LXXXVI@DCCCXCVI@CMXCVI@1@MDCLXVI
+Atendiendo al uso de los pronombres la, lo, le, ¿cuál de las siguientes frases es correcta desde el punto de vista gramatical@(A Pedro) no la interesan las nuevas tecnologías@(A Pedro) no lo interesan las nuevas tecnologías@(A Elvira) no la interesan las nuevas tecnologías@(A Elvira) no le interesan las nuevas tecnologías@4@(A Elvira) no le interesan las nuevas tecnologías
+Señale la frase correcta para expresar que un informe tendrá que ser escrito de nuevo@Va a haber que reescribir el informe@Va haber que reescribir el informe@Va a ver que reescribir el informe@Va a ver que reescribir el informe@1@Va a haber que reescribir el informe
+Atendiendo al uso de los adjetivos ordinales, ¿cuál de las siguientes expresiones sería la correcta@Se ha celebrado el trigésimo quinto Congreso de la Administración Pública@Se ha celebrado el 35 Congreso de la Administración Pública@Se ha celebrado el treinta y cinco Congreso de la Administración Pública@Se ha celebrado el treintaicincoavo Congreso de la Administración Pública@1@Se ha celebrado el trigésimo quinto Congreso de la Administración Pública
+¿Cuál de las siguientes frases está correctamente construida@En la sala había mucha gente@En la sala había cientos de personas@En la sala habían cientos de personas@En la sala habían poca gente@2@En la sala había cientos de personas
+La palabra aun se escribe con tilde o acento gráfico (aún) cuando significa@Todavía@También@Incluso@Hasta@1@Todavía
+Las palabras acabadas en “s”@Llevan acento gráfico siempre@No llevan acento gráfico nunca@No se acentúan a excepción de las que acaban en “ps”@Se acentúan cuando no provienen del latín@3@No se acentúan a excepción de las que acaban en “ps”
+¿Cuál de las siguientes frases es correcta@Resulta de que Juan no se dio cuenta de que era fiesta@Resulta de que Juan no se dio cuenta que era fiesta@Resulta que Juan no se dio cuenta de que era fiesta@Resulta que Juan no se dio cuenta que era fiesta@3@Resulta que Juan no se dio cuenta de que era fiesta
+La homonimia es@Identidad de significantes de palabras de distinto significado@La identidad de significados@La oposición de significados@La repetición de un mismo sonido@1@Identidad de significantes de palabras de distinto significado
+Atendiendo a su acentuación gráfica, ¿cuál de los siguientes pares de palabras está convenientemente escrito?@Regimen-Regímenes@Regimen-Regimenes@Régimen-Regímenes@Régimen-Regimenes@3@Régimen-Regímenes
+Un determinado Organismo concede un premio de jubilación a tres empleados, al cumplir 65 años de edad, de forma directamente proporcional a sus años de servicio, que son 30, 45 y 25 años. Si el importe total del premio es de 540.000 pesetas, ¿cuánto le corresponderá, respectivamente, a cada uno?@135.000, 202.500, 112.500@125.000, 207.000, 118.000@135.000, 202.500, 113.500@135.000, 205.000, 109.500@1@135.000, 202.500, 112.500
+Las oposiciones a tres Cuerpos A, B y C de la Administración General del Estado se celebran cada 6 meses, 1 año y 2 meses, y 2 años, respectivamente. Si en la Oferta de Empleo Público para el año 2.000, las 3 oposiciones se realizan simultáneamente, ¿al cabo de cuánto tiempo volverán a coincidir?@15 años@12 años y 2 meses@3 años y 6 meses@14 años@4@14 años
+Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No estamos para abordar la .”@satisfechos / mecanografía@echos / pregunta@listos / situación@preparados / crisis@4@preparados / crisis

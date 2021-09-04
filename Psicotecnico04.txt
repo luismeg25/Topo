@@ -1,20 +1,22 @@
-Qué número sigue la secuencia 2, 7, 4, 9, 8, 11,@13@28@10@16@4@16
-Sigue la secuencia 3, 12, 3, 11, 3, 8, 3, ?@6@4@3@5@4@5
-Continúa la secuencia 18, 15, 12, 9, 6,@3@5@4@2@1@3
-Continúa la secuencia 16, 17, 22, 24, 29, 32,@42@37@34@44@2@37
-Encuentra el numero que completa la serie (-1) - 2 - 7 - 14 - ?@34@46@26@23@4@23
-Sigue la secuencia 4, 6, 9, 13, 18, ?@19@21@24@15@3@24
-Qué número sigue la secuencia 16, 8, 32, 16, 64,@16@4@8@32@4@32
-Encuentra el número que sigue la secuencia 13, 26, 52, 104, 208,@312@260@416@326@3@416
-Encuentra el número que sigue la secuencia 16, 7, 8, 3.5,@4@32@2.5@3@1@4
-Sigue la serie 2187, 729, 243, 81,@36@27@9@18@2@27
-Sigue la secuencia 3, 5, 2, 7, 1, 9, ?@6@10@1@0@4@0
-Indica qué dos números siguen la serie 66, 63, 65, 62, 64, 61,@59, 60@63, 60@60, 59@60, 63@2@63, 60
-Encuentra el numero que completa la serie 3 - 12 - 5 - ? - 8 - 16 - 9 - 9 - 2@15@14@6@21@1@15
-En la siguiente serie hay un número equivocado, que no corresponde con la serie. Señala el número que debería ir en su lugar: 4, 8, 16, 3, 9, 27, 2, 8, 64@10@8@32@6@3@32
-Completa la serie: 2, 10, 5, ?, 20, 100, 95, 475, ?@15, 450@10, 95@25, 470@25, 95@3@25, 470
-Dada la serie: 0 - 3 - 8 - 6 - 9 - 14 - 16 - 15 - ... señalar qué número está equivocado:@16@14@09@15@1@16
-Continúa la secuencia 25, 1, 24, 2, 23,@3@21@22@4@1@3
-Qué número sigue la secuencia 25, 50, 100, 200, 400,@700@600@1600@800@4@800
-En la siguiente serie hay un número equivocado, que no corresponde con la serie. Señala el número que debería ir en su lugar: 2, 6, 9, 27, 30, 33, 99@18@66@3@81@3@3
-Sigue la secuencia 7, 7, 11, 6, 15, 5, ?@13@19@4@14@2@19
+Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. ¿Cuántas revistas imprime la máquina M2 más que la M1 en 5 días?@300@1200@1500@600@3@1500
+Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. ¿Cuántos días aproximadamente llevará la impresión de todas las revistas?@130@845@105@139@4@139
+Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. Si cada revista consume una cantidad de tinta por valor de 0,8 euros, ¿cuál es el valor de la tinta consumida diariamente por la máquina M3?@234 euros@390 euros@384 euros@288 euros@4@288 euros
+Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. La imprenta necesita acabar el trabajo en 90 días y decide encargar a otra empresa la impresión de las revistas que no puede hacer por sus propios medios. ¿Cuántas revistas tendrá que encargar a la empresa externa?@18200@27700@44000@37000@3@44000
+Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Si la máquina M3 permaneciera parada por avería durante 10 días, transcurridos los cuales continuara imprimiendo a su ritmo normal, ¿cuánto se habría alargado el plazo de impresión de las revistas?@Menos de 3 días@Más de 7 días@Entre 6 y 7 días@Entre 3 y 5 días@4@Entre 3 y 5 días
+Indique el valor que completa la siguiente operación: 1606,55 : 25,4 = @63,25@52,75@73,25@52,5@1@63,25
+Indique el valor que completa la siguiente operación: 35,7% de 32@127,196@117,96@117,096@210,904@3@117,096
+ Indique el valor que completa la siguiente operación: raiz cuadrada de 1357,1856@36,84@36,34@34,84@34,94@1@36,84
+Indique el valor que completa la siguiente operación: 3150/28 + ? = 4725/21 + 791/7:@451/3@902/2@3608/16@2366/7@3@3608/16
+Averigua las incógnitas para que el resultado de la operación sea el correcto: 6 ? ? x ? = -34@ -, 23, 2@ x, 2, 4@ +, 6, 6@ -, 10, 4@4@-, 10, 4
+¿Cuál es el máximo común divisor de: 18 y 24?@ 48@ 6@ 3@ 72@2@6
+La suma de dos números es 14. Añadiendo 1 al mayor se obtiene el doble del menor. ¿Cuál es el menor?@ 6@ 5@ 8@ 7@2@5
+Ana dice a su hija Beatriz: Hace 7 años mi edad era 5 veces la tuya, pero ahora sólo es el triple. ¿Qué edad tiene Ana?@ 38 años@ 35 años@ 40 años@ 42 años@4@42 años
+Averigua las incógnitas para que el resultado de la operación sea el correcto: ? ? ? - ? = 22@ 5, x, 5, 2@ 2, x, 6, 1@ 7, +, 12, 6@ 6, x, 4, 2@4@6, x, 4, 2
+Realiza la siguiente operación: (4 + 3/5) / (2/3 - 1/8) = ?@ -247/130@ 552/65@ 432/130@ 19/13@2@552/65
+Un cajón lleno de bolas pesa 69 kilos y vacío 7 kilos. ¿Cuánto pesan las bolas?@ 1 kilo cada bola@ 60 kilos@ 69 kilos@ 62 kilos@4@62 kilos
+¿Cuál es el resultado de la siguiente operación: 3.127 + 0,032 + 5,1 + 11,001?:@3139,253@3143,133@3145,113@3141,273@2@3143,133
+El resultado de la siguiente expresión numérica "- (-3) - [2 - (-5+7) - 4] - (+2) + (-5-3)", es:@3@-13@-3@0@3@-3
+El mínimo común múltiplo de los números: 18, 24, 20 y 9, resulta ser:@290@540@360@600@3@360
+Se desea imprimir dos copias de un fichero de texto de 300 páginas con 36 líneas por página. Si se dispone de dos impresoras con velocidades, respectivamente, de 2 páginas por minuto y de 72 líneas por minuto, ¿en cuánto tiempo se puede hacer el trabajo?@2 horas@300 minutos@150 minutos@210 minutos@3@150 minutos
+Un centro gestor ha ejecutado el 78% de su asignación presupuestaria total, devolviendo al Tesoro Público el resto, que asciende a 220.000.000 de pesetas. ¿Cuál es el crédito total asignado al Centro Gestor en el ejercicio económico siguiente si han sido aprobados los Presupuestos Generales del Estado con una subida del 2% sobre el ejercicio anterior?@1020000000@1200000000@1022000000@1120000000@1@1020000000
+Una oficina del TNEM tramita en un año un determinado número de solicitudes de empleo. Dicho número está comprendido entre 20.000 y 30.000 y es múltiplo de 5, 7, 8, 9 y 11 a la vez. ¿De qué número se trata?@27720@29700@23760@25200@1@27720

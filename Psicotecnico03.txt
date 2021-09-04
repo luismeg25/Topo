@@ -38,3 +38,12 @@ Encuentra la segunda letra que continuaría la siguiente serie T V X Y X Y A B C
 Encuentra la segunda letra que continuaría la siguiente serie Y O Q A S U C X Z ...@E@D@B@C@3@B
 Sigue la secuencia (valen las letras dobles) Q, P, N, M, K, J, G, F ...@C@D@M@L@1@C
 Encuentra la segunda letra que continuaría la siguiente serie H I J K I J K L J K L M K L M N ...@M@G@E@F@1@M
+Sigue la secuencia: AB(C), KO(Z), AJ(?)@ B@ O@ K@ P@3@K
+Completa la serie: 4AC7, 8EG11, 16IK15, ...@ 18MÑ19@ 32LM17@ 32LM19@ 32MÑ17@4@32MÑ17
+Qué letra sigue la serie D, E, F, Ñ, O, P, I, J, K, S, T, U, ...@ V@ M@ L@ N@4@N
+¿Qué letra continúa la serie? (no cuenta la W) G O M H P N I Q ...@ Ñ@ L@ T@ S@1@Ñ
+Completa la serie: 4 N 8 Q 2 U 6 ?@ Z@ X@ V@ Y@4@Y
+Qué letra sigue la serie (valen las letras dobles) D, C, S, R, G, F, P, ...@ O@ M@ L@ A@1@O
+Completa la serie: A2Z26, C4X24, E6V22, ...@ G8T20@ G8U20@ F8T20@ G8S20@1@G8T20
+Completa la serie: ? 54 D 49 T 44 C 39 C 34 S 29 S ? O@ U, 24@ B, 30@ C, 27@ X, 26@1@U, 24
+Qué letra sigue la serie (valen las letras dobles) C, D, O, P, G, H, RR, S, K ...@ L@ J@ M@ B@1@L
