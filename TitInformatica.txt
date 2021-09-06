@@ -1,3 +1,6 @@
-1@Ordenadores@Informatica01.txt
+1@Ordenador@Informatica01.txt
 2@Hoja de cálculo@Informatica02.txt
 3@Procesador de texto@Informatica03.txt
+4@Internet@Informatica04.txt
+5@Correo electrónico@Informatica05.txt
+6@Bases de Datos@Informatica06.txt
