@@ -1,4 +1,4 @@
-¿Cuál de las siguientes funcionalidades no permiten los procesadores de texto?@Pasar el texto incluido en una imagen a texto del documento.@Modificar de vertical a apaisado el formato del documento.@Presentar en pantalla una vista previa del documento a imprimir.@Crear un índice del documento de forma automática.@1@Pasar el texto incluido en una imagen a texto del documento.
+¿Cuál de las siguientes funcionalidades no permiten los procesadores de texto?@Pasar el texto incluido en una imagen a texto.@Modificar el formato del documento de vertical a apaisado.@Presentar en pantalla una vista previa del documento a imprimir.@Crear un índice del documento de forma automática.@1@Pasar el texto incluido en una imagen a texto.
 Desde un procesador de texto, por ejemplo, Microsoft Word, ¿se pueden crear ficheros en formato HTML?@Depende del tamaño del fichero.@Se necesita un módulo especial en el sistema operativo.@Sí.@No.@3@Sí.
 Señale que permite el botón  de la barra de herramientas estándar de Microsoft Word:@Obtener un cuadro de diálogo en el que se indicará a la aplicación con qué hoja de cálculo de Microsoft Excel se quiere enlazar el documento.@Insertar una tabla en el documento.@Insertar una hoja de Microsoft Excel.@Convertir una tabla de Word previamente seleccionada en una hoja de Microsoft Excel.@3@Insertar una hoja de Microsoft Excel.
 Señale la afirmación correcta. La seguridad de Microsoft Word:@Obliga a que las contraseñas contengan números y letras.@Permite guardar un documento sólo con contraseñas de lectura y escritura iguales.@Obliga a que las contraseñas tengan un mínimo de cuatro caracteres.@Permite guardar un documento con contraseña de lectura y escritura diferentes.@4@Permite guardar un documento con contraseña de lectura y escritura diferentes.
@@ -6,20 +6,18 @@ Señale qué extensión tienen las plantillas de Word:@.pla@.txt@.doc@.dot@4@.do
 Señale cuál de las siguientes combinaciones de teclas (método abreviado) permite cambiar una palabra seleccionada a mayúsculas o a minúsculas:@CTRL+M@MAYÚS+F3@CTRL+Y@CTRL+<@2@MAYÚS+F3
 Las aplicaciones de Windows "Block de Notas" o " Notepad" son?@Aplicaciones web.@Bases de datos.@Editores de texto.@Hojas de cálculo.@3@Editores de texto.
 Es el procesador de texto mas empleado en el mundo.@Windows.@Power Point.@xcel.@Word.@4@Word.
-Es la primera etapa para la elaboración de un documento@Escritura.@Corrección.@Impresión.@Planteamiento.@4@Planteamiento.
-Programa computacional que sirve para crear documentos con texto, tablas, gráficos e imágenes@Procesador de Imágenes.@Edición de Libros.@Procesador de Textos.@Hoja de Cálculo.@3@Procesador de Textos.
-Procedimiento que se usa para agregar diferentes elementos en un documento@Corrección.@Seguridad.@Vinculación.@Inserción.@4@Inserción.
+Programa que sirve para crear documentos con texto, tablas, gráficos e imágenes.@Procesador de Imágenes.@Edición de Libros.@Procesador de Textos.@Hoja de Cálculo.@3@Procesador de Textos.
+Procedimiento que se usa para agregar diferentes elementos en un documento.@Corrección.@Seguridad.@Vinculación.@Inserción.@4@Inserción.
 Se emplea para relacionar palabras, párrafos, imágenes con archivos.@Relaciones.@Hipervínculos.@Correo.@Web@2@Hipervínculos.
 Proceso para corregir los errores de un documento.@Formateo@Impresión@Edición@Almacenamiento@3@Edición
 Uno de los elementos que pueden insertarse en un documento es:@Aplicación@Imagen@Presentación@Comando.@2@Imagen.
 Permite establecer el tamaño, orientación del papel y los márgenes, para las paginas de un documento:@Configuración.@Medición.@Planteamineto.@Forma@1@Configuración.
 Una de las formas de proteger el contenido de un documento:@Respaldarlo.@Cortarlo.@Enviarlo.@Eliminarlo.@1@Respaldarlo.
 El procesador de textos no emplea:@Texto@Presentaciones@Símbolos@Tablas@2@Presentaciones.
-Lo primero que se debe hacer antes de iniciar la creación de un documento Word es:@Centrar el texto.@Guardar el documento.@Configurar la página.@Ninguna de las anteriores.@3@Configurar la página.
 ¿Para qué se utiliza la herramienta NEGRITA?@Para cambiar el color de la fuente.@Para cambiar el estilo de la fuente.@Para resaltar el texto.@Para resaltar la letra capital.@3@Para resaltar el texto.
-¿En qué ficha (pestaña) se encuentran los bordes de página?@Ficha Insertar.@Ficha Inicio.@Ficha Correspondencia.@Ficha Diseño.@4@Ficha Diseño.
+¿En qué pestaña se encuentra la información referente a los bordes de página?@Pestaña Insertar.@Pestaña Inicio.@Pestaña Correspondencia.@Pestaña Diseño.@4@Pestaña Diseño.
 ¿Qué debemos hacer para aplicar un borde de página, solamente en la primera página?@Seleccionar \"Aplicar a esta sección-sólo la primera página\".@Ubicarte en la primera página.@Eliminar los demás bordes.@No se puede hacer eso.@1@Seleccionar \"Aplicar a esta sección-sólo la primera página\".
-Es la primera página del documento que contiene datos como título y autor. Se aplica desde la ficha (pestaña) Insertar:@Primera página.@Pie de página.@Encabezado.@Portada.@4@Portada.
+Es la primera página del documento que contiene datos como título y autor. Se aplica desde la pestaña Insertar:@Primera página.@Pie de página.@Encabezado.@Portada.@4@Portada.
 ¿Cuál es la función que nos permite crear listas utilizando únicamente símbolos?@Numeración.@Ortografía.@Viñetas.@Pie de página.@3@Viñetas.
 ¿Cuál es la función que nos permite corregir las palabras mal escritas?@Negrita.@Ortografía.@Encabezado y pie de pagina.@Gramática.@2@Ortografía.
 ¿Cuál es la función que nos permite realizar listas utilizando los números?@Ortografía.@Numeración.@Viñetas.@Pie de página.@2@Numeración.

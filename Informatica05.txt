@@ -35,5 +35,8 @@ En Microsoft Outlook, ¿Con qué método abreviado se puede crear una cita o con
 En Microsoft Outlook, ¿Con qué método abreviado se puede responder a una convocatoria de reunión con un mensaje?. @CTRL + Shift (Mayúsculas) + M@CTRL + Shift (Mayúsculas) + T@CTRL+3@CTRL + Shift (Mayúsculas) + R@4@CTRL + Shift (Mayúsculas) + R
 En Microsoft Outlook, ¿Con qué método abreviado se puede buscar un contacto?. @Insert@F10@CTRL+Fin@F11@4@F11
 ¿Qué tipos de datos puede enviar por correo electrónico?@ Audio y video.@ Imágenes.@ Texto.@ Todas las anteriores.@4@ Todas las anteriores.
- ¿Qué son los SPAM?@ Son mensajes no solicitados, no deseados o de remitentes no conocidos.@ Son mensajes de remitentes conocidos con avisos de publicidad.@ Es una sigla en inglés que significa Sistema de Alerta Mensaje Publicidad.@ Es un motor de búsqueda de Internet.@1@ Son mensajes no solicitados, no deseados o de remitentes no conocidos.
+ ¿Qué son los SPAM?@ Son mensajes no solicitados, no deseados o de remitentes no conocidos.@ Son mensajes de remitentes conocidos con avisos de publicidad.@ Es una sigla en inglés que significa Sistema de Alertas de Mensaje de Publicidad.@ Es un motor de búsqueda de Internet.@1@ Son mensajes no solicitados, no deseados o de remitentes no conocidos.
 ¿Con qué método abreviado se escribe el carácter Arroba?. @CTRL + Shift (Mayúsculas) + M@Alt Gr+1@Alt Gr+3@Alt Gr+2@4@Alt Gr+2
+¿Qué protocolo es utilizado por disitintos clientes de correo electrónico?.@UDP@TCP@POP3@SSH@3@POP3
+Protocolo estándar para el acceso a correos electrónicos alojados en un servidor web.@UDP@TCP@HTTP@IMAP@4@IMAP
+¿Cuál de los indicados no es un protocolo relacionado con correo electrónico?@ARP@IMAP@SMTP@POP3@1@ARP
