@@ -1,43 +1,43 @@
-¿Cuál de las siguientes funcionalidades no permiten los procesadores de texto?@Pasar el texto incluido en una imagen a texto del documento@Modificar de vertical a apasaido el formato del documento@Presentar en pantalla una vista previa del documento a imprimir@Crear un índice del documento de forma automática@1@Pasar el texto incluido en una imagen a texto del documento
-Desde un procesador de texto, por ejemplo, Microsoft Word, ¿se pueden crear ficheros en formato HTML?@Depende del tamaño del fichero@Se necesita un módulo especial en el sistema operativo@Sí@No@3@Sí
+¿Cuál de las siguientes funcionalidades no permiten los procesadores de texto?@Pasar el texto incluido en una imagen a texto del documento.@Modificar de vertical a apaisado el formato del documento.@Presentar en pantalla una vista previa del documento a imprimir.@Crear un índice del documento de forma automática.@1@Pasar el texto incluido en una imagen a texto del documento.
+Desde un procesador de texto, por ejemplo, Microsoft Word, ¿se pueden crear ficheros en formato HTML?@Depende del tamaño del fichero.@Se necesita un módulo especial en el sistema operativo.@Sí.@No.@3@Sí.
 Señale que permite el botón  de la barra de herramientas estándar de Microsoft Word:@Obtener un cuadro de diálogo en el que se indicará a la aplicación con qué hoja de cálculo de Microsoft Excel se quiere enlazar el documento.@Insertar una tabla en el documento.@Insertar una hoja de Microsoft Excel.@Convertir una tabla de Word previamente seleccionada en una hoja de Microsoft Excel.@3@Insertar una hoja de Microsoft Excel.
 Señale la afirmación correcta. La seguridad de Microsoft Word:@Obliga a que las contraseñas contengan números y letras.@Permite guardar un documento sólo con contraseñas de lectura y escritura iguales.@Obliga a que las contraseñas tengan un mínimo de cuatro caracteres.@Permite guardar un documento con contraseña de lectura y escritura diferentes.@4@Permite guardar un documento con contraseña de lectura y escritura diferentes.
 Señale qué extensión tienen las plantillas de Word:@.pla@.txt@.doc@.dot@4@.dot
 Señale cuál de las siguientes combinaciones de teclas (método abreviado) permite cambiar una palabra seleccionada a mayúsculas o a minúsculas:@CTRL+M@MAYÚS+F3@CTRL+Y@CTRL+<@2@MAYÚS+F3
-La aplicación de Windows "Block de Notas" o " Notepad" es?@Aplicaciones web.@Bases de datos.@Editores de texto.@Hojas de cálculo.@3@Editores de texto.
-Es el procesador de textos mas empleado en el mundo@ Windows@ Powert Point@ Excel@ Word@4@ Word
-Es la primera etapa para la elaboración de un documento@ Escritura@ Correccion@ Impresion@ Planeacion@4@ Planeacion
-Programa Computacional que sirve para crear documentos con texto, tablas, gráficos e imagenes@ Procesador de Imagenes@ Edicion de Libros@ Procesador de Textos@ Hoja de Cálculo@3@ Procesador de Textos
-Procedimiento que se usa para agregar diferentes elementos en un documento@ Corrección@ Seguridad@ Vinculacion@ Inserción@4@ Inserción
-Se emplea para relacionar palabras, párrafos, imágenes con archivos@ Relaciones@ Hipervinculos@ Correo@ Web@2@ Hipervinculos
-Proceso para corregir los errores de un documento@ Formateo@ Impresión@ Edicion@ Almacenamiento@3@ Edicion
-Uno de los elementos que pueden insertarse en un documento es@ Apicacion@ Imagen@ Presentacion@ Comando@2@ Imagen
-Permite establecer el tamaño, orientación del papel y los margenes, para las paginas de un documento@ Configuración@ Medición@ Planeacion@ Forma@1@ Configuración
-Una de las formas de proteger el contenido de un documento@ Respaldarlo@ Cortarlo@ Enviarlo@ Eliminarlo@1@ Respaldarlo
-El procesador de textos no emplea@ Texto@ Presentaciones@ Simbolos@ Tablas@2@ Presentaciones
-Lo primero que se debe hacer antes de iniciar la creación de un documento Word es@ Centrar el texto@ Guardar el documento@ Configurar la página@ Ninguna de las anteriores@3@ Configurar la página
-¿Para qué se utiliza la herramienta NEGRITA?@ Para cambiar el color de la fuente@ Para cambiar el estilo de la fuente@ Para resaltar el texto@ Para resaltar la letra capital@3@ Para resaltar el texto
-¿En qué ficha (pestaña) se encuentran los bordes de página?@ Ficha insertar@ Ficha Inicio@ Ficha correspondencia@ Ficha diseño de página@4@ Ficha diseño de página
-¿Qué debemos hacer para aplicar un borde de página, solamente en la primera página?@ Seleccionar \"Aplicar a esta sección-sólo la primera página\"@ Ubicarte en la primera página@ Eliminar los demás bordes@ No se puede hacer eso@1@ Seleccionar \"Aplicar a esta sección-sólo la primera página\"
-Es la primera página del documento que contiene datos como título y autor. Se aplica desde la ficha (pestaña) insertar:@ Primera página@ Sobre@ Encabezado@ Portada@4@ Portada
-¿Cuál e la función que nos permite crear listas utilizando únicamente símbolos?@ Numeración@ Ortografía@ Viñetas@ Pie de página@3@ Viñetas
-¿Cuál es la función que nos permite corregir las palabras mal escritas?@ Negrita@ Ortografía@ Encabezado y pie de pagina@ Gramática@2@ Ortografía
-¿Cuál es la función que nos permite realizar listas utilizando los números?@ Ortografía@ Numeración@ Viñetas@ Pie de página@2@ Numeración
-¿Cuál es el color que Microsoft Office Word utiliza para resaltar mala ortografía?@ Verde@ Azul@ Amarillo@ Rojo@4@ Rojo
-¿Cuál es el color que Microsoft Office Word utiliza para resaltar la gramática incorrecta?@ Verde@ Azul@ Amarillo@ Rojo@1@ Verde
-¿Cuál es el color que Microsoft Office Word utiliza para resaltar los errores de acentuación?@ Verde@ Azul@ Amarillo@ Rojo@2@ Azul
-Metodo abreviado para Guardar un documento en Word@ CTRL + U@ CTRL + A@ CTRL + G@ CTRL + S@3@ CTRL + G
-Se desea cambiar los márgenes al documento con las siguientes medidas superior e inferior 2, izquierdo 4 y derecho 2.5@ Ficha diseño de pagina -grupo configurar pagina- margenes - margenes personalizados@ Ficha diseño de pagina- parrafo- grupo configurar pagina - margenes - margenes personalizados@ Margenes personalizados - parrafo-grupo configurar pagina- margenes@ Ficha diseño de pagina -grupo configurar pagina- margenes - tamaño de la pagina@2@ Ficha diseño de pagina- parrafo- grupo configurar pagina - margenes - margenes personalizados
-Se desea agregar Borde de pagina seleccione los pasos correctos.@ Ficha diseño de pagina- clic en bordes de pagina - arte- elegir el diseño- aplicar a todo el documento - aceptar@ Ficha diseño de pagina- clic en bordes de pagina -sombreado -aplicar a todo el documento - aceptar@ Ficha diseño de pagina- clic en bordes de pagina -color -aplicar a todo el documento - aceptar@ Ficha diseño de pagina- clic en bordes de pagina - arte- elegir el diseño - aplicar a todo el documento -aceptar@1@ Ficha diseño de pagina- clic en bordes de pagina - arte- elegir el diseño- aplicar a todo el documento - aceptar
-¿Cómo se le llama a la hoja que usamos en Word?@ Hoja de cálculo@ Página@ Diapositiva@ Web@2@ Página
-¿En Word cómo se le llama al tipo de letra que utilizamos?@ Fuente@ Letra@ Texto@ Escritura@1@ Fuente
-¿Cuál es el comando para pegar texto?@ CTRL + C@ CTRL + K@ CTRL + S@ CTRL + V@4@ CTRL + V
-Los archivos que se crean en Word son conocidos como@ Textos@ Documentos@ Archivos@ Registros@2@ Documentos
-Es el área donde se puede crear todo tipo de documentos@ Hoja en blanco@ Hojas@ Espacio libre@ Área de trabajo@4@ Área de trabajo
-¿Cuál es la extensión que genera los archivos de Word ?@ .DOCM@ .DOXM@ .DOCX@ .DCX@3@ .DOCX
-Dentro de esta barra podemos visualizar el título del tema que se está trabajando@ Barra de nombres@ Barra de opciones@ Barra de cintas@ Barra de título@4@ Barra de título
-Combinación de teclas que permite activar la ventana de opciones buscar@ Control + G@ Control + B@ Control + A@ Control + D@2@ Control + B
-Combinación de teclas que permite copiar un párrafo@ Control + C@ Control + M@ Control + A@ Control + D@1@ Control + C
-Permite visualizar el estado actual del documento que se encuentra activo@ Barra de nombres@ Barra de opciones@ Barra de cintas@ Barra de estado@4@ Barra de estado
-Esta tecla permite dejar espacio entre cada letra que se escribe@ Tecla enter@ Tecla F7@ Barra de opciones@ Barra espaciadora@4@ Barra espaciadora
-¿Cuándo Abrimos Word que menú es el que nos aparece Inicialmente?@ Archivo@ Inicio@ Herramientas@ Edición@2@ Inicio
+Las aplicaciones de Windows "Block de Notas" o " Notepad" son?@Aplicaciones web.@Bases de datos.@Editores de texto.@Hojas de cálculo.@3@Editores de texto.
+Es el procesador de texto mas empleado en el mundo.@Windows.@Power Point.@xcel.@Word.@4@Word.
+Es la primera etapa para la elaboración de un documento@Escritura.@Corrección.@Impresión.@Planteamiento.@4@Planteamiento.
+Programa computacional que sirve para crear documentos con texto, tablas, gráficos e imágenes@Procesador de Imágenes.@Edición de Libros.@Procesador de Textos.@Hoja de Cálculo.@3@Procesador de Textos.
+Procedimiento que se usa para agregar diferentes elementos en un documento@Corrección.@Seguridad.@Vinculación.@Inserción.@4@Inserción.
+Se emplea para relacionar palabras, párrafos, imágenes con archivos.@Relaciones.@Hipervínculos.@Correo.@Web@2@Hipervínculos.
+Proceso para corregir los errores de un documento.@Formateo@Impresión@Edición@Almacenamiento@3@Edición
+Uno de los elementos que pueden insertarse en un documento es:@Aplicación@Imagen@Presentación@Comando.@2@Imagen.
+Permite establecer el tamaño, orientación del papel y los márgenes, para las paginas de un documento:@Configuración.@Medición.@Planteamineto.@Forma@1@Configuración.
+Una de las formas de proteger el contenido de un documento:@Respaldarlo.@Cortarlo.@Enviarlo.@Eliminarlo.@1@Respaldarlo.
+El procesador de textos no emplea:@Texto@Presentaciones@Símbolos@Tablas@2@Presentaciones.
+Lo primero que se debe hacer antes de iniciar la creación de un documento Word es:@Centrar el texto.@Guardar el documento.@Configurar la página.@Ninguna de las anteriores.@3@Configurar la página.
+¿Para qué se utiliza la herramienta NEGRITA?@Para cambiar el color de la fuente.@Para cambiar el estilo de la fuente.@Para resaltar el texto.@Para resaltar la letra capital.@3@Para resaltar el texto.
+¿En qué ficha (pestaña) se encuentran los bordes de página?@Ficha Insertar.@Ficha Inicio.@Ficha Correspondencia.@Ficha Diseño.@4@Ficha Diseño.
+¿Qué debemos hacer para aplicar un borde de página, solamente en la primera página?@Seleccionar \"Aplicar a esta sección-sólo la primera página\".@Ubicarte en la primera página.@Eliminar los demás bordes.@No se puede hacer eso.@1@Seleccionar \"Aplicar a esta sección-sólo la primera página\".
+Es la primera página del documento que contiene datos como título y autor. Se aplica desde la ficha (pestaña) Insertar:@Primera página.@Pie de página.@Encabezado.@Portada.@4@Portada.
+¿Cuál es la función que nos permite crear listas utilizando únicamente símbolos?@Numeración.@Ortografía.@Viñetas.@Pie de página.@3@Viñetas.
+¿Cuál es la función que nos permite corregir las palabras mal escritas?@Negrita.@Ortografía.@Encabezado y pie de pagina.@Gramática.@2@Ortografía.
+¿Cuál es la función que nos permite realizar listas utilizando los números?@Ortografía.@Numeración.@Viñetas.@Pie de página.@2@Numeración.
+¿Cuál es el color que Microsoft Office Word utiliza para resaltar mala ortografía?@Verde.@Azul.@Amarillo.@Rojo.@4@Rojo.
+¿Cuál es el color que Microsoft Office Word utiliza para resaltar la gramática incorrecta?@Verde.@Azul.@Amarillo.@Rojo.@1@Verde.
+¿Cuál es el color que Microsoft Office Word utiliza para resaltar los errores de acentuación?@Verde.@Azul.@Amarillo.@Rojo.@2@Azul.
+Método abreviado para Guardar un documento en Word@CTRL + U@CTRL + A@CTRL + G@CTRL + S@3@CTRL + G
+Se desea cambiar los márgenes al documento con las siguientes medidas superior e inferior 2, izquierdo 4 y derecho 2.5@Ficha diseño de pagina -grupo configurar pagina- márgenes - márgenes personalizados.@Ficha diseño de pagina- párrafo- grupo configurar pagina - márgenes - márgenes personalizados.@Márgenes personalizados - párrafo-grupo configurar pagina- márgenes.@Ficha diseño de pagina -grupo configurar pagina- márgenes - tamaño de la pagina.@2@Ficha diseño de pagina- párrafo- grupo configurar pagina - márgenes - márgenes personalizados.
+Se desea agregar Borde de página seleccione los pasos correctos.@Ficha diseño de pagina- clic en bordes de pagina - arte- elegir el diseño- aplicar a todo el documento - Aceptar.@Ficha diseño de pagina- clic en bordes de pagina -sombreado -aplicar a todo el documento - Aceptar.@Ficha diseño de pagina- clic en bordes de pagina -color -aplicar a todo el documento - Aceptar.@Ficha diseño de pagina- clic en bordes de pagina - arte- elegir el diseño - aplicar a todo el documento -Aceptar.@1@Ficha diseño de pagina- clic en bordes de pagina - arte- elegir el diseño- aplicar a todo el documento - Aceptar.
+¿Cómo se le llama a la hoja que usamos en Word?@Hoja de cálculo.@Página.@Diapositiva.@Web.@2@Página.
+¿En Word cómo se le llama al tipo de letra que utilizamos?@Fuente.@Letra.@Texto.@Escritura.@1@Fuente.
+¿Cuál es el comando para pegar texto?@CTRL + C@CTRL + K@CTRL + S@CTRL + V@4@CTRL + V
+Los archivos que se crean en Word son conocidos como:@Textos.@Documentos.@Archivos.@Registros.@2@Documentos.
+Es el área donde se puede crear todo tipo de documentos:@Hoja en blanco.@Hojas.@Espacio libre.@Área de trabajo.@4@Área de trabajo.
+¿Cuál es la extensión que genera los archivos de Word ?@.DOCM@.DOXM@.DOCX@.DCX@3@.DOCX
+Dentro de esta barra podemos visualizar el título del tema que se está trabajando@Barra de nombres@Barra de opciones@Barra de cintas@Barra de título@4@Barra de título
+Combinación de teclas que permite activar la ventana de opciones buscar@Control + G@Control + B@Control + A@Control + D@2@Control + B
+Combinación de teclas que permite copiar un párrafo:@Control + C.@Control + M.@Control + A.@Control + D.@1@Control + C.
+Permite visualizar el estado actual del documento que se encuentra activo:@Barra de nombres.@Barra de opciones.@Barra de cintas.@Barra de estado.@4@Barra de estado.
+Esta tecla permite dejar espacio entre cada letra que se escribe:@Tecla Enter o Intro.@Tecla F7.@Barra de opciones.@Barra espaciadora.@4@Barra espaciadora.
+Cuándo abrimos Word, ¿qué menú es el que nos aparece Inicialmente?@Archivo.@Inicio.@Herramientas.@Edición.@2@Inicio.
