@@ -23,3 +23,6 @@ Continúa la secuencia 3, 9, 7, 21, 18,@ 39@ 31@ 19@ 54@4@54
 Sigue la secuencia 6, 7, 10, 11, 14, 15, ?@ 18@ 15@ 19@ 16@1@18
 Ordenar de mayor a menor las siguientes fracciones: 4/6, 1/2, 5/12, 11/24:@5/12, 4/6, 11/24, 5/12@1/2, 4/6, 11/24, 5/12@4/6, 1/2, 11/24, 5/12@11/24, 5/12, 4/6, 1/2@3@4/6, 1/2, 11/24, 5/12
 En la serie de fracciones 3/5, 9/10, 27/20 el criterio de formación resulta de dividir la fracción anterior por 2/3. Según este criterio, ¿cuál sería el término anterior a 3/5 y posterior a 27/20?@2/5, 81/40@1/1, 80/40@1/4, 54/30@1/6, 64/40@1@2/5, 81/40
+ Complete la serie numérica 7 – 3 – 21 – 3 – @72@147@28@63@4@63
+ Dadas las siguientes equivalencias: d=0001, f=0010, g=0100, h=1000, i=011, j=0101. ¿Qué serie de letras corresponde a la siguiente serie de números: 0010100000011000?@h-d-f-g@d-i-d-g@f-i-g-h@f-h-d-h@4@f-h-d-h
+ Complete la serie de números con las operaciones correspondientes: 56_4_2 = 2@x , –@/ , +@/ , –@d / , x@4@d / , x

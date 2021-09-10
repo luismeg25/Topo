@@ -1,25 +1,3 @@
-Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. ¿Cuántas revistas imprime la máquina M2 más que la M1 en 5 días?@300@1200@1500@600@3@1500
-Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. ¿Cuántos días aproximadamente llevará la impresión de todas las revistas?@130@845@105@139@4@139
-Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. Si cada revista consume una cantidad de tinta por valor de 0,8 euros, ¿cuál es el valor de la tinta consumida diariamente por la máquina M3?@234 euros@390 euros@384 euros@288 euros@4@288 euros
-Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. La imprenta necesita acabar el trabajo en 90 días y decide encargar a otra empresa la impresión de las revistas que no puede hacer por sus propios medios. ¿Cuántas revistas tendrá que encargar a la empresa externa?@18200@27700@44000@37000@3@44000
-Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Si la máquina M3 permaneciera parada por avería durante 10 días, transcurridos los cuales continuara imprimiendo a su ritmo normal, ¿cuánto se habría alargado el plazo de impresión de las revistas?@Menos de 3 días@Más de 7 días@Entre 6 y 7 días@Entre 3 y 5 días@4@Entre 3 y 5 días
-Indique el valor que completa la siguiente operación: 1606,55 : 25,4 = @63,25@52,75@73,25@52,5@1@63,25
-Indique el valor que completa la siguiente operación: 35,7% de 32@127,196@117,96@117,096@210,904@3@117,096
- Indique el valor que completa la siguiente operación: raiz cuadrada de 1357,1856@36,84@36,34@34,84@34,94@1@36,84
-Indique el valor que completa la siguiente operación: 3150/28 + ? = 4725/21 + 791/7:@451/3@902/2@3608/16@2366/7@3@3608/16
-Averigua las incógnitas para que el resultado de la operación sea el correcto: 6 ? ? x ? = -34@ -, 23, 2@ x, 2, 4@ +, 6, 6@ -, 10, 4@4@-, 10, 4
-¿Cuál es el máximo común divisor de: 18 y 24?@ 48@ 6@ 3@ 72@2@6
-La suma de dos números es 14. Añadiendo 1 al mayor se obtiene el doble del menor. ¿Cuál es el menor?@ 6@ 5@ 8@ 7@2@5
-Ana dice a su hija Beatriz: Hace 7 años mi edad era 5 veces la tuya, pero ahora sólo es el triple. ¿Qué edad tiene Ana?@ 38 años@ 35 años@ 40 años@ 42 años@4@42 años
-Averigua las incógnitas para que el resultado de la operación sea el correcto: ? ? ? - ? = 22@ 5, x, 5, 2@ 2, x, 6, 1@ 7, +, 12, 6@ 6, x, 4, 2@4@6, x, 4, 2
-Realiza la siguiente operación: (4 + 3/5) / (2/3 - 1/8) = ?@ -247/130@ 552/65@ 432/130@ 19/13@2@552/65
-Un cajón lleno de bolas pesa 69 kilos y vacío 7 kilos. ¿Cuánto pesan las bolas?@ 1 kilo cada bola@ 60 kilos@ 69 kilos@ 62 kilos@4@62 kilos
-¿Cuál es el resultado de la siguiente operación: 3.127 + 0,032 + 5,1 + 11,001?:@3139,253@3143,133@3145,113@3141,273@2@3143,133
-El resultado de la siguiente expresión numérica "- (-3) - [2 - (-5+7) - 4] - (+2) + (-5-3)", es:@3@-13@-3@0@3@-3
-El mínimo común múltiplo de los números: 18, 24, 20 y 9, resulta ser:@290@540@360@600@3@360
-Se desea imprimir dos copias de un fichero de texto de 300 páginas con 36 líneas por página. Si se dispone de dos impresoras con velocidades, respectivamente, de 2 páginas por minuto y de 72 líneas por minuto, ¿en cuánto tiempo se puede hacer el trabajo?@2 horas@300 minutos@150 minutos@210 minutos@3@150 minutos
-Un centro gestor ha ejecutado el 78% de su asignación presupuestaria total, devolviendo al Tesoro Público el resto, que asciende a 220.000.000 de pesetas. ¿Cuál es el crédito total asignado al Centro Gestor en el ejercicio económico siguiente si han sido aprobados los Presupuestos Generales del Estado con una subida del 2% sobre el ejercicio anterior?@1020000000@1200000000@1022000000@1120000000@1@1020000000
-Una oficina del TNEM tramita en un año un determinado número de solicitudes de empleo. Dicho número está comprendido entre 20.000 y 30.000 y es múltiplo de 5, 7, 8, 9 y 11 a la vez. ¿De qué número se trata?@27720@29700@23760@25200@1@27720
 Señale la opción que tenga un significado MAS PARECIDO al de la palabra MARISMA:@Planicie@Despeñadero@Albufera@Secarral@3@Albufera
 Señale la opción que tenga un significado MAS PARECIDO al de la palabra HEDOR:@Aura@Aroma@Fetidez@Transpiración@3@Fetidez
 Señale la opción que tenga un significado MAS PARECIDO al de la palabra REMISO:@Melindroso@Irresoluto@Diligente@Cauto@2@Irresoluto
@@ -27,8 +5,8 @@ Señale la opción que tenga un significado MAS PARECIDO al de la palabra DENOST
 Señale la opción que tenga un significado MAS PARECIDO al de la palabra SOLÍCITO:@Cuidadoso@Imponente@Rendido@Firme@1@Cuidadoso
 Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No hay _____ para poder concederle lo _____ .@precedentes / solicitado@inconbeniente / pedido@motibos /generado@razones / acostunbrado@1@precedentes / solicitado
 Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “Los métodos contables _____ no difieren en _____ de los clásicos.@nombrados / algo@actuales / exceso@anteriores / demasiado@antigüos / demasía@2@actuales / exceso
- Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No hay ______ excluyentes cuando los asuntos son de ______ importancia.@solicitudes / otra@ventajas / gran@precedentes / menos@razones / vital@4@razones / vital
- Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “Muchos trabajadores ______ inicialmente los protectores oculares a causa de las inadecuadas campañas de ______.@prescindieron / publicidad@prescindirán / anuncios@renegaron / marketing@rechazarán / información@4@rechazarán / información
+Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No hay ______ excluyentes cuando los asuntos son de ______ importancia.@solicitudes / otra@ventajas / gran@precedentes / menos@razones / vital@4@razones / vital
+Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “Muchos trabajadores ______ inicialmente los protectores oculares a causa de las inadecuadas campañas de ______.@prescindieron / publicidad@prescindirán / anuncios@renegaron / marketing@rechazarán / información@4@rechazarán / información
 ¿Qué palabra significa lo mismo que «enervar»?@ Tranquilizar.@  Fortalecer.@    Indisponer.@    Debilitar.@4@Debilitar.
 ¿Cuál es el antónimo de «entusiasta»?@ Ingenuo.@ Frio.@ Fogoso.@ Vehemente.@2@Frio.
 .......... es a «principio» como «muerte» es a ..........@ Inicio - Cadáver.@ Nacimiento - Fin.@ Meta - Transcurso.@ Vida - Final.@2@Nacimiento - Fin.
@@ -82,31 +60,48 @@ Atendiendo a su acentuación gráfica, ¿cuál de los siguientes pares de palabr
 Un determinado Organismo concede un premio de jubilación a tres empleados, al cumplir 65 años de edad, de forma directamente proporcional a sus años de servicio, que son 30, 45 y 25 años. Si el importe total del premio es de 540.000 pesetas, ¿cuánto le corresponderá, respectivamente, a cada uno?@135.000, 202.500, 112.500@125.000, 207.000, 118.000@135.000, 202.500, 113.500@135.000, 205.000, 109.500@1@135.000, 202.500, 112.500
 Las oposiciones a tres Cuerpos A, B y C de la Administración General del Estado se celebran cada 6 meses, 1 año y 2 meses, y 2 años, respectivamente. Si en la Oferta de Empleo Público para el año 2.000, las 3 oposiciones se realizan simultáneamente, ¿al cabo de cuánto tiempo volverán a coincidir?@15 años@12 años y 2 meses@3 años y 6 meses@14 años@4@14 años
 Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No estamos para abordar la .”@satisfechos / mecanografía@echos / pregunta@listos / situación@preparados / crisis@4@preparados / crisis
-Qué número sigue la secuencia 2, 7, 4, 9, 8, 11,@13@28@10@16@4@16
-Sigue la secuencia 3, 12, 3, 11, 3, 8, 3, ?@6@4@3@5@4@5
-Continúa la secuencia 18, 15, 12, 9, 6,@3@5@4@2@1@3
-Continúa la secuencia 16, 17, 22, 24, 29, 32,@42@37@34@44@2@37
-Encuentra el numero que completa la serie (-1) - 2 - 7 - 14 - ?@34@46@26@23@4@23
-Sigue la secuencia 4, 6, 9, 13, 18, ?@19@21@24@15@3@24
-Qué número sigue la secuencia 16, 8, 32, 16, 64,@16@4@8@32@4@32
-Encuentra el número que sigue la secuencia 13, 26, 52, 104, 208,@312@260@416@326@3@416
-Encuentra el número que sigue la secuencia 16, 7, 8, 3.5,@4@32@2.5@3@1@4
-Sigue la serie 2187, 729, 243, 81,@36@27@9@18@2@27
-Sigue la secuencia 3, 5, 2, 7, 1, 9, ?@6@10@1@0@4@0
-Indica qué dos números siguen la serie 66, 63, 65, 62, 64, 61,@59, 60@63, 60@60, 59@60, 63@2@63, 60
-Encuentra el numero que completa la serie 3 - 12 - 5 - ? - 8 - 16 - 9 - 9 - 2@15@14@6@21@1@15
-En la siguiente serie hay un número equivocado, que no corresponde con la serie. Señala el número que debería ir en su lugar: 4, 8, 16, 3, 9, 27, 2, 8, 64@10@8@32@6@3@32
-Completa la serie: 2, 10, 5, ?, 20, 100, 95, 475, ?@15, 450@10, 95@25, 470@25, 95@3@25, 470
-Dada la serie: 0 - 3 - 8 - 6 - 9 - 14 - 16 - 15 - ... señalar qué número está equivocado:@16@14@09@15@1@16
-Continúa la secuencia 25, 1, 24, 2, 23,@3@21@22@4@1@3
-Qué número sigue la secuencia 25, 50, 100, 200, 400,@700@600@1600@800@4@800
-En la siguiente serie hay un número equivocado, que no corresponde con la serie. Señala el número que debería ir en su lugar: 2, 6, 9, 27, 30, 33, 99@18@66@3@81@3@3
-Sigue la secuencia 7, 7, 11, 6, 15, 5, ?@13@19@4@14@2@19
-Sigue la secuencia 4, 6, 9, 13, 18, ?@ 21@ 15@ 19@ 24@4@24
-Continúa la secuencia 3, 9, 7, 21, 18,@ 39@ 31@ 19@ 54@4@54
-Sigue la secuencia 6, 7, 10, 11, 14, 15, ?@ 18@ 15@ 19@ 16@1@18
-Ordenar de mayor a menor las siguientes fracciones: 4/6, 1/2, 5/12, 11/24:@5/12, 4/6, 11/24, 5/12@1/2, 4/6, 11/24, 5/12@4/6, 1/2, 11/24, 5/12@11/24, 5/12, 4/6, 1/2@3@4/6, 1/2, 11/24, 5/12
-En la serie de fracciones 3/5, 9/10, 27/20 el criterio de formación resulta de dividir la fracción anterior por 2/3. Según este criterio, ¿cuál sería el término anterior a 3/5 y posterior a 27/20?@2/5, 81/40@1/1, 80/40@1/4, 54/30@1/6, 64/40@1@2/5, 81/40
+¿Cuál de las siguientes opciones tiene un significado más parecido a la palabra REQUERIR?@Desplegar@Trazar@Solicitar@Imbuir@3@Solicitar
+Indique, entre las siguientes palabras, cuál es el antónimo de la palabra AFANOSO@Vago@Gasto@Cocinado@Hablado@1@Vago
+Señale el número de errores ortográficos en la frase siguiente: Los detectores son dispositibos que captan un determinado fenomeno y cuándo el valor sovrepasa un humbral se genera una señal de alarma@3@6@2@5@4@5
+Señale qué palabra corresponde con la siguiente definición: Licencia o consentimiento por hacer o decir algo@Permiso@Alerta@Objetivo@Evento@1@Permiso
+¿Qué par de palabras NO mantiene la relación que encontramos en ANGOSTO y AMPLIO?@Brillante y luminoso@Provisorio y definitivo@Tenaz e Inconstante@Apocado y enérgico@1@Brillante y luminoso
+Señale qué palabra se corresponde con la siguiente definición: Ambiente, lo que rodea@Flujo.@Pantalla.@Entorno.@Página.@3@Entorno.
+Señale qué definición es la que se corresponde con la palabra ANÁLISIS@Estudio, detallado de algo, especialmente de una obra o de un escrito.@Extraer, echar el agua de un sitio o lugar.@Tiempo que ha vivido una persona o ciertos animales o vegetales.@mandato, decreto publicado con autoridad del príncipe o magistrado.@1@Estudio, detallado de algo, especialmente de una obra o de un escrito.
+Indique qué pareja de palabras NO tiene un significado parecido entre sí@Barato – Costoso@Adrede – Aposta@Pobre – Indigente@Honrar – Ensalzar@1@Barato – Costoso
+Señale la palabra que NO pertenece al grupo@Garantía@Fianza@Hipoteca@Envoltura@4@Envoltura
+Señale qué serie indica el orden alfabético correcto de las siguientes palabras@Obeso, Obligar, Objeto, Óbice, Oblicuo@Objeto, Obeso, Obligar, Óbice, Oblicuo@Obligar, Obeso, Objeto, Oblicuo, Óbice@Obeso, Óbice, Objeto, Oblicuo, Obligar@4@Obeso, Óbice, Objeto, Oblicuo, Obligar
+Indique, entre las siguientes palabras, cuál es el antónimo de la palabra OPUESTO@Ducho@Medieval@Idéntico@Prudente@3@Idéntico
+Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. ¿Cuántas revistas imprime la máquina M2 más que la M1 en 5 días?@300@1200@1500@600@3@1500
+Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. ¿Cuántos días aproximadamente llevará la impresión de todas las revistas?@130@845@105@139@4@139
+Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. Si cada revista consume una cantidad de tinta por valor de 0,8 euros, ¿cuál es el valor de la tinta consumida diariamente por la máquina M3?@234 euros@390 euros@384 euros@288 euros@4@288 euros
+Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. La imprenta necesita acabar el trabajo en 90 días y decide encargar a otra empresa la impresión de las revistas que no puede hacer por sus propios medios. ¿Cuántas revistas tendrá que encargar a la empresa externa?@18200@27700@44000@37000@3@44000
+Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Si la máquina M3 permaneciera parada por avería durante 10 días, transcurridos los cuales continuara imprimiendo a su ritmo normal, ¿cuánto se habría alargado el plazo de impresión de las revistas?@Menos de 3 días@Más de 7 días@Entre 6 y 7 días@Entre 3 y 5 días@4@Entre 3 y 5 días
+Indique el valor que completa la siguiente operación: 1606,55 : 25,4 = @63,25@52,75@73,25@52,5@1@63,25
+Indique el valor que completa la siguiente operación: 35,7% de 32@127,196@117,96@117,096@210,904@3@117,096
+Indique el valor que completa la siguiente operación: raiz cuadrada de 1357,1856@36,84@36,34@34,84@34,94@1@36,84
+Indique el valor que completa la siguiente operación: 3150/28 + ? = 4725/21 + 791/7:@451/3@902/2@3608/16@2366/7@3@3608/16
+Averigua las incógnitas para que el resultado de la operación sea el correcto: 6 ? ? x ? = -34@ -, 23, 2@ x, 2, 4@ +, 6, 6@ -, 10, 4@4@-, 10, 4
+¿Cuál es el máximo común divisor de: 18 y 24?@ 48@ 6@ 3@ 72@2@6
+La suma de dos números es 14. Añadiendo 1 al mayor se obtiene el doble del menor. ¿Cuál es el menor?@ 6@ 5@ 8@ 7@2@5
+Ana dice a su hija Beatriz: Hace 7 años mi edad era 5 veces la tuya, pero ahora sólo es el triple. ¿Qué edad tiene Ana?@ 38 años@ 35 años@ 40 años@ 42 años@4@42 años
+Averigua las incógnitas para que el resultado de la operación sea el correcto: ? ? ? - ? = 22@ 5, x, 5, 2@ 2, x, 6, 1@ 7, +, 12, 6@ 6, x, 4, 2@4@6, x, 4, 2
+Realiza la siguiente operación: (4 + 3/5) / (2/3 - 1/8) = ?@ -247/130@ 552/65@ 432/130@ 19/13@2@552/65
+Un cajón lleno de bolas pesa 69 kilos y vacío 7 kilos. ¿Cuánto pesan las bolas?@ 1 kilo cada bola@ 60 kilos@ 69 kilos@ 62 kilos@4@62 kilos
+¿Cuál es el resultado de la siguiente operación: 3.127 + 0,032 + 5,1 + 11,001?:@3139,253@3143,133@3145,113@3141,273@2@3143,133
+El resultado de la siguiente expresión numérica "- (-3) - [2 - (-5+7) - 4] - (+2) + (-5-3)", es:@3@-13@-3@0@3@-3
+El mínimo común múltiplo de los números: 18, 24, 20 y 9, resulta ser:@290@540@360@600@3@360
+Se desea imprimir dos copias de un fichero de texto de 300 páginas con 36 líneas por página. Si se dispone de dos impresoras con velocidades, respectivamente, de 2 páginas por minuto y de 72 líneas por minuto, ¿en cuánto tiempo se puede hacer el trabajo?@2 horas@300 minutos@150 minutos@210 minutos@3@150 minutos
+Un centro gestor ha ejecutado el 78% de su asignación presupuestaria total, devolviendo al Tesoro Público el resto, que asciende a 220.000.000 de pesetas. ¿Cuál es el crédito total asignado al Centro Gestor en el ejercicio económico siguiente si han sido aprobados los Presupuestos Generales del Estado con una subida del 2% sobre el ejercicio anterior?@1020000000@1200000000@1022000000@1120000000@1@1020000000
+Una oficina del TNEM tramita en un año un determinado número de solicitudes de empleo. Dicho número está comprendido entre 20.000 y 30.000 y es múltiplo de 5, 7, 8, 9 y 11 a la vez. ¿De qué número se trata?@27720@29700@23760@25200@1@27720
+Calcule el valor de X en la siguiente operación: 12 (6X – 13) = @4,21@7,38@2,19@1,96@3@2,19
+Si en Canarias, el 65% de su población vive en municipios de más de 10.000 habitantes, ¿cuánta población hay en los municipios de menos de 10.000 habitantes?@891622,9@651773,41@792459,05@744372,65@4@744372,65
+Si en el País Vasco la media de población en los municipios de más de 10.000 habitantes es de 40.300, ¿cuál es la media de población en los municipios de menos de 10.000?@2409,8@2391,3@1976,5@2520,6@1@2409,8
+Si la media de superficie por municipio mayor de 10.000 habitantes es de 50 kilómetros cuadrados (km2), ¿qué Comunidad Autónoma de las siguientes tiene más km2 de media en municipios de menos de 10.000 habitantes?@Andalucía@Comunidad de Madrid@País Vasco@Región de Murcia@4@Región de Murcia
+En una empresa hay cuatro socios con el 10, 25, 30 y 35% de las acciones respectivamente. Si el máximo accionista tiene 196.000€ en acciones, ¿cuánto dinero en acciones tiene el que menos?@92450@72200@68000@56000@4@56000
+Si de una circunferencia, tomamos una porción de 45% del total, ¿cuántos grados tendrá esa porción?@123.33 grados.@162 grados.@99 grados.@130,66 grados.@3@99 grados.
+Un almacén tiene una capacidad de 1.200 unidades, y su stock actual es de 336 unidades. Cada cargamento que se recibe para almacenar contiene 96 unidades. ¿Cuántos cargamentos puede recibir como máximo antes de llenarse por completo?@12 cargamentos@6 cargamentos@9 cargamentos@5 cargamentos@3@9 cargamentos
+Señale qué combinación de números es la correcta para esta operación: _ x _ – _ = 7@10, 15, 4@7, 12, 9@13, 7, 2@9, 11, 5@2@7, 12, 9
+Una empresa tiene unas ventas totales de 3.721 millones. El 23% se vende en el mercado interior, el 41% en la Unión Europea, y el resto a otros países. Del resto de países, Turquía representante el 55%. ¿Cuál es la cantidad vendida en Turquía?@533,71 millones.@857,52 millones.@736,75 millones.@667,55 millones.@3@736,75 millones.
 ¿Qué letra continúa la serie? (no cuenta la W) I J M N Ñ R S T U ...@X@Z@A@B@3@A
 Sigue la secuencia A A, B B B, C C C C, D D D D ...@E@D@F@C@2@D
 Sigue la secuencia: D C B G F E J I H ? ?@N - M@Ñ - N@M - L@L - K@3@M - L
@@ -156,3 +151,31 @@ Qué letra sigue la serie (valen las letras dobles) D, C, S, R, G, F, P, ...@ O@
 Completa la serie: A2Z26, C4X24, E6V22, ...@ G8T20@ G8U20@ F8T20@ G8S20@1@G8T20
 Completa la serie: ? 54 D 49 T 44 C 39 C 34 S 29 S ? O@ U, 24@ B, 30@ C, 27@ X, 26@1@U, 24
 Qué letra sigue la serie (valen las letras dobles) C, D, O, P, G, H, RR, S, K ...@ L@ J@ M@ B@1@L
+Qué número sigue la secuencia 2, 7, 4, 9, 8, 11,@13@28@10@16@4@16
+Sigue la secuencia 3, 12, 3, 11, 3, 8, 3, ?@6@4@3@5@4@5
+Continúa la secuencia 18, 15, 12, 9, 6,@3@5@4@2@1@3
+Continúa la secuencia 16, 17, 22, 24, 29, 32,@42@37@34@44@2@37
+Encuentra el numero que completa la serie (-1) - 2 - 7 - 14 - ?@34@46@26@23@4@23
+Sigue la secuencia 4, 6, 9, 13, 18, ?@19@21@24@15@3@24
+Qué número sigue la secuencia 16, 8, 32, 16, 64,@16@4@8@32@4@32
+Encuentra el número que sigue la secuencia 13, 26, 52, 104, 208,@312@260@416@326@3@416
+Encuentra el número que sigue la secuencia 16, 7, 8, 3.5,@4@32@2.5@3@1@4
+Sigue la serie 2187, 729, 243, 81,@36@27@9@18@2@27
+Sigue la secuencia 3, 5, 2, 7, 1, 9, ?@6@10@1@0@4@0
+Indica qué dos números siguen la serie 66, 63, 65, 62, 64, 61,@59, 60@63, 60@60, 59@60, 63@2@63, 60
+Encuentra el numero que completa la serie 3 - 12 - 5 - ? - 8 - 16 - 9 - 9 - 2@15@14@6@21@1@15
+En la siguiente serie hay un número equivocado, que no corresponde con la serie. Señala el número que debería ir en su lugar: 4, 8, 16, 3, 9, 27, 2, 8, 64@10@8@32@6@3@32
+Completa la serie: 2, 10, 5, ?, 20, 100, 95, 475, ?@15, 450@10, 95@25, 470@25, 95@3@25, 470
+Dada la serie: 0 - 3 - 8 - 6 - 9 - 14 - 16 - 15 - ... señalar qué número está equivocado:@16@14@09@15@1@16
+Continúa la secuencia 25, 1, 24, 2, 23,@3@21@22@4@1@3
+Qué número sigue la secuencia 25, 50, 100, 200, 400,@700@600@1600@800@4@800
+En la siguiente serie hay un número equivocado, que no corresponde con la serie. Señala el número que debería ir en su lugar: 2, 6, 9, 27, 30, 33, 99@18@66@3@81@3@3
+Sigue la secuencia 7, 7, 11, 6, 15, 5, ?@13@19@4@14@2@19
+Sigue la secuencia 4, 6, 9, 13, 18, ?@ 21@ 15@ 19@ 24@4@24
+Continúa la secuencia 3, 9, 7, 21, 18,@ 39@ 31@ 19@ 54@4@54
+Sigue la secuencia 6, 7, 10, 11, 14, 15, ?@ 18@ 15@ 19@ 16@1@18
+Ordenar de mayor a menor las siguientes fracciones: 4/6, 1/2, 5/12, 11/24:@5/12, 4/6, 11/24, 5/12@1/2, 4/6, 11/24, 5/12@4/6, 1/2, 11/24, 5/12@11/24, 5/12, 4/6, 1/2@3@4/6, 1/2, 11/24, 5/12
+En la serie de fracciones 3/5, 9/10, 27/20 el criterio de formación resulta de dividir la fracción anterior por 2/3. Según este criterio, ¿cuál sería el término anterior a 3/5 y posterior a 27/20?@2/5, 81/40@1/1, 80/40@1/4, 54/30@1/6, 64/40@1@2/5, 81/40
+Complete la serie numérica 7 – 3 – 21 – 3 – @72@147@28@63@4@63
+Dadas las siguientes equivalencias: d=0001, f=0010, g=0100, h=1000, i=011, j=0101. ¿Qué serie de letras corresponde a la siguiente serie de números: 0010100000011000?@h-d-f-g@d-i-d-g@f-i-g-h@f-h-d-h@4@f-h-d-h
+Complete la serie de números con las operaciones correspondientes: 56_4_2 = 2@x , –@/ , +@/ , –@d / , x@4@d / , x
