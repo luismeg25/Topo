@@ -23,6 +23,26 @@ Continúa la secuencia 3, 9, 7, 21, 18,@ 39@ 31@ 19@ 54@4@54
 Sigue la secuencia 6, 7, 10, 11, 14, 15, ?@ 18@ 15@ 19@ 16@1@18
 Ordenar de mayor a menor las siguientes fracciones: 4/6, 1/2, 5/12, 11/24:@5/12, 4/6, 11/24, 5/12@1/2, 4/6, 11/24, 5/12@4/6, 1/2, 11/24, 5/12@11/24, 5/12, 4/6, 1/2@3@4/6, 1/2, 11/24, 5/12
 En la serie de fracciones 3/5, 9/10, 27/20 el criterio de formación resulta de dividir la fracción anterior por 2/3. Según este criterio, ¿cuál sería el término anterior a 3/5 y posterior a 27/20?@2/5, 81/40@1/1, 80/40@1/4, 54/30@1/6, 64/40@1@2/5, 81/40
- Complete la serie numérica 7 – 3 – 21 – 3 – @72@147@28@63@4@63
- Dadas las siguientes equivalencias: d=0001, f=0010, g=0100, h=1000, i=011, j=0101. ¿Qué serie de letras corresponde a la siguiente serie de números: 0010100000011000?@h-d-f-g@d-i-d-g@f-i-g-h@f-h-d-h@4@f-h-d-h
- Complete la serie de números con las operaciones correspondientes: 56_4_2 = 2@x , –@/ , +@/ , –@d / , x@4@d / , x
+Complete la serie numérica 7 – 3 – 21 – 3 – @72@147@28@63@4@63
+Dadas las siguientes equivalencias: d=0001, f=0010, g=0100, h=1000, i=011, j=0101. ¿Qué serie de letras corresponde a la siguiente serie de números: 0010100000011000?@h-d-f-g@d-i-d-g@f-i-g-h@f-h-d-h@4@f-h-d-h
+Complete la serie de números con las operaciones correspondientes: 56_4_2 = 2@x , –@/ , +@/ , –@d / , x@4@d / , x
+Determine qué número debe reemplazar el signo de interrogación : 1, 2, 3, 4, ?.@7@10@5@4@3@5
+Determine qué número debe reemplazar el signo de interrogación: 0, 2, 4, 6, ?.@4@8@2@0@2@8
+Determine qué número debe reemplazar el signo de interrogación: 12, 19, 26, 33, ?.@41@39@41@40@4@40
+Determine qué número debe reemplazar el signo de interrogación: 987, 864, ?, 618, 495.@741@750@758@738@1@741
+Determine qué número debe reemplazar el signo de interrogación: 0, 1, 1, 2, 3, 5, ?.@6@7@8@9@3@8
+Determine qué número debe reemplazar el signo de interrogación: 13, 15, 20, 22, 27, ?.@30@29@35@31@2@29
+Determine qué número debe reemplazar el signo de interrogación: 32, 35, 39, 44, ?.@47@48@49@50@4@50
+Determine qué número debe reemplazar el signo de interrogación: 1, 1, 8, 5, 15, 9, ?.@23@22@24@20@2@22
+Determine qué número debe reemplazar el signo de interrogación: 89, 76, 65, 52, ?,@39@43@41@45@3@41
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  A, D, G, J.@LL@N@O@P@1@LL
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica: 1, 3, 6, 10.@16@20@15@12@3@15
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  1, 1, 2, 3, 5.@6@9@8@10@3@8
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  21, 20, 18, 15, 11.@7@6@9@12@2@6
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  8, 6, 7, 5, 6, 4.@8@7@3@5@4@5
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  65536, 256, 16@3@2@1@4@4@4
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  1, 0, -1, 0@3@-2@-1@1@4@1
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  3968, 63, 8, 3.@1@5@2@3@3@2
+Continúe la siguiente serie numérica con el grupo de los números (de entre los propuestos) que mejor la completan: 1 10 3 9 5 8 7 7 9 6 ? ?.@11 5@10 5@10 4@11 6@1@11 5
+¿Qué número viene después en la siguiente serie? 9, 16, 25, 36…@49@50@48@51@1@49
+Indique el número que por lógica completa la serie. 2, 3, 5, 9, 17…@32@22@25@33@4@33

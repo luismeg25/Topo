@@ -29,3 +29,11 @@ Si de una circunferencia, tomamos una porción de 45% del total, ¿cuántos grad
 Un almacén tiene una capacidad de 1.200 unidades, y su stock actual es de 336 unidades. Cada cargamento que se recibe para almacenar contiene 96 unidades. ¿Cuántos cargamentos puede recibir como máximo antes de llenarse por completo?@12 cargamentos@6 cargamentos@9 cargamentos@5 cargamentos@3@9 cargamentos
 Señale qué combinación de números es la correcta para esta operación: _ x _ – _ = 7@10, 15, 4@7, 12, 9@13, 7, 2@9, 11, 5@2@7, 12, 9
 Una empresa tiene unas ventas totales de 3.721 millones. El 23% se vende en el mercado interior, el 41% en la Unión Europea, y el resto a otros países. Del resto de países, Turquía representante el 55%. ¿Cuál es la cantidad vendida en Turquía?@533,71 millones.@857,52 millones.@736,75 millones.@667,55 millones.@3@736,75 millones.
+Si AxB=24; CxD=32; BxD=48 y BxC=24, ¿cuánto es AxBxCxD?.@480@576@744@768@4@768
+Sabiendo que a=8, b=3, c=2, d=1, e=5, f=7, g=9, h=0; ¿qué número resulta de la serie "cchcdgfa":@22087912@22021978@22398721@53299712@2@22021978
+Si 1=bddb, 2=dbbd, 3=dbdb y 4=bdbd; ¿Qué número resulta de la serie bdbd-dbdb-bddb-dbbd-dbdb-bdbd-dbdb?:@4-3-1-4-3-4-3@4-3-3-2-3-4-3@4-4-1-2-3-4-3@4-3-1-2-3-4-3@4@4-3-1-2-3-4-3
+Dado el siguiente bloque de letras "bdddbbdddbdbdbd", agrupe de tres en tres sin cambiar el orden. ¿Qué número resulta si 1=dbb, 2=bdb, 4=dbd, 6=bdd y 7=ddd?:@61724@64724@61742@61224@1@61724
+Dado el bloque de números "222722272277727", agrupe de tres en tres sin cambar el orden. ¿Qué serie de letras resulta si a=727, b=722, c=222, d=272 y e=277?:@cbdea@cbdca@cbcea@abdec@1@cbdea
+Si 1=ppp, 3=qpq, 5=qqp, 7=pqq y 9=pqp. ¿A que serie corresponde el número 371395?:@qpqpqqpppqpqpqqqqp @qpqpqqpqqqpqpqpqqp@qpqpqqpppqpqpqpqqp@pqqpqqpppqpqpqpqqp@3@qpqpqqpppqpqpqpqqp
+A la vista de que i=4, t=2, p=11, e=9 y g=3. ¿Cuál es el número que resulta de esta operación (g-t)xi?:@34@4@9@6@2@4
+Si 2+3=10, 7+2=63, 6+5=66 y 8+4=96, ¿Cuánto es 9+7?@13@112@144@63@3@144
