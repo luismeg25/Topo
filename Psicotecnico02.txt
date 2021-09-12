@@ -46,3 +46,9 @@ Añadir a cada sucesión de letras o números la letra o número que debe seguir
 Continúe la siguiente serie numérica con el grupo de los números (de entre los propuestos) que mejor la completan: 1 10 3 9 5 8 7 7 9 6 ? ?.@11 5@10 5@10 4@11 6@1@11 5
 ¿Qué número viene después en la siguiente serie? 9, 16, 25, 36…@49@50@48@51@1@49
 Indique el número que por lógica completa la serie. 2, 3, 5, 9, 17…@32@22@25@33@4@33
+Determina que número continúa la siguiente serie: 44, 180, 22, 90, 11,  ?.@33@45@50@19@2@45
+Determina que número continúa la siguiente serie: 1, 2, 100, 101, 16, 17, 40,….@21@18@41@20@3@41
+Encuentra el número que continúa las series siguientes: 4 15 8 14 12 13 16 12 …@20@13@11@14@1@20
+Encuentra el número que continúa las series siguientes: 9 17 8 14 7 11 6 8 …@9@5@10@12@2@5
+Encuentra el número que continúa las series siguientes: 11 14 18 21 25 28 …@30@32@50@35@2@32
+Encuentra el número que continúa las series siguientes: 3 1 6 2 12 4 24…@10@8@7@6@2@8

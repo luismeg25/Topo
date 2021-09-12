@@ -5,8 +5,8 @@ Señale la opción que tenga un significado MAS PARECIDO al de la palabra DENOST
 Señale la opción que tenga un significado MAS PARECIDO al de la palabra SOLÍCITO:@Cuidadoso@Imponente@Rendido@Firme@1@Cuidadoso
 Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No hay _____ para poder concederle lo _____ .@precedentes / solicitado@inconbeniente / pedido@motibos /generado@razones / acostunbrado@1@precedentes / solicitado
 Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “Los métodos contables _____ no difieren en _____ de los clásicos.@nombrados / algo@actuales / exceso@anteriores / demasiado@antigüos / demasía@2@actuales / exceso
- Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No hay ______ excluyentes cuando los asuntos son de ______ importancia.@solicitudes / otra@ventajas / gran@precedentes / menos@razones / vital@4@razones / vital
- Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “Muchos trabajadores ______ inicialmente los protectores oculares a causa de las inadecuadas campañas de ______.@prescindieron / publicidad@prescindirán / anuncios@renegaron / marketing@rechazarán / información@4@rechazarán / información
+Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No hay ______ excluyentes cuando los asuntos son de ______ importancia.@solicitudes / otra@ventajas / gran@precedentes / menos@razones / vital@4@razones / vital
+Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “Muchos trabajadores ______ inicialmente los protectores oculares a causa de las inadecuadas campañas de ______.@prescindieron / publicidad@prescindirán / anuncios@renegaron / marketing@rechazarán / información@4@rechazarán / información
 ¿Qué palabra significa lo mismo que «enervar»?@ Tranquilizar.@  Fortalecer.@    Indisponer.@    Debilitar.@4@Debilitar.
 ¿Cuál es el antónimo de «entusiasta»?@ Ingenuo.@ Frio.@ Fogoso.@ Vehemente.@2@Frio.
 .......... es a «principio» como «muerte» es a ..........@ Inicio - Cadáver.@ Nacimiento - Fin.@ Meta - Transcurso.@ Vida - Final.@2@Nacimiento - Fin.
@@ -71,3 +71,22 @@ Indique qué pareja de palabras NO tiene un significado parecido entre sí@Barat
 Señale la palabra que NO pertenece al grupo@Garantía@Fianza@Hipoteca@Envoltura@4@Envoltura
 Señale qué serie indica el orden alfabético correcto de las siguientes palabras@Obeso, Obligar, Objeto, Óbice, Oblicuo@Objeto, Obeso, Obligar, Óbice, Oblicuo@Obligar, Obeso, Objeto, Oblicuo, Óbice@Obeso, Óbice, Objeto, Oblicuo, Obligar@4@Obeso, Óbice, Objeto, Oblicuo, Obligar
 Indique, entre las siguientes palabras, cuál es el antónimo de la palabra OPUESTO@Ducho@Medieval@Idéntico@Prudente@3@Idéntico
+¿Que series de palabras no contienen ningún error ortográfico?@Expeditivo, zurcir, aviar, contricción.@Baya, inhibición, adherido, estiércol.@Enjuto, inconeso, mexicano, overbooking.@Abaco, cayamiento, exhortante, óbido@2@Baya, inhibición, adherido, estiércol.
+Elija la palabra que corresponde a la definición que se expone: “Cantidad expresada con cifras”.@Monto.@Guarismo.@Ciclópeo.@Ecuación.@1@Monto.
+Elija la palabra que corresponde a la definición que se expone: “Imponer un castigo”.@Infracción.@In fraganti.@Infligir.@Implorar.@3@Infligir.
+Para ser un buen corredor de maratón hay que tener mucha…..física.@resistencia@inteligencia@disciplina@pereza@1@resistencia
+Deberíamos estar ............... de nuestras virtudes personales.@agradecidos@dudosos@atentos@orgullosos@4@orgullosos
+Sentir ............... es síntoma de que algo no va bien en nuestro cuerpo.@alegría@calor@humedad@dolor@4@dolor
+Los diputados…. la nueva enmienda sobre la reforma laboral.@discutieron@hablaron@votaron@negociaron@3@votaron
+En la pareja, la falta de comunicación favorece su ...............@complicidad@acercamiento@desesperanza@distanciamiento@4@distanciamiento
+Para ser habilidosos en algo es preciso….muchas veces.@leer@probar@corregir@practicar@4@practicar
+Cuando no entendemos algo se convierte en un ...............para nosotros.@consuelo@reto@misterio@pesar@3@misterio
+La persona ............... es aquella que piensa y actúa de forma poco flexible.@egoísta@fría@antisocial@intransigente@4@intransigente
+En el convento reinaba el ............... en todas las estancias.@silencio@calor@frío@movimiento@1@silencio
+Para sacar buenas notas en la escuela es necesario hacer............... que manda el profesor.@las obligaciones@los deberes@las prácticas@ los dictados@2@los deberes
+Quejarse de los contratiempos es ............... si no hacemos nada para evitarlos.@inútil@contradictorio@triste@mejor@1@inútil
+Es aconsejable comer ............... cuando se hace una dieta para adelgazar.@carne@en abundancia@despacio@verdura@3@despacio
+Una ballena es un ............... que vive en el mar.@pez@mamífero@animal@anfibio@2@mamífero
+La libertad de una persona ............... donde empiezan los derechos de los demás.@empieza@termina@cambia@radica@2@termina
+No existe nada mejor que estar en ............... con la naturaleza para renovar la energía.@contacto@amistad@harmonía@cercanía@1@contacto
+El chico  estaba  enamorado,  por  eso  deseaba  tener  una............... con su compañera de clase.@cita@discusión@carpeta@reconciliación@1@cita
