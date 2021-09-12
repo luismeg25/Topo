@@ -64,3 +64,97 @@ Indique cual de estas opciones es la fórmula correcta:@=*A5 B5@A5*B5=@=5A*5B@=A
 ¿Cómo se crean Vínculos en Excel?@Ir a la barra de formulas y escribir Vinculo.@La primera opción es hacer clic derecho sobre la celda donde se insertará el hipervínculo y elegir la opción de menú Vínculo, luego seleccionar el archivo o direccion web y aceptar.@Escribir Vinculo en determida celda.@Ninguna de las anteriores.@2@La primera opción es hacer clic derecho sobre la celda donde se insertará el hipervínculo y elegir la opción de menú Vínculo, luego seleccionar el archivo o direccion web y aceptar.
 ¿En que pestaña se encuentra el botón de proteger libro?@Datos.@Insertar.@Formulas.@Revisar.@4@Revisar.
 ¿Cuál de los siguientes elementos NO pertenece al área de trabajo o Hoja de Cálculo?@Filas.@Columnas.@Bases.@Celdas.@3@Bases.
+ ¿Cuál de los siguientes tipos de datos sirve para valores lógicos del tipo Verdadero o Falso?@Número entero.@Número de coma flotante.@Carácter.@Booleano.@4@Booleano.
+Dentro de qué pestaña se encuentra la opción de "Aumentar el tamaño de la fuente":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Disminutir el tamaño de la fuente":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Alinear texto en la parte superior":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Centrar contenido":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Orientación" del texto:@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Ajustar datos":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Estilo de celda":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Formato condicional":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Rellenar":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Ideas":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Autosuma":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Copiar como imagen":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Insertar tablas":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Ilustraciones":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Complementos":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Gráficos":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Gráfico dinámico":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Mapa 3D":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Minigráficos":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Filtros - Escala de Tiempo":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Vínculo":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Comentario":@Inicio.@Insertar.@Datos.@Fórmulas.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Símbolos":@Inicio.@Insertar.@Dibujar.@Ayuda.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Agregar lápiz":@Inicio.@Insertar.@Dibujar.@Revisar.@3@Dibujar.
+Dentro de qué pestaña se encuentra la opción de "Convertir entrada de lápiz en forma":@Inicio.@Insertar.@Dibujar.@Revisar.@3@Dibujar.
+Dentro de qué pestaña se encuentra la opción de "Entrada de lápiz a matemáticas":@Inicio.@Insertar.@Dibujar.@Revisar.@3@Dibujar.
+Dentro de qué pestaña se encuentra la opción de "Reproducción de entrada de lápiz":@Inicio.@Insertar.@Dibujar.@Revisar.@3@Dibujar.
+Dentro de qué pestaña se encuentra la opción de "Temas":@Ayuda.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Márgenes":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Orientación":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Tamaño" de la hoja:@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Área de impresión":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Saltos de página":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "fondo" de la hoja de cálculo:@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Imprimir títulos":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Escala" en el ajuste de área de impresión:@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Líneas de división" en las opciones de la hoja:@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Encabezados" en las opciones de la hoja:@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Traer adelante":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Enviar atrás":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Alinear objetos":@Revisar.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Autosuma":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Insertar función":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Funciones de texto":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Funciones financieras":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Funciones fecha y hora":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Funciones lógicas":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Funciones matemáticas y trigonometría":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Más funciones….":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Administrador de nombres":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Asignar nombre" a la formula:@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Rastrear precedentes" en las fórmulas:@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Rastrear dependientes" en la fórmulas:@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Comprobar errores" de la fórmula:@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Ventana de inspección":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Opciones de cálculo":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Calcular ahora":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Calcular hoja":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Obtener datos":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Obtener datos desde la Web":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Actualizar todo" relativo a las conexiones con orígenes de información:@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de " Ordenar":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Filtro":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Filtro avanzado":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Texto en columnas":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Validación de datos":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Consolidar" datos:@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Análisis de hipótesis":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Previsión":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Esquema":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Agrupar" filas/columnas:@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Desagrupar" filas/columnas:@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Ortografía":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Sinónimos":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Comprobar accesibilidad":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Busqueda inteligente":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Traducir":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Nuevo comentario":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Eliminar comentario":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Notas":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Proteger hoja":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Proteger libro":@Revisar.@Datos.@Fórmulas.@Vista.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Zoom":@Revisar.@Datos.@Fórmulas.@Vista.@4@Vista.
+Dentro de qué pestaña se encuentra la opción de "Inmovilizar paneles":@Revisar.@Datos.@Fórmulas.@Vista.@4@Vista.
+Dentro de qué pestaña se encuentra la opción de "Inmovilizar fila superior":@Revisar.@Datos.@Fórmulas.@Vista.@4@Vista.
+Dentro de qué pestaña se encuentra la opción de "Inmovilizar primera columna":@Revisar.@Datos.@Fórmulas.@Vista.@4@Vista.
+Dentro de qué pestaña se encuentra la opción de "Dividir" ventana:@Revisar.@Datos.@Fórmulas.@Vista.@4@Vista.
+Dentro de qué pestaña se encuentra la opción de "Macros":@Revisar.@Datos.@Fórmulas.@Vista.@4@Vista.
+Dentro de qué pestaña se encuentra la opción de "Ponerse en contacto con el soporte técnico":@Revisar.@Datos.@Fórmulas.@Ayuda.@4@Ayuda.
+Dentro de qué pestaña se encuentra la opción de "Novedades":@Revisar.@Datos.@Fórmulas.@Ayuda.@4@Ayuda.
+Dentro de qué pestaña se encuentra la opción de "Mostrar aprendizaje":@Revisar.@Datos.@Fórmulas.@Ayuda.@4@Ayuda.
