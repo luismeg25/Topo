@@ -48,7 +48,7 @@ Continúe la siguiente serie numérica con el grupo de los números (de entre lo
 Indique el número que por lógica completa la serie. 2, 3, 5, 9, 17…@32@22@25@33@4@33
 Determina que número continúa la siguiente serie: 44, 180, 22, 90, 11,  ?.@33@45@50@19@2@45
 Determina que número continúa la siguiente serie: 1, 2, 100, 101, 16, 17, 40,….@21@18@41@20@3@41
-Encuentra el número que continúa las series siguientes: 4 15 8 14 12 13 16 12 …@20@13@11@14@1@20
-Encuentra el número que continúa las series siguientes: 9 17 8 14 7 11 6 8 …@9@5@10@12@2@5
-Encuentra el número que continúa las series siguientes: 11 14 18 21 25 28 …@30@32@50@35@2@32
-Encuentra el número que continúa las series siguientes: 3 1 6 2 12 4 24…@10@8@7@6@2@8
+Encuentra el número que continúa las serie siguiente: 4 15 8 14 12 13 16 12 …@20@13@11@14@1@20
+Encuentra el número que continúa las serie siguiente: 9 17 8 14 7 11 6 8 …@9@5@10@12@2@5
+Encuentra el número que continúa las serie siguiente: 11 14 18 21 25 28 …@30@32@50@35@2@32
+Encuentra el número que continúa las serie siguiente: 3 1 6 2 12 4 24…@10@8@7@6@2@8
