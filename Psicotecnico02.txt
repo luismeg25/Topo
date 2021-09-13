@@ -52,3 +52,14 @@ Encuentra el número que continúa las serie siguiente: 4 15 8 14 12 13 16 12 �
 Encuentra el número que continúa las serie siguiente: 9 17 8 14 7 11 6 8 …@9@5@10@12@2@5
 Encuentra el número que continúa las serie siguiente: 11 14 18 21 25 28 …@30@32@50@35@2@32
 Encuentra el número que continúa las serie siguiente: 3 1 6 2 12 4 24…@10@8@7@6@2@8
+Encuentra el número que continúa la serie siguiente: 1,  15,  225,  3375, ?.@50625@759375@5560@55600@1@50625
+Encuentra el número que continúa la serie siguiente: 2,  12,  72,  432, ?.@1500@3480@2592@4100@3@2592
+Encuentra el número que continúa la serie siguiente: 2,  7,  12,  42,  72,  252,  ?.@432@1512@2592@9072@1@432
+Encuentra el número que continúa la serie siguiente: 12,  48,  192,  ?.@350@920@840@768@4@768
+Encuentra el número que continúa la serie siguiente: 3,  39,  507, ? .@6591@7689@8190@5900@1@6591
+Encuentra el número que continúa la serie siguiente: 4,  60,  900,  ?.@11500@12400@13500@15100@3@13500
+Encuentra el número que continúa la serie siguiente: 9,  108,  1296,  ?.@11430@14500@15552@16500@3@15552
+Encuentra el número que continúa la serie siguiente: 9,  36,  144,  ?.@240@190@790@576@4@576
+Encuentra el número que continúa la serie siguiente: 8,  48,  288,  ?.@1728@1010@2592@9072@1@1728
+Encuentra el número que continúa la serie siguiente: 13,  26,  52,  ? .@180@150@120@104@4@104
+Encuentra el número que continúa la serie siguiente: 16,  32,  64,  ? .@128@110@127@150@1@128
