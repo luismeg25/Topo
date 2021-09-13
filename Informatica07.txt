@@ -1,6 +1,10 @@
 ¿Cómo se llama el pequeño módulo publicitario que se inserta en una página web?@ Bug@ Bing@ Banner@ Baudio@3@ Banner
+¿Cuál de las siguientes funciones de Windows 10 NO es una ayuda de accesibilidad?@Lupa@Narrador@OneDrive@Subtítulos@3@OneDrive
+¿Cuál de los siguientes tipos de datos sirve para valores lógicos del tipo Verdadero o Falso?@Número entero.@Número de coma flotante.@Carácter.@Booleano.@4@Booleano.
 ¿Qué diferencia existe entre Internet y una intranet?@ Una es monitorizada, la otra no.@ Una tiene mayor seguridad que la otra.@ Una es pública y la otra privada.@ Una es un buscador y la otra un sistema operativo.@3@ Una es pública y la otra privada.
+¿Qué lenguajes pueden interpretar los navegadores o exploradores de páginas web?@HTML@C++@Pascal@Ensamblador@1@HTML
 ¿Qué son los SPAM?@ Son mensajes no solicitados, no deseados o de remitentes no conocidos.@ Son mensajes de remitentes conocidos con avisos de publicidad.@ Es una sigla en inglés que significa Sistema de Alertas de Mensaje de Publicidad.@ Es un motor de búsqueda de Internet.@1@ Son mensajes no solicitados, no deseados o de remitentes no conocidos.
+Para introducir un carácter especial en el texto, como los de Copyright o Registrado, en la pestaña Insertar, ¿cuál de las siguientes herramientas se emplea en Word?@Marcador@WordArt@Elementos rápidos@Símbolo@4@Símbolo
 ¿Cómo agregar más filas en la misma celda?@Shift + Enter@Ctrl + Enter@Alt + Enter@Shift + Ctrl + Enter@3@Alt + Enter
 ¿Cómo Agregar una columna?@Seleccionar columna Ctrl +.@Seleccionar columna Ctrl -.@Seleccionar columna + Shift + Enter.@Seleccionar columna Ctrl+c.@1@Seleccionar columna Ctrl, +.
 ¿Cómo agregar una Fila?@Seleccionar fila + Ctrl + C@Ctrl + Shift + Enter@Seleccionar fila y Ctrl, -@Seleccionar Fila Ctrl, +@4@Seleccionar Fila Ctrl, +
@@ -12,6 +16,7 @@
 ¿Cómo puedo insertar una fila entre la 5ta y la 6ta fila?@Seleccionando la fila 5 y 6 luego clic derecho y luego insertar.@Seleccionando toda la fila 6 y en el menú Insertar, seleccionar la Opción Fila.@Seleccionando toda la fila 5 y en el menú Insertar, seleccionar la Opción Fila.@Ninguna de las anteriores.@2@Seleccionando toda la fila 6 y en el menú Insertar, seleccionar la Opción Fila.
 ¿Cómo se conoce el sistema de conversación en línea usado en la red?@ Browser@ Cookies@ Banner@ Chat@4@ Chat
 ¿Cómo se crean Vínculos en Excel?@Ir a la barra de formulas y escribir Vinculo.@La primera opción es hacer clic derecho sobre la celda donde se insertará el hipervínculo y elegir la opción de menú Vínculo, luego seleccionar el archivo o direccion web y aceptar.@Escribir Vinculo en determida celda.@Ninguna de las anteriores.@2@La primera opción es hacer clic derecho sobre la celda donde se insertará el hipervínculo y elegir la opción de menú Vínculo, luego seleccionar el archivo o direccion web y aceptar.
+¿Cómo se denomina al conjunto de componentes físicos de un sistema informático, incluidos los periféricos?@Software.@Sistema operativo.@Hardware.@Aplicación informática.@3@Hardware.
 ¿Cómo se le llama a la hoja que usamos en Word?@Hoja de cálculo.@Página.@Diapositiva.@Web.@2@Página.
 ¿Cómo se les llama a las columnas en Access?@Rótulos.@Campos.@Registros.@Rangos.@2@Campos.
 ¿Cómo se les llama a las filas en Access?@Rótulos.@Campos.@Registros.@Rangos.@3@Registros
@@ -30,14 +35,22 @@
 ¿Cuál de éstos es un navegador web?@Microsoft Edge@Terra@ARPANET@Yahoo@1@Microsoft Edge
 ¿Cuál de las siguientes aplicaciones no es una hoja de cálculo?@Excel@Lotus 123@Hoja de cálculo@Quattro Pro@3@Hoja de cálculo
 ¿Cuál de las siguientes funcionalidades no permiten los procesadores de texto?@Pasar el texto incluido en una imagen a texto.@Modificar el formato del documento de vertical a apaisado.@Presentar en pantalla una vista previa del documento a imprimir.@Crear un índice del documento de forma automática.@1@Pasar el texto incluido en una imagen a texto.
+¿Cúal de las siguientes funciones no puede ser realizada en  el Bloc de Notas?@Añadir fecha y hora.@Añadir imagen.@Proteger documento.@Incrementar tamaño de texto.@3@Proteger documento.
+¿Cúal de las siguientes funciones no puede ser realizada en el Bloc de Notas?@Cambiar formato texto.@Cambiar la sangría del documento.@Añadir una imagen.@Crear Macro.@4@Crear Macro.
+¿Cúal de las siguientes funciones no puede ser realizada en Wordpad?@Añadir fecha y hora.@Añadir imagen.@Proteger documento.@Incrementar tamaño de texto.@3@Proteger documento.
+¿Cúal de las siguientes funciones no puede ser realizada en Wordpad?@Cambiar formato texto.@Cambiar la sangría del documento.@Añadir una imagen.@Crear Macro.@4@Crear Macro.
 ¿Cuál de las siguientes herramientas NO es una herramienta de Excel?@Insertar una figura@Proteger celdas@Cambiar la letra de fuente@Todas son herramientas de Excel@4@Todas son herramientas de Excel
 ¿Cuál de las siguientes notaciones hace correcta referencia a la celda C1 de una hoja llamada Datos?@=Datos!C1@=Hoja:Datos!C1@=C1.Datos@=C1Datos!@1@=Datos!C1
 ¿Cuál de las siguientes opciones está fijando solo la columna?@$A$1@$A1@A$1@A$1$@2@$A1
 ¿Cuál de los indicados no es un protocolo relacionado con correo electrónico?@ARP@IMAP@SMTP@POP3@1@ARP
 ¿Cuál de los siguientes elementos NO pertenece al área de trabajo o Hoja de Cálculo?@Filas.@Columnas.@Bases.@Celdas.@3@Bases.
 ¿Cuál de los siguientes es el protocolo estándar de Internet?@TCP/IP@FTP@HTML@NetScape@1@TCP/IP
+¿Cúal de los siguientes es un navegador de internet?@NetScape.@Naptchat.@Adobe.@Ninguna de las anteriores.@4@Ninguna de las anteriores.
+¿Cúal de los siguientes es un navegador de internet?@NetScape.@Naptchat.@Mozilla Firefox@Ninguna de las anteriores.@3@Mozilla Firefox
+¿Cúal de los siguientes es un navegador de internet?@NetScape.@Opera@Adobe.@Ninguna de las anteriores.@2@Opera
 ¿Cúal de los siguientes no es un protocolo de internet?.@FTP.@HTTP.@LHP.@UDP.@3@LHP.
 ¿Cuál de los siguientes no puede considerarse un sistema operativo en sentido estricto?@MS-DOS@Windows 3.1@Windows N.T.@UNIX@2@Windows 3.1
+¿Cuál de los siguientes tipos de datos sirve para valores lógicos del tipo Verdadero o Falso?@Número entero.@Número de coma flotante.@Carácter.@Booleano.@4@Booleano.
 ¿Cuál es el color que Microsoft Office Word utiliza para resaltar la gramática incorrecta?@Verde.@Azul.@Amarillo.@Rojo.@1@Verde.
 ¿Cuál es el color que Microsoft Office Word utiliza para resaltar los errores de acentuación?@Verde.@Azul.@Amarillo.@Rojo.@2@Azul.
 ¿Cuál es el color que Microsoft Office Word utiliza para resaltar mala ortografía?@Verde.@Azul.@Amarillo.@Rojo.@4@Rojo.
@@ -50,13 +63,19 @@
 ¿Cuál es la función que nos permite realizar listas utilizando los números?@Ortografía.@Numeración.@Viñetas.@Pie de página.@2@Numeración.
 ¿Cuál es la manera correcta de hacer referencia a la Celda A1 de la hoja llamada "Presupuesto"?@=Presupuesto!A1@=A1:Presupuesto@="HojaPresupuesto"A1@="A1:HojaPresupuesto"@1@=Presupuesto!A1
 ¿Cuál es la última celda de una hoja?¿Cómo podemos activarla rápidamente?@La IV6536
+¿Cúal no es una pestaña de Outlook?@Inicio.@Diseño@Enviar y Recibir.@Ayuda.@2@Diseño
+¿Cúal no es una pestaña de Outlook?@Inicio.@Enviar y Recibir.@Carpeta.@Correspondencia.@4@Correspondencia.
+¿Cúal no es una pestaña de Outlook?@Inicio.@Enviar y Recibir.@Referencia.@Ayuda.@3@Referencia.
+¿Cúal no es una pestaña de Outlook?@Inicio.@Vista.@Enviar y Recibir.@Todas las anteriores son pestañas de Outlook.@4@Todas las anteriores son pestañas de Outlook.
 ¿Cuáles dispositivos cree que permiten la salida de información?@Teclado.@Mouse.@Monitor.@Escaner.@3@Monitor.
 ¿Cuáles son las funciones fundamentales del microprocesador en un ordenador personal?@Lee e interpreta los datos, ejecuta instrucciones, realiza cálculos, obtiene resultados y los guarda en memoria.@Entre otras cosas, escribe en el disco duro la información a guardar.@Refresca la información mostrada en el monitor a una velocidad medida en megahercios (MHz).@Marca la velocidad en megaherzios (MHz) con lo que se leen los datos del disco duro.@1@Lee e interpreta los datos, ejecuta instrucciones, realiza cálculos, obtiene resultados y los guarda en memoria.
 ¿Dónde se encuentra integrada la ALU (Unidad Aritmético-Lógica)?@En la CPU.@En el disco duro.@En la RAM.@En la ROM.@1@En la CPU.
 ¿El comercio electrónico es?@ Es la compra y venta de productos y servicios con sistemas de pagos electrónicos, tales como tarjetas de crédito.@ Es la compra y venta de productos y servicios que se realiza por medio de un correo electrónico.@ Es la compra y venta de productos y servicios a través de medios electrónicos tales como Internet y otras redes informáticas.@ Es la compra y venta de productos electrónicos, tales como computadores y similares.@3@ Es la compra y venta de productos y servicios a través de medios electrónicos tales como Internet y otras redes informáticas.
 ¿En qué consiste la opción de "transponer" un rango?@Cambiar filas por columnas.@Llevarlo a otra hoja vacía.@Ninguna de las otras.@Cambiarlo de lugar.@1@Cambiar filas por columnas.
+¿En qué navegador se pueden guardar páginas web visitadas?.@Sólo en Chrome.@Sólo en Mozilla.@Sólo en Opera.@En todas las anteriores.@4@En todas las anteriores.
 ¿En que pestaña se encuentra el botón de proteger libro?@Datos.@Insertar.@Formulas.@Revisar.@4@Revisar.
 ¿En qué pestaña se encuentra la información referente a los bordes de página?@Pestaña Insertar.@Pestaña Inicio.@Pestaña Correspondencia.@Pestaña Diseño.@4@Pestaña Diseño.
+¿En qué se diferencia los enlaces https y http?@La seguridad.@La velocidad de conexión.@La omisión de información.@Ninguna de las anteriores.@1@La seguridad.
 ¿En Word cómo se le llama al tipo de letra que utilizamos?@Fuente.@Letra.@Texto.@Escritura.@1@Fuente.
 ¿Para qué está pensada la carpeta de Borradores?@Para tener un historial de los correos borrados.@Para acceder a los mensajes que has escrito, pero no has enviado todavía.@Para almacenar los correos que deseamos borrar en el futuro.@Para archivar los correos que no deseamos borrar.@2@Para acceder a los mensajes que has escrito, pero no has enviado todavía.
 ¿Para qué se utiliza la herramienta NEGRITA?@Para cambiar el color de la fuente.@Para cambiar el estilo de la fuente.@Para resaltar el texto.@Para resaltar la letra capital.@3@Para resaltar el texto.
@@ -99,6 +118,7 @@
 ¿Qué significan las siglas CCO en un correo electrónico?@Con copia opaca.@Con copia a otros.@Con copia oculta.@Comunicación con otros.@3@Con copia oculta.
 ¿Qué son Dispositivos de Almacenamiento?@Permiten la comunicación entre los usuarios y el ordenador.@Son componentes de un sistema informático que tienen el rol de transmitir o recuperar información digital (grabar y leer) en diversos soportes físicos creados para ello.@Permiten conectar a la computadora con otras a través de una interfaz de red. Entre ellos se pueden mencionar los Modem, Tarjetas de Interfaz de Red.@Proporcionan almacenamiento volátil de datos.@2@Son componentes de un sistema informático que tienen el rol de transmitir o recuperar información digital (grabar y leer) en diversos soportes físicos creados para ello.
 ¿Qué son Dispositivos de Comunicaciones?@Proporcionan almacenamiento no volátil de datos y memoria.@Permiten la comunicación entre los usuarios y la computadora.@Permiten conectar a la computadora con otras a través de una interfaz de red. Entre ellos se pueden mencionar los Modem, Tarjetas de Interfaz de Red.@Windows Live Messenger@3@Permiten conectar a la computadora con otras a través de una interfaz de red. Entre ellos se pueden mencionar los Modem, Tarjetas de Interfaz de Red.
+¿Qué tecla de función nos permite alternar en la barra de fórmulas entre referencias relativas, absolutas y mixtas?@F8@F5@F9@F4@4@F4
 ¿Qué tipos de datos puede enviar por correo electrónico?@ Audio y video.@ Imágenes.@ Texto.@ Todas las anteriores.@4@ Todas las anteriores.
 ¿Quién es el propietario de Internet?@ El Gobierno de Los Estados Unidos.@ La ONU.@ Internet no tiene propietario, aunque si hay entes que lo regulan.@ La OTAN.@3@Internet no tiene propietario, aunque si hay entes que lo regulan.
 ¿Quién es el remitente en un mensaje de correo-e?@ La persona que recibe un mensaje de correo-e.@ El proveedor del servicio de correo-e.@ La persona que envía el mensaje de correo-e.@ El usuario del correo-e.@3@ La persona que envía el mensaje de correo-e.
@@ -110,6 +130,7 @@ Campo particular dentro del registro, que permite la identificación exclusiva y
 Combinación de teclas que permite activar la ventana de opciones buscar@Control + G@Control + B@Control + A@Control + D@2@Control + B
 Combinación de teclas que permite copiar un párrafo:@Control + C.@Control + M.@Control + A.@Control + D.@1@Control + C.
 Con "D2:F5" nos estamos refiriendo a:@El rango que empieza en D2 y acaba en F5.@Ninguna de las otras.@A las casillas D2 y F5.@La división entre el contenido de la celda D2 y el de la F5.@1@El rango que empieza en D2 y acaba en F5.
+Con relación al trabajo con archivos en Windows, señale la respuesta correcta:@Si se arrastra un archivo con el botón principal del ratón, de una carpeta a otra de la misma unidad, el archivo se moverá.@Si se arrastra un archivo con el botón principal del ratón, de una carpeta a otra de la misma unidad, el archivo se copiará.@Si se arrastra un archivo con el botón principal del ratón, de una carpeta a otra de distinta unidad, el archivo se moverá.@No es posible arrastrar archivos de una carpeta a otra con el botón principal del ratón.@1@Si se arrastra un archivo con el botón principal del ratón, de una carpeta a otra de la misma unidad, el archivo se moverá.
 Conjunto de 8 bits@Byte.@Bit.@Kilobyte.@Terabyte.@1@Byte.
 Cual de las siguientes opciones corresponden a tipos de Sistemas Operativos existentes en el mercado.@Windows, Mac Os, Linux.@Office, Word, Excel.@Mother Board, Mouse, Teclado.@Internet, Servidor, Conexión FTP.@1@Windows, Mac Os, Linux.
 Cuál de los siguientes periféricos es de entrada/salida?@Monitor.@Teclado.@Ratón.@Módem de Internet.@4@Módem de Internet.
@@ -122,6 +143,99 @@ Cuándo un texto no cabe en una única celda, podemos:@Ajustar Texto.@Combinar v
 Cuando utilizamos el término QWERTY, nos estamos refiriendo:@A un tipo de teclado.@A un tipo de monitor.@A un tipo de ratón.@A un acceso directo.@1@A un tipo de teclado.
 De las siguientes fórmulas, ¿cuál está escrita correctamente para que muestre un resultado?.@=SUMA(A1:D4)@-A1+10@+10+25@Las tres anteriores son correctas.@1@=SUMA(A1:D4)
 Dentro de esta barra podemos visualizar el título del tema que se está trabajando@Barra de nombres@Barra de opciones@Barra de cintas@Barra de título@4@Barra de título
+Dentro de la Vista Diseño de una Tabla de Access, ¿qué tipo de datos se deberá especificar en un campo cuando el dato que se quiere almacenar en él es la dirección de una página Web?@Autonumérico.@Objeto OLE.@Hipervínculo.@Memo.@3@Hipervínculo.
+Dentro de qué pestaña se encuentra la opción de " Ordenar":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Actualizar todo" relativo a las conexiones con orígenes de información:@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Administrador de nombres":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Agregar lápiz":@Inicio.@Insertar.@Dibujar.@Revisar.@3@Dibujar.
+Dentro de qué pestaña se encuentra la opción de "Agrupar" filas/columnas:@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Ajustar datos":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Alinear objetos":@Revisar.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Alinear texto en la parte superior":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Análisis de hipótesis":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Área de impresión":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Asignar nombre" a la formula:@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Aumentar el tamaño de la fuente":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Autosuma":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Autosuma":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Busqueda inteligente":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Calcular ahora":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Calcular hoja":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Centrar contenido":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Comentario":@Inicio.@Insertar.@Datos.@Fórmulas.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Complementos":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Comprobar accesibilidad":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Comprobar errores" de la fórmula:@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Consolidar" datos:@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Convertir entrada de lápiz en forma":@Inicio.@Insertar.@Dibujar.@Revisar.@3@Dibujar.
+Dentro de qué pestaña se encuentra la opción de "Copiar como imagen":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Desagrupar" filas/columnas:@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Disminutir el tamaño de la fuente":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Dividir" ventana:@Revisar.@Datos.@Fórmulas.@Vista.@4@Vista.
+Dentro de qué pestaña se encuentra la opción de "Eliminar comentario":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Encabezados" en las opciones de la hoja:@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Entrada de lápiz a matemáticas":@Inicio.@Insertar.@Dibujar.@Revisar.@3@Dibujar.
+Dentro de qué pestaña se encuentra la opción de "Enviar atrás":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Escala" en el ajuste de área de impresión:@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Esquema":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Estilo de celda":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Filtro avanzado":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Filtro":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Filtros - Escala de Tiempo":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "fondo" de la hoja de cálculo:@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Formato condicional":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Funciones de texto":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Funciones fecha y hora":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Funciones financieras":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Funciones lógicas":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Funciones matemáticas y trigonometría":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Gráfico dinámico":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Gráficos":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Ideas":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Ilustraciones":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Imprimir títulos":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Inmovilizar fila superior":@Revisar.@Datos.@Fórmulas.@Vista.@4@Vista.
+Dentro de qué pestaña se encuentra la opción de "Inmovilizar paneles":@Revisar.@Datos.@Fórmulas.@Vista.@4@Vista.
+Dentro de qué pestaña se encuentra la opción de "Inmovilizar primera columna":@Revisar.@Datos.@Fórmulas.@Vista.@4@Vista.
+Dentro de qué pestaña se encuentra la opción de "Insertar función":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Insertar tablas":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Líneas de división" en las opciones de la hoja:@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Macros":@Revisar.@Datos.@Fórmulas.@Vista.@4@Vista.
+Dentro de qué pestaña se encuentra la opción de "Mapa 3D":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Márgenes":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Más funciones….":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Minigráficos":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Mostrar aprendizaje":@Revisar.@Datos.@Fórmulas.@Ayuda.@4@Ayuda.
+Dentro de qué pestaña se encuentra la opción de "Notas":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Novedades":@Revisar.@Datos.@Fórmulas.@Ayuda.@4@Ayuda.
+Dentro de qué pestaña se encuentra la opción de "Nuevo comentario":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Obtener datos desde la Web":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Obtener datos":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Opciones de cálculo":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Orientación" del texto:@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Orientación":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Ortografía":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Ponerse en contacto con el soporte técnico":@Revisar.@Datos.@Fórmulas.@Ayuda.@4@Ayuda.
+Dentro de qué pestaña se encuentra la opción de "Previsión":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Proteger hoja":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Proteger libro":@Revisar.@Datos.@Fórmulas.@Vista.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Rastrear dependientes" en la fórmulas:@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Rastrear precedentes" en las fórmulas:@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Rellenar":@Inicio.@Vista.@Datos.@Revisar.@1@Inicio.
+Dentro de qué pestaña se encuentra la opción de "Reproducción de entrada de lápiz":@Inicio.@Insertar.@Dibujar.@Revisar.@3@Dibujar.
+Dentro de qué pestaña se encuentra la opción de "Saltos de página":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Símbolos":@Inicio.@Insertar.@Dibujar.@Ayuda.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Sinónimos":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Tamaño" de la hoja:@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Temas":@Ayuda.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Texto en columnas":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Traducir":@Revisar.@Datos.@Fórmulas.@Disposición de página.@1@Revisar.
+Dentro de qué pestaña se encuentra la opción de "Traer adelante":@Inicio.@Insertar.@Dibujar.@Disposición de página.@4@Disposición de página.
+Dentro de qué pestaña se encuentra la opción de "Validación de datos":@Revisar.@Datos.@Fórmulas.@Disposición de página.@2@Datos.
+Dentro de qué pestaña se encuentra la opción de "Ventana de inspección":@Revisar.@Insertar.@Fórmulas.@Disposición de página.@3@Fórmulas.
+Dentro de qué pestaña se encuentra la opción de "Vínculo":@Inicio.@Insertar.@Datos.@Revisar.@2@Insertar.
+Dentro de qué pestaña se encuentra la opción de "Zoom":@Revisar.@Datos.@Fórmulas.@Vista.@4@Vista.
 Desde un procesador de texto, por ejemplo, Microsoft Word, ¿se pueden crear ficheros en formato HTML?@Depende del tamaño del fichero.@Se necesita un módulo especial en el sistema operativo.@Sí.@No.@3@Sí.
 Distintas hojas de cálculo se agrupan formando un archivo llamado:@Fichero de Datos.@Base de Datos.@Celda.@Libro de Trabajo.@4@Libro de Trabajo.
 Dos de las malas prácticas al trabajar con base de datos son:@Dejar valores numéricos en formato de texto y no limpiar espacios innecesarios en las celdas.@Dejar valores numéricos en formato texto y mezclar mayúsculas con minúsculas.@Dejar texto como valor numérico y no proteger el libro completo diariamente.@Dejar texto como valor numérico y elegir categorías con nombres iguales.@1@Dejar valores numéricos en formato de texto y no limpiar espacios innecesarios en las celdas.
@@ -131,6 +245,12 @@ El formato condicional sirve para?@Que la celda se muestre con un formato segun 
 El funcionamiento de la herramienta proteger Libro es?@Colocar una contraseña para la apertura del documento.@Protegerlo de ser contaminado por virus.@Las dos primeras respuestas anteriores son correctas.@Ninguna de las anteriores.@1@Colocar una contraseña para la apertura del documento.
 El procesador de textos no emplea:@Texto@Presentaciones@Símbolos@Tablas@2@Presentaciones.
 El rango de celdas B2:B10 contiene información, para seleccionar el rango un solo click, me posiciono en B2 y utilizo la tecla CRTL + Flecha hacia abajo.@Verdadero.@Falso.@CTRL+=@Ninguna de las anteriores.@1@Verdadero.
+El Sistema Operativo de un ordenador forma parte del:@Hardware.@Software.@Periféricos.@Redes.@2@Software.
+En Access, ¿qué opción del cuadro de diálogo "Pegar tabla como" deberá seleccionar para crear una copia idéntica a la tabla original que se quiere copiar?@Estructura solamente.@Estructura y datos.@Anexar datos a la tabla existente.@Sólo datos.@2@Estructura y datos.
+En Access, creamos una consulta para eliminar de la tabla de Productos, aquellos registros cuyo valor en el campo Activo sea igual a NO. ¿Cuál de los siguientes tipos de consulta deberemos utilizar?@Consulta de creación de tabla.@Consulta de selección.@Consulta de actualización.@Consulta de eliminación.@4@Consulta de eliminación.
+En Access, la asociación que se establece entre campos comunes en dos tablas, se denomina:@Relación.@Asociación principal.@Clave principal.@índice.@1@Relación.
+En Excel, ¿qué rango de los que se muestran a continuación hace referencia a todas las celdas de la fila 3?@A3:Z3@3:3@F:F@A3:AA3 @2@3:3
+En Internet Explorer, ¿cómo se denominan los vínculos a un sitio Web que se visita con frecuencia?@Historial.@Páginas de inicio.@Cookies.@Favoritos.@4@Favoritos.
 En Microsoft Access, ¿Con qué método abreviado se abre el cuadro de diálogo Imprimir desde Imprimir?@CTRL+P@ATL+P@CTRL+O@CTRL+Impr Pant@1@CTRL+P
 En Microsoft Access, ¿Con qué método abreviado se abre la pestaña Inicio?@CTRL + Shift (Mayúsculas) + M@CTRL + Shift (Mayúsculas) + T@ALT+O@CTRL+F@3@ALT+O
 En Microsoft Access, ¿Con qué método abreviado se abre la ventana de ayuda?@F1@F2@F3@F4@1@F1
@@ -147,8 +267,71 @@ En Microsoft Outlook, ¿Con qué método abreviado se puede crear una cita o con
 En Microsoft Outlook, ¿Con qué método abreviado se puede crear una nueva tarea?. @CTRL + Shift (Mayúsculas) + M@CTRL + Shift (Mayúsculas) + T@CTRL+3@CTRL+F@2@CTRL + Shift (Mayúsculas) + T
 En Microsoft Outlook, ¿Con qué método abreviado se puede responder a una convocatoria de reunión con un mensaje?. @CTRL + Shift (Mayúsculas) + M@CTRL + Shift (Mayúsculas) + T@CTRL+3@CTRL + Shift (Mayúsculas) + R@4@CTRL + Shift (Mayúsculas) + R
 En MS-DOS, la longitud máxima para nombrar ficheros con independencia de la extensión, es:@19 caracteres.@7 caracteres.@8 caracteres.@6 caracteres.@3@8 caracteres.
+En Outlook, dentro de qué pestaña se encuentra la opción de "Ayuda":@Ayuda.@Correspondencia.@Revisar.@Vista.@1@Ayuda.
+En Outlook, dentro de qué pestaña se encuentra la opción de "Mostrar aprendizaje":@Ayuda.@Correspondencia.@Revisar.@Vista.@1@Ayuda.
 En qué programa de Microsoft se desarrollan las bases de datos@Word.@Excel.@Power Point.@Access.@4@Access.
+En un documento de Word, ¿qué tipo de sangría especial aplica la sangría a todo el párrafo a excepción de la primera línea?@Sangría de primera línea.@Sangría francesa.@Sangría izquierda.@Sangría negativa.@2@Sangría francesa.
+En un libro de Excel que tiene ocho hojas, se han seleccionado cinco de ellas. ¿Cómo se puede cancelar la selección de las hojas?@Haciendo "clic" en la etiqueta de cualquiera de las hojas no seleccionadas.@Haciendo "clic" en la etiqueta de una de las hojas seleccionadas.@Haciendo doble "clic" en la etiqueta de una de las hojas seleccionadas.@Manteniendo pulsada la tecla "CONTROL" a la vez que se hace "clic" en la etiqueta de cualquiera de las hojas no seleccionadas. @1@Haciendo "clic" en la etiqueta de cualquiera de las hojas no seleccionadas.
 En una BBDD al usuario del sistema se le brindarán recursos para realizar diversas operaciones sobre estos archivos, tales como:@ Sólo agregar, eliminar y actualizar datos en archivos existentes de la BBDD.@ Agregar archivos nuevos en la BBDD, insertar, eliminar, actualizar y obtener datos de archivos existentes de la BBDD.@ Actualizar sólo datos de archivos existentes.@ Eliminar sólo archivos ya existentes en la BBDD.@2@ Agregar archivos nuevos en la BBDD, insertar, eliminar, actualizar y obtener datos de archivos existentes de la BBDD.
+En Word, dentro de qué pestaña se encuentra la opción de "Aplicar sangría":@Vista.@Insertar.@Diseño.@Disposición.@4@Disposición.
+En Word, dentro de qué pestaña se encuentra la opción de "Aumentar el tamaño de la fuente":@Inicio.@Vista.@Correspondencia.@Revisar.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Aumentar sangría" del texto:@Inicio.@Vista.@Correspondencia.@Revisar.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Ayuda":@Ayuda.@Correspondencia.@Revisar.@Vista.@1@Ayuda.
+En Word, dentro de qué pestaña se encuentra la opción de "Buscar" texto:@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Centrar" texto:@Inicio.@Vista.@Correspondencia.@Revisar.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Color de página":@Inicio.@Insertar.@Diseño.@Disposición.@3@Diseño.
+En Word, dentro de qué pestaña se encuentra la opción de "Color de resaltado de texto":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Confidencialidad":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Control de cambios":@Referencias.@Correspondencia.@Revisar.@Disposición.@3@Revisar.
+En Word, dentro de qué pestaña se encuentra la opción de "Dictar":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Diseño de impresión":@Referencias.@Correspondencia.@Revisar.@Vista.@4@Vista.
+En Word, dentro de qué pestaña se encuentra la opción de "Disminuir sangría" del texto:@Inicio.@Vista.@Correspondencia.@Revisar.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Disminutir el tamaño de la fuente":@Inicio.@Vista.@Correspondencia.@Revisar.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Ecuación":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Elementos rápidos" (Autotexto):@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Encabezado":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Enviar atrás" de una figura:@Inicio.@Insertar.@Diseño.@Disposición.@4@Disposición.
+En Word, dentro de qué pestaña se encuentra la opción de "Etiquetas" para el envío de correo:@Referencias.@Correspondencia.@Diseño.@Disposición.@2@Correspondencia.
+En Word, dentro de qué pestaña se encuentra la opción de "Idioma":@Referencias.@Correspondencia.@Revisar.@Disposición.@3@Revisar.
+En Word, dentro de qué pestaña se encuentra la opción de "Iniciar combinación de correspondencia":@Referencias.@Correspondencia.@Diseño.@Disposición.@2@Correspondencia.
+En Word, dentro de qué pestaña se encuentra la opción de "Insertar bloque de direcciones":@Referencias.@Correspondencia.@Diseño.@Disposición.@2@Correspondencia.
+En Word, dentro de qué pestaña se encuentra la opción de "Investigador":@Referencias.@Insertar.@Diseño.@Disposición.@1@Referencias.
+En Word, dentro de qué pestaña se encuentra la opción de "Línea de firma":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Macros":@Referencias.@Correspondencia.@Revisar.@Vista.@4@Vista.
+En Word, dentro de qué pestaña se encuentra la opción de "Marca de agua":@Inicio.@Insertar.@Diseño.@Disposición.@3@Diseño.
+En Word, dentro de qué pestaña se encuentra la opción de "Modo de lectura":@Referencias.@Correspondencia.@Revisar.@Vista.@4@Vista.
+En Word, dentro de qué pestaña se encuentra la opción de "Mostrar aprendizaje":@Ayuda.@Correspondencia.@Revisar.@Vista.@1@Ayuda.
+En Word, dentro de qué pestaña se encuentra la opción de "Mostrar comentarios":@Referencias.@Correspondencia.@Revisar.@Disposición.@3@Revisar.
+En Word, dentro de qué pestaña se encuentra la opción de "Mostrar marcas de párrafo y otros símbolos ocultos":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Nota al pie de página":@Referencias.@Insertar.@Diseño.@Disposición.@1@Referencias.
+En Word, dentro de qué pestaña se encuentra la opción de "Numeración":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Número de página":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Orientación" de la página:@Inicio.@Insertar.@Diseño.@Disposición.@4@Disposición.
+En Word, dentro de qué pestaña se encuentra la opción de "Página en blanco":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Pie de página":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Portada":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Reemplazar" texto:@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Restringir edición" en la protección del documento:@Referencias.@Correspondencia.@Revisar.@Disposición.@3@Revisar.
+En Word, dentro de qué pestaña se encuentra la opción de "Reutilizar archivos":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Revisar documento":@Referencias.@Correspondencia.@Revisar.@Disposición.@3@Revisar.
+En Word, dentro de qué pestaña se encuentra la opción de "Salto de página":@Inicio.@Insertar.@Diseño.@Revisar.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Satos de página":@Inicio.@Revisar.@Diseño.@Disposición.@4@Disposición.
+En Word, dentro de qué pestaña se encuentra la opción de "Seleccionar todo":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Simbolo":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Sobres" para el envío de correo:@Referencias.@Correspondencia.@Diseño.@Disposición.@2@Correspondencia.
+En Word, dentro de qué pestaña se encuentra la opción de "Subrayado" de texto:@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Tabla de contenido":@Referencias.@Correspondencia.@Diseño.@Disposición.@1@Referencias.
+En Word, dentro de qué pestaña se encuentra la opción de "Tamaño" de la página:@Inicio.@Insertar.@Diseño.@Disposición.@4@Disposición.
+En Word, dentro de qué pestaña se encuentra la opción de "Temas" en formato del documento:@Inicio.@Insertar.@Diseño.@Disposición.@3@Diseño.
+En Word, dentro de qué pestaña se encuentra la opción de "Traducir":@Referencias.@Correspondencia.@Revisar.@Disposición.@3@Revisar.
+En Word, dentro de qué pestaña se encuentra la opción de "Traer adelante" de una figura:@Inicio.@Insertar.@Diseño.@Disposición.@4@Disposición.
+En Word, dentro de qué pestaña se encuentra la opción de "Viñetas":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Wikipedia":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "WordArt":@Inicio.@Insertar.@Diseño.@Disposición.@3@Diseño.
+En Word, dentro de qué pestaña se encuentra la opción de "Zoom":@Referencias.@Correspondencia.@Revisar.@Vista.@4@Vista.
+En Word, dentro de qué pestaña se encuentra la opción de insertar "Imágenes":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de insertar "Tabla":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, para seleccionar todo el texto contenido en un documento, deberá pulsarse la siguiente combinación de teclas:@Control+ C@Control+ E@Alt + S@Alt + J@2@Control+ E
 Error que se produce cuando el ancho de una columna no es suficiente amplio para el tamaño del numero@#!NULO!@########@#!REF¡@#!DIV/0¡@2@########
 Es el área donde se puede crear todo tipo de documentos:@Hoja en blanco.@Hojas.@Espacio libre.@Área de trabajo.@4@Área de trabajo.
 Es el procesador de texto mas empleado en el mundo.@Windows.@Power Point.@xcel.@Word.@4@Word.
@@ -157,7 +340,31 @@ Es la primera página del documento que contiene datos como título y autor. Se 
 Esta tecla permite dejar espacio entre cada letra que se escribe:@Tecla Enter o Intro.@Tecla F7.@Barra de opciones.@Barra espaciadora.@4@Barra espaciadora.
 Indique ¿cuál es la combinación de teclas que sirve para cerrar una ventana?.@ALT+F4@CTL+ALT+Z@ENTER@ALT+SHIFT@1@ALT+F4
 Indique cual de estas opciones es la fórmula correcta:@=*A5 B5@A5*B5=@=5A*5B@=A5*B5@4@=A5*B5
+Indique cual de estas opciones es la fórmula correcta:@=RESIDUO(A9
+Indique cual de estas opciones es la fórmula correcta:@=SUMA(A3:A4
+Indique cual de las siguientes funciones de Excel permite introducir en una celda la fecha actual.@=HOY()@=FECHA()@=ACTUAL()@=ESAHORA()@1@=HOY()
+Indique el resultado de la fórmula: HALLAR("medio";"promedio")@2@3@4@1@3@4
+Indique el resultado de la fórmula: HALLAR("p","impresora")@2@3@4@1@2@3
+Indique el resultado de la fórmula: RESIDUO(9
 Indique la sentencia falsa:@La impresora es un periférico de salida.@El disco duro es un dispositivo de almacenamiento interno de sólo escritura y la disquetera es externo de lectura/escritura.@El módem es el dispositivo que permite al ordenador utilizar la línea de teléfono para enviar o recibir datos.@Se necesitan controladores (drivers) para cada periférico instalado en el ordenador.@2@El disco duro es un dispositivo de almacenamiento interno de sólo escritura y la disquetera es externo de lectura/escritura.
+Indique qué realiza la función ABS:@Devuelve el valor absoluto de un entero.@Devuelve el valor absoluto de un complejo@Convierte un número en una representación de texto con la base dada.@Devuelve la depreciación lineal prorrateada de un activo para cada periodo contable especificado.@1@Devuelve el valor absoluto de un entero.
+Indique qué realiza la función ACOS:@Devuelve el coseno hiperbólico inverso de un número.@Devuelve el arcoseno de un número, en radianes, dentro del rango de 0 a Pi.@Devuelve la cotangente hiperbólica inversa de un número.@Devuelve el arcotanjente de un número en radianes dentro del rango de 0 a Pi.@2@Devuelve el arcoseno de un número, en radianes, dentro del rango de 0 a Pi.
+Indique qué realiza la función ACOSH:@Devuelve el coseno hiperbólico inverso de un número.@Devuelve el arcoseno de un número, en radianes, dentro del rango de 0 a Pi.@Devuelve la cotangente hiperbólica inversa de un número.@Devuelve el arcotanjente de un número en radianes dentro del rango de 0 a Pi.@1@Devuelve el coseno hiperbólico inverso de un número.
+Indique qué realiza la función ACOT:@Devuelve el coseno hiperbólico inverso de un número.@Devuelve el arcoseno de un número, en radianes, dentro del rango de 0 a Pi.@Devuelve la cotangente hiperbólica inversa de un número.@Devuelve el arco tanjente de un número en radianes dentro del rango de 0 a Pi.@4@Devuelve el arco tanjente de un número en radianes dentro del rango de 0 a Pi.
+Indique qué realiza la función ACOTH:@Devuelve el coseno hiperbólico inverso de un número.@Devuelve el arcoseno de un número, en radianes, dentro del rango de 0 a Pi.@Devuelve la cotangente hiperbólica inversa de un número.@Devuelve el arcotanjente de un número en radianes dentro del rango de 0 a Pi.@3@Devuelve la cotangente hiperbólica inversa de un número.
+Indique qué realiza la función AMORTIZ.LIN:@Devuelve el valor absoluto de un entero.@Devuelve el valor absoluto de un complejo@Convierte un número en una representación de texto con la base dada.@Devuelve la depreciación lineal prorrateada de un activo para cada periodo contable especificado.@4@Devuelve la depreciación lineal prorrateada de un activo para cada periodo contable especificado.
+Indique qué realiza la función BASE:@Devuelve el valor absoluto de un entero.@Devuelve el valor absoluto de un complejo@Convierte un número en una representación de texto con la base dada.@Devuelve la depreciación lineal prorrateada de un activo para cada periodo contable especificado.@3@Convierte un número en una representación de texto con la base dada.
+Indique qué realiza la función DESVESTP  :@Devuelve el miembro n, o clasificado, en un conjunto. Se usa para devolver uno o más elementos de un conjunto.@Calcula la desviación estándar de la población total determinada por los argumentos. La desviación estándar es la medida de la dispersión de los valores respecto a la media (valor promedio).@Devuelve la media aritmética de los argumentos indicados. @Ordena el contenido de un rango o matriz en función de los valores de un rango o matriz correspondiente.@2@Calcula la desviación estándar de la población total determinada por los argumentos. La desviación estándar es la medida de la dispersión de los valores respecto a la media (valor promedio).
+Indique qué realiza la función HALLAR  :@Busca una cadena de texto dentro de una segunda cadena de texto y devuelven el número de la posición inicial de la primera cadena de texto desde el primer carácter de la segunda cadena de texto.@Calcula la desviación estándar de la población total determinada por los argumentos. La desviación estándar es la medida de la dispersión de los valores respecto a la media (valor promedio).@Devuelve la media aritmética de los argumentos indicados. @Permite cambiar la apariencia de un número aplicándole formato con códigos de formato. Es útil para mostrar números en un formato más legible o para combinarlos con texto o símbolos.@1@Busca una cadena de texto dentro de una segunda cadena de texto y devuelven el número de la posición inicial de la primera cadena de texto desde el primer carácter de la segunda cadena de texto.
+Indique qué realiza la función LARGO:@Devuelve el número de caracteres de una cadena de texto.@Devuelve el número de bytes usados para representar los caracteres de una cadena de texto. @Devuelve el logaritmo natural de un número.@Devuelve el logaritmo de un número en la base especificada.@1@Devuelve el número de caracteres de una cadena de texto.
+Indique qué realiza la función LARGOB:@Devuelve el número de caracteres de una cadena de texto.@Devuelve el número de bytes usados para representar los caracteres de una cadena de texto. @Devuelve el logaritmo natural de un número.@Devuelve el logaritmo de un número en la base especificada.@2@Devuelve el número de bytes usados para representar los caracteres de una cadena de texto.
+Indique qué realiza la función LN:@Devuelve el número de caracteres de una cadena de texto.@Devuelve el número de bytes usados para representar los caracteres de una cadena de texto. @Devuelve el logaritmo natural de un número.@Devuelve el logaritmo de un número en la base especificada.@3@Devuelve el logaritmo natural de un número.
+Indique qué realiza la función LOG:@Devuelve el número de caracteres de una cadena de texto.@Devuelve el número de bytes usados para representar los caracteres de una cadena de texto. @Devuelve el logaritmo natural de un número.@Devuelve el logaritmo de un número en la base especificada.@4@Devuelve el logaritmo de un número en la base especificada.
+Indique qué realiza la función MEDIANA:@Devuelve el número de caracteres de una cadena de texto.@Devuelve la mediana de los números dados. La mediana es el número que se encuentra en medio de un conjunto de números.@Devuelve el logaritmo natural de un número.@Devuelve el logaritmo de un número en la base especificada.@2@Devuelve la mediana de los números dados. La mediana es el número que se encuentra en medio de un conjunto de números.
+Indique qué realiza la función MIEMBRORANGOCUBO :@Devuelve el miembro n, o clasificado, en un conjunto. Se usa para devolver uno o más elementos de un conjunto.@Devuelve la mediana de los números dados. La mediana es el número que se encuentra en medio de un conjunto de números.@Devuelve la media aritmética de los argumentos indicados. @Ordena el contenido de un rango o matriz en función de los valores de un rango o matriz correspondiente.@1@Devuelve el miembro n, o clasificado, en un conjunto. Se usa para devolver uno o más elementos de un conjunto.
+Indique qué realiza la función ORDENARPOR:@Devuelve el número de caracteres de una cadena de texto.@Devuelve la mediana de los números dados. La mediana es el número que se encuentra en medio de un conjunto de números.@Devuelve la media aritmética de los argumentos indicados. @Ordena el contenido de un rango o matriz en función de los valores de un rango o matriz correspondiente.@4@Ordena el contenido de un rango o matriz en función de los valores de un rango o matriz correspondiente.
+Indique qué realiza la función PROMEDIO:@Devuelve el número de caracteres de una cadena de texto.@Devuelve la mediana de los números dados. La mediana es el número que se encuentra en medio de un conjunto de números.@Devuelve la media aritmética de los argumentos indicados. @Devuelve el logaritmo de un número en la base especificada.@3@Devuelve la media aritmética de los argumentos indicados.
+Indique qué realiza la función TEXTO  :@Devuelve el miembro n, o clasificado, en un conjunto. Se usa para devolver uno o más elementos de un conjunto.@Calcula la desviación estándar de la población total determinada por los argumentos. La desviación estándar es la medida de la dispersión de los valores respecto a la media (valor promedio).@Devuelve la media aritmética de los argumentos indicados. @Permite cambiar la apariencia de un número aplicándole formato con códigos de formato. Es útil para mostrar números en un formato más legible o para combinarlos con texto o símbolos.@4@Permite cambiar la apariencia de un número aplicándole formato con códigos de formato. Es útil para mostrar números en un formato más legible o para combinarlos con texto o símbolos.
 La barra de desplazamiento permite:@Desplazarnos dentro de la ventana para ver su contenido.@Mostrar cual es nombre de la ventana.@Ver los nombres de los menús.@Conocer la ubicación de las carpetas.@1@Desplazarnos dentro de la ventana para ver su contenido.
 La base de Internet y del World Wide Web es el empleo de:@Protocolos.@TCP/IP@Lenguaje y reglas mediante los que se comunican los ordenadores.@Todas son correctas.@4@Todas son correctas.
 La fórmula =SI(C4<=5000
@@ -221,14 +428,23 @@ Si en C2 introduzco "=SI(B2>=5,aprobado,suspenso)", ¿que consigo?@Que en C2 apa
 Si en el rango de filas A1:A6 tengo el siguiente registro de notas: 10, 04, 17, 08,12, 19. ¿Cuál es la sintaxis para extraer la menor nota?.@=extraer(A1:A6)@=contar(A1:A6)@=min(A1:A6)@Ninguna de las anteriores@3@=min(A1:A6)
 Si en Excel introduces en la barra de fórmulas =10+5*4/2-1, el resultado obtenido es:@No conozco la respuesta@19@29@30@2@19
 Si en la esquina superior derecha de una celda aparece un triangulito rojo, ¿Cuál es su significado?@Que la celda tiene una fórmula errónea.@Que la celda contiene un comentario o nota.@Que la celda tiene una referencia errónea.@Que hay una información restringida y para verla tengo que desproteger la celda.@2@Que la celda contiene un comentario o nota.
+Si en un documento de Word se introduce la formula "=(3*4)+(7*9)-13", ¿Cómo se mostraría la información en el documento?.@Automáticamente realizaría el calculo y mostraría un 62.@Mostraría "=(3*4)+(7*9)-13" con una marca de posible error ortográfico.@Mostraría un error, dando la opción de cambiar al programa Excel para solucionar la formula.@Ninguna de las anteriores.@1@Automáticamente realizaría el calculo y mostraría un 62.
+Si en un documento de Word se introduce la formula "=Suma(3;4;5)", ¿Cómo se mostraría la información en el documento?.@Automáticamente realizaría el calculo y mostraría un 12.@Mostraría "=Suma(3;4;5)" con una marca de posible error ortográfico.@Mostraría un error, dando la opción de cambiar al programa Excel para solucionar la formula.@Ninguna de las anteriores.@1@Automáticamente realizaría el calculo y mostraría un 12.
 Si en una celda introducimos la expresión "=3+5*2^2", ¿qué valor aparecerá?@23@1600@256@32@1@23
 Si en una celda tengo el número 0,16 y quiero ponerlo automáticamente en la forma 16%, ¿qué tengo que hacer?@Aplicar el porcentaje correspondiente.@Ninguna de las otras.@Dejarlo como está y ponerlo en formato porcentaje.@Dejar el 16 y pulsar el botón % de la barra de formato.@3@Dejarlo como está y ponerlo en formato porcentaje.
+Si en una fórmula de Excel nos encontramos con una referencia del tipo A$3, estamos ante una referencia:@Absoluta de columna y fila.@Mixta, de columna relativa y fila absoluta.@Mixta, de columna absoluta y fila relativa.@Relativa de columna y fila.@2@Mixta, de columna relativa y fila absoluta.
 Si queremos restar B1 de A1:@La función correcta será =RESTAR (A1:B1).@La función correcta será =-(A1:B1).@La función correcta será es DIFERENCIA (A1-B1).@La funcion Correcta sera B1-A1.@4@La funcion Correcta sera B1-A1.
 Si se pulsa en la opción "Responder" a un correo de alguien que no está añadido en tus contactos…@Se responde al remitente y a aquellas direcciones que aparecen en el correo.@Se responde solamente al remitente y la dirección no aparece escrita.@Ninguna es correcta.@Se responde solamente al remitente y aparece su dirección escrita.@4@Se responde solamente al remitente y aparece su dirección escrita.
 Si se tiene un rango de datos de mas de mil registros, se puede sumar automáticamente con:@Autosuma.@=SUMA(RANGO)@Alt + Shift + =@Todas las anteriores.@1@Autosuma.
+Si trabajando en un documento de Word, se pulsa la combinación de teclas "Control" + ¿qué efecto producirá?@Desplazará el cursor al final de la línea en la que se encuentra.@Desplazará el cursor al final del documento.@Seleccionará la línea en la que se encuentra el cursor.@Seleccionará todo el documento.@2@Desplazará el cursor al final del documento.
 Si una celda muestra #######, significa que:@Se debe ensanchar la columna.@Hay un error en la fórmula.@Hay una referencia errónea en la formula.@Ninguna de las anteriores.@1@Se debe ensanchar la columna.
+Sobre una tabla de Access se realiza un filtro avanzado ¿Qué campos de la tabla se mostrarán?@Los que se hayan agregado a la cuadrícula para hacer el filtro.@Sólo los campos sobre los que se haya establecido un criterio.@Los campos agregados a la cuadrícula, siempre que sobre ellos no se haya establecido un criterio.@Todos los campos de la tabla sobre la que se está realizando el filtro avanzado.@4@Todos los campos de la tabla sobre la que se está realizando el filtro avanzado.
 Son archivos que podemos anexar en un mensaje de correo electrónico para ser enviados:@ Emoticonos.@Datos adjuntos.@Firma.@Archivos ocultos.@2@Datos adjuntos.
 Son ejemplos de los principales riesgos que podemos tener al no manejar nuestra cuenta de correo electrónico, adecuadamente:@ Demasiados contactos y bullying.@ Virus y olvidar la contraseña.@ Spam y sustitución de identidad de los contactos.@ Configuración incorrecta y pocos contactos.@3@ Spam y sustitución de identidad de los contactos.
+Trabajando en el Explorador de Windows, se quiere seleccionar dos archivos no contiguos que se encuentran en una misma carpeta. ¿Cuál de los siguientes procedimientos deberá seguirse para conseguirlo?@Hacer "clic" en el primer archivo a seleccionar, mantener presionada la tecla "MAYÚS" y hacer "clic" en el segundo archivo a seleccionar.@Hacer "clic" en el primer archivo a seleccionar, mantener presionada la tecla "CONTROL" y hacer "clic" en el segundo archivo a seleccionar.@Hacer "clic" en el primer archivo a seleccionar y arrastrar con el ratón hasta el segundo archivo a seleccionar.@Hacer "clic" en el primer archivo a seleccionar y arrastrar con el ratón, manteniendo pulsada la tecla "CONTROL" hasta el segundo archivo a seleccionar.@2@Hacer "clic" en el primer archivo a seleccionar, mantener presionada la tecla "CONTROL" y hacer "clic" en el segundo archivo a seleccionar.
+Trabajando en el Explorador de Windows, se quieren seleccionar cinco archivos consecutivos que se encuentran en una carpeta. ¿Cuál de los siguientes procedimientos deberá seguirse para conseguirlo?@Hacer "clic" en el primer archivo a seleccionar, mantener presionada la tecla "MAYÚS" y hacer "clic" en el último archivo a seleccionar.@Hacer "clic" en el primer archivo a seleccionar, mantener presionada la tecla "CONTROL" y hacer "clic" en el último archivo a seleccionar.@Hacer "clic" en el primer archivo a seleccionar y arrastrar con el ratón hasta el último archivo a seleccionar.@Hacer "clic" en el primer archivo a seleccionar y arrastrar con el ratón, manteniendo pulsada la tecla "CONTROL" hasta el último archivo a seleccionar.@1@Hacer "clic" en el primer archivo a seleccionar, mantener presionada la tecla "MAYÚS" y hacer "clic" en el último archivo a seleccionar.
+Trabajando en Excel, se quiere imprimir solamente un rango de la hoja de cálculo. ¿Cuál de las siguientes opciones nos ofrece el programa para conseguirlo?@Area de impresión@Zona de impresión.@Area de selección.@Area de criterio.@1@Area de impresión
+Trabajando en Word, ¿en qué cuadro de diálogo podemos cambiar la orientación del papel para imprimir en vertical u horizontal?@Versiones.@Formato.@Guardar como...@Configurar página.@4@Configurar página.
 Un ejemplo de proveedor de servicio de correo electrónico es:@ Avast@ Yahoo@ Excel@ Arris@2@ Yahoo
 Un Hipervínculo es:@Otra página para encontrar información.@Otro nombre para el URL.@Un punto de navegación para ir a otra página.@Una propaganda.@3@Un punto de navegación para ir a otra página.
 Un SGBD es...@ Es una relación de datos relacionados interrelacionados y un conjunto de programas para acceder a dichos datos.@ Es aquel que permite tener acceso a los usuarios de datos organizados mediante el modelo de datos.@ Una serie Datos no relacionados que se pueden modificar.@ Es un programa de Software que no se puede modificar,ni eliminar.@1@ Es una relación de datos relacionados interrelacionados y un conjunto de programas para acceder a dichos datos.
