@@ -39,3 +39,72 @@ Combinación de teclas que permite copiar un párrafo:@Control + C.@Control + M.
 Permite visualizar el estado actual del documento que se encuentra activo:@Barra de nombres.@Barra de opciones.@Barra de cintas.@Barra de estado.@4@Barra de estado.
 Esta tecla permite dejar espacio entre cada letra que se escribe:@Tecla Enter o Intro.@Tecla F7.@Barra de opciones.@Barra espaciadora.@4@Barra espaciadora.
 Cuándo abrimos Word, ¿qué menú es el que nos aparece Inicialmente?@Archivo.@Inicio.@Herramientas.@Edición.@2@Inicio.
+Para introducir un carácter especial en el texto, como los de Copyright o Registrado, en la pestaña Insertar, ¿cuál de las siguientes herramientas se emplea en Word?@Marcador@WordArt@Elementos rápidos@Símbolo@4@Símbolo
+En Word, dentro de qué pestaña se encuentra la opción de "Aumentar el tamaño de la fuente":@Inicio.@Vista.@Correspondencia.@Revisar.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Disminutir el tamaño de la fuente":@Inicio.@Vista.@Correspondencia.@Revisar.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Aumentar sangría" del texto:@Inicio.@Vista.@Correspondencia.@Revisar.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Centrar" texto:@Inicio.@Vista.@Correspondencia.@Revisar.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Disminuir sangría" del texto:@Inicio.@Vista.@Correspondencia.@Revisar.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Subrayado" de texto:@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Color de resaltado de texto":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Viñetas":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Numeración":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Dictar":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Seleccionar todo":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Reemplazar" texto:@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Buscar" texto:@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Mostrar marcas de párrafo y otros símbolos ocultos":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Confidencialidad":@Inicio.@Insertar.@Diseño.@Disposición.@1@Inicio.
+En Word, dentro de qué pestaña se encuentra la opción de "Portada":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Salto de página":@Inicio.@Insertar.@Diseño.@Revisar.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Página en blanco":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de insertar "Tabla":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de insertar "Imágenes":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Reutilizar archivos":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Wikipedia":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Encabezado":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Pie de página":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Número de página":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Elementos rápidos" (Autotexto):@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Línea de firma":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Ecuación":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Simbolo":@Inicio.@Insertar.@Diseño.@Disposición.@2@Insertar.
+En Word, dentro de qué pestaña se encuentra la opción de "Temas" en formato del documento:@Inicio.@Insertar.@Diseño.@Disposición.@3@Diseño.
+En Word, dentro de qué pestaña se encuentra la opción de "Marca de agua":@Inicio.@Insertar.@Diseño.@Disposición.@3@Diseño.
+En Word, dentro de qué pestaña se encuentra la opción de "Color de página":@Inicio.@Insertar.@Diseño.@Disposición.@3@Diseño.
+En Word, dentro de qué pestaña se encuentra la opción de "WordArt":@Inicio.@Insertar.@Diseño.@Disposición.@3@Diseño.
+En Word, dentro de qué pestaña se encuentra la opción de "Orientación" de la página:@Inicio.@Insertar.@Diseño.@Disposición.@4@Disposición.
+En Word, dentro de qué pestaña se encuentra la opción de "Tamaño" de la página:@Inicio.@Insertar.@Diseño.@Disposición.@4@Disposición.
+En Word, dentro de qué pestaña se encuentra la opción de "Satos de página":@Inicio.@Revisar.@Diseño.@Disposición.@4@Disposición.
+En Word, dentro de qué pestaña se encuentra la opción de "Aplicar sangría":@Vista.@Insertar.@Diseño.@Disposición.@4@Disposición.
+En Word, dentro de qué pestaña se encuentra la opción de "Traer adelante" de una figura:@Inicio.@Insertar.@Diseño.@Disposición.@4@Disposición.
+En Word, dentro de qué pestaña se encuentra la opción de "Enviar atrás" de una figura:@Inicio.@Insertar.@Diseño.@Disposición.@4@Disposición.
+En Word, dentro de qué pestaña se encuentra la opción de "Nota al pie de página":@Referencias.@Insertar.@Diseño.@Disposición.@1@Referencias.
+En Word, dentro de qué pestaña se encuentra la opción de "Investigador":@Referencias.@Insertar.@Diseño.@Disposición.@1@Referencias.
+En Word, dentro de qué pestaña se encuentra la opción de "Tabla de contenido":@Referencias.@Correspondencia.@Diseño.@Disposición.@1@Referencias.
+En Word, dentro de qué pestaña se encuentra la opción de "Iniciar combinación de correspondencia":@Referencias.@Correspondencia.@Diseño.@Disposición.@2@Correspondencia.
+En Word, dentro de qué pestaña se encuentra la opción de "Sobres" para el envío de correo:@Referencias.@Correspondencia.@Diseño.@Disposición.@2@Correspondencia.
+En Word, dentro de qué pestaña se encuentra la opción de "Etiquetas" para el envío de correo:@Referencias.@Correspondencia.@Diseño.@Disposición.@2@Correspondencia.
+En Word, dentro de qué pestaña se encuentra la opción de "Insertar bloque de direcciones":@Referencias.@Correspondencia.@Diseño.@Disposición.@2@Correspondencia.
+En Word, dentro de qué pestaña se encuentra la opción de "Revisar documento":@Referencias.@Correspondencia.@Revisar.@Disposición.@3@Revisar.
+En Word, dentro de qué pestaña se encuentra la opción de "Idioma":@Referencias.@Correspondencia.@Revisar.@Disposición.@3@Revisar.
+En Word, dentro de qué pestaña se encuentra la opción de "Traducir":@Referencias.@Correspondencia.@Revisar.@Disposición.@3@Revisar.
+En Word, dentro de qué pestaña se encuentra la opción de "Mostrar comentarios":@Referencias.@Correspondencia.@Revisar.@Disposición.@3@Revisar.
+En Word, dentro de qué pestaña se encuentra la opción de "Control de cambios":@Referencias.@Correspondencia.@Revisar.@Disposición.@3@Revisar.
+En Word, dentro de qué pestaña se encuentra la opción de "Restringir edición" en la protección del documento:@Referencias.@Correspondencia.@Revisar.@Disposición.@3@Revisar.
+En Word, dentro de qué pestaña se encuentra la opción de "Modo de lectura":@Referencias.@Correspondencia.@Revisar.@Vista.@4@Vista.
+En Word, dentro de qué pestaña se encuentra la opción de "Diseño de impresión":@Referencias.@Correspondencia.@Revisar.@Vista.@4@Vista.
+En Word, dentro de qué pestaña se encuentra la opción de "Zoom":@Referencias.@Correspondencia.@Revisar.@Vista.@4@Vista.
+En Word, dentro de qué pestaña se encuentra la opción de "Macros":@Referencias.@Correspondencia.@Revisar.@Vista.@4@Vista.
+En Word, dentro de qué pestaña se encuentra la opción de "Ayuda":@Ayuda.@Correspondencia.@Revisar.@Vista.@1@Ayuda.
+En Word, dentro de qué pestaña se encuentra la opción de "Mostrar aprendizaje":@Ayuda.@Correspondencia.@Revisar.@Vista.@1@Ayuda.
+¿Cúal de las siguientes funciones no puede ser realizada en Wordpad?@Cambiar formato texto.@Cambiar la sangría del documento.@Añadir una imagen.@Crear Macro.@4@Crear Macro.
+¿Cúal de las siguientes funciones no puede ser realizada en Wordpad?@Añadir fecha y hora.@Añadir imagen.@Proteger documento.@Incrementar tamaño de texto.@3@Proteger documento.
+Si en un documento de Word se introduce la formula "=Suma(3;4;5)", ¿Cómo se mostraría la información en el documento?.@Automáticamente realizaría el calculo y mostraría un 12.@Mostraría "=Suma(3;4;5)" con una marca de posible error ortográfico.@Mostraría un error, dando la opción de cambiar al programa Excel para solucionar la formula.@Ninguna de las anteriores.@1@Automáticamente realizaría el calculo y mostraría un 12.
+Si en un documento de Word se introduce la formula "=(3*4)+(7*9)-13", ¿Cómo se mostraría la información en el documento?.@Automáticamente realizaría el calculo y mostraría un 62.@Mostraría "=(3*4)+(7*9)-13" con una marca de posible error ortográfico.@Mostraría un error, dando la opción de cambiar al programa Excel para solucionar la formula.@Ninguna de las anteriores.@1@Automáticamente realizaría el calculo y mostraría un 62.
+¿Cúal de las siguientes funciones no puede ser realizada en el Bloc de Notas?@Cambiar formato texto.@Cambiar la sangría del documento.@Añadir una imagen.@Crear Macro.@4@Crear Macro.
+¿Cúal de las siguientes funciones no puede ser realizada en  el Bloc de Notas?@Añadir fecha y hora.@Añadir imagen.@Proteger documento.@Incrementar tamaño de texto.@3@Proteger documento.
+En Word, para seleccionar todo el texto contenido en un documento, deberá pulsarse la siguiente combinación de teclas:@Control+ C@Control+ E@Alt + S@Alt + J@2@Control+ E
+Trabajando en Word, ¿en qué cuadro de diálogo podemos cambiar la orientación del papel para imprimir en vertical u horizontal?@Versiones.@Formato.@Guardar como...@Configurar página.@4@Configurar página.
+Si trabajando en un documento de Word, se pulsa la combinación de teclas "Control" + ¿qué efecto producirá?@Desplazará el cursor al final de la línea en la que se encuentra.@Desplazará el cursor al final del documento.@Seleccionará la línea en la que se encuentra el cursor.@Seleccionará todo el documento.@2@Desplazará el cursor al final del documento.
+En un documento de Word, ¿qué tipo de sangría especial aplica la sangría a todo el párrafo a excepción de la primera línea?@Sangría de primera línea.@Sangría francesa.@Sangría izquierda.@Sangría negativa.@2@Sangría francesa.

@@ -40,3 +40,9 @@ En Microsoft Outlook, ¿Con qué método abreviado se puede buscar un contacto?.
 ¿Qué protocolo es utilizado por disitintos clientes de correo electrónico?.@UDP@TCP@POP3@SSH@3@POP3
 Protocolo estándar para el acceso a correos electrónicos alojados en un servidor web.@UDP@TCP@HTTP@IMAP@4@IMAP
 ¿Cuál de los indicados no es un protocolo relacionado con correo electrónico?@ARP@IMAP@SMTP@POP3@1@ARP
+En Outlook, dentro de qué pestaña se encuentra la opción de "Mostrar aprendizaje":@Ayuda.@Correspondencia.@Revisar.@Vista.@1@Ayuda.
+En Outlook, dentro de qué pestaña se encuentra la opción de "Ayuda":@Ayuda.@Correspondencia.@Revisar.@Vista.@1@Ayuda.
+¿Cúal no es una pestaña de Outlook?@Inicio.@Enviar y Recibir.@Carpeta.@Correspondencia.@4@Correspondencia.
+¿Cúal no es una pestaña de Outlook?@Inicio.@Enviar y Recibir.@Referencia.@Ayuda.@3@Referencia.
+¿Cúal no es una pestaña de Outlook?@Inicio.@Diseño@Enviar y Recibir.@Ayuda.@2@Diseño
+¿Cúal no es una pestaña de Outlook?@Inicio.@Vista.@Enviar y Recibir.@Todas las anteriores son pestañas de Outlook.@4@Todas las anteriores son pestañas de Outlook.

@@ -26,3 +26,10 @@ Para localizar una dirección de Internet determinada:@Se pulsa un enlace para i
 ¿Qué es FTP?.@Es un protocolo que se utiliza para transferir todo tipo de archivos entre equipos conectados a una red.@Es una aplicación de internet.@Es una herramienta de búsqueda avanzada de Internet Explorer.@Ninguna de las anteriores.@1@Es un protocolo que se utiliza para transferir todo tipo de archivos entre equipos conectados a una red.
 ¿Qué es ICMP?@Protocolo que mapea direcciones IP en relación a las direcciones de hardware utilizados por un protocolo de enlace datos.@Es un protocolo que apoya al proceso de control de errores y consulta de  gestión.@Protocolo que garantiza que los datos se transmiten de manera adecuada a través de Internet.@Protocolo que permite que los navegadores y servidores web se comuniquen adecuadamente.@2@Es un protocolo que apoya al proceso de control de errores y consulta de  gestión.
 ¿Cúal de los siguientes no es un protocolo de internet?.@FTP.@HTTP.@LHP.@UDP.@3@LHP.
+ ¿Qué lenguajes pueden interpretar los navegadores o exploradores de páginas web?@HTML@C++@Pascal@Ensamblador@1@HTML
+¿En qué se diferencia los enlaces https y http?@La seguridad.@La velocidad de conexión.@La omisión de información.@Ninguna de las anteriores.@1@La seguridad.
+¿Cúal de los siguientes es un navegador de internet?@NetScape.@Naptchat.@Adobe.@Ninguna de las anteriores.@4@Ninguna de las anteriores.
+¿Cúal de los siguientes es un navegador de internet?@NetScape.@Opera@Adobe.@Ninguna de las anteriores.@2@Opera
+¿Cúal de los siguientes es un navegador de internet?@NetScape.@Naptchat.@Mozilla Firefox@Ninguna de las anteriores.@3@Mozilla Firefox
+¿En qué navegador se pueden guardar páginas web visitadas?.@Sólo en Chrome.@Sólo en Mozilla.@Sólo en Opera.@En todas las anteriores.@4@En todas las anteriores.
+En Internet Explorer, ¿cómo se denominan los vínculos a un sitio Web que se visita con frecuencia?@Historial.@Páginas de inicio.@Cookies.@Favoritos.@4@Favoritos.
