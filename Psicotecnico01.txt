@@ -1,181 +1,297 @@
-Señale la opción que tenga un significado MAS PARECIDO al de la palabra MARISMA:@Planicie@Despeñadero@Albufera@Secarral@3@Albufera
-Señale la opción que tenga un significado MAS PARECIDO al de la palabra HEDOR:@Aura@Aroma@Fetidez@Transpiración@3@Fetidez
-Señale la opción que tenga un significado MAS PARECIDO al de la palabra REMISO:@Melindroso@Irresoluto@Diligente@Cauto@2@Irresoluto
-Señale la opción que tenga un significado MAS PARECIDO al de la palabra DENOSTAR:@Percatar@Sucumbir@Injuriar@Devaluar@3@Injuriar
-Señale la opción que tenga un significado MAS PARECIDO al de la palabra SOLÍCITO:@Cuidadoso@Imponente@Rendido@Firme@1@Cuidadoso
-Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No hay _____ para poder concederle lo _____ .@precedentes / solicitado@inconbeniente / pedido@motibos /generado@razones / acostunbrado@1@precedentes / solicitado
-Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “Los métodos contables _____ no difieren en _____ de los clásicos.@nombrados / algo@actuales / exceso@anteriores / demasiado@antigüos / demasía@2@actuales / exceso
-Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No hay ______ excluyentes cuando los asuntos son de ______ importancia.@solicitudes / otra@ventajas / gran@precedentes / menos@razones / vital@4@razones / vital
-Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “Muchos trabajadores ______ inicialmente los protectores oculares a causa de las inadecuadas campañas de ______.@prescindieron / publicidad@prescindirán / anuncios@renegaron / marketing@rechazarán / información@4@rechazarán / información
-¿Qué palabra significa lo mismo que «enervar»?@ Tranquilizar.@  Fortalecer.@    Indisponer.@    Debilitar.@4@Debilitar.
-¿Cuál es el antónimo de «entusiasta»?@ Ingenuo.@ Frio.@ Fogoso.@ Vehemente.@2@Frio.
-.......... es a «principio» como «muerte» es a ..........@ Inicio - Cadáver.@ Nacimiento - Fin.@ Meta - Transcurso.@ Vida - Final.@2@Nacimiento - Fin.
-En las siguientes palabras hay tres que mantienen alguna clase de relación desde el punto de vista de su significado y una que no. Se trata de averiguar cuál es la palabra no relacionada semánticamente con las demás.@ Atún@ Rodaballo@ Delfín@ Jurel@3@Delfín. (Todas son especies comestibles, el delfín no).
-Se almacena toda la lluvia que cae sobre el tejado plano de una casa en un tanque rectangular de 2 x 1,5 metros. Si 5 mm de lluvia cae sobre el tejado plano que tiene un área total de 90 metros cuadrados, el nivel del agua en el tanque se eleva en:@ 1,5 mm@ 1,5 m@ 15 mm@ 150 mm@4@150 mm.En total caen 0,45 metros cúbicos de agua sobre el tejado que hace que el depósito suba 0,15 metros, es decir 150 milímetros.
+ Calcule el valor de X en la siguiente operación: 12 (6X – 13) = @4,21@7,38@2,19@1,96@3@2,19
+ En una empresa hay cuatro socios con el 10, 25, 30 y 35% de las acciones respectivamente. Si el máximo accionista tiene 196.000€ en acciones, ¿cuánto dinero en acciones tiene el que menos?@92450@72200@68000@56000@4@56000
+ Indique el valor que completa la siguiente operación: raiz cuadrada de 1357,1856@36,84@36,34@34,84@34,94@1@36,84
+ Señale qué combinación de números es la correcta para esta operación: _ x _ – _ = 7@10, 15, 4@7, 12, 9@13, 7, 2@9, 11, 5@2@7, 12, 9
+ Si de una circunferencia, tomamos una porción de 45% del total, ¿cuántos grados tendrá esa porción?@123.33 grados.@162 grados.@99 grados.@130,66 grados.@3@99 grados.
+ Si en Canarias, el 65% de su población vive en municipios de más de 10.000 habitantes, ¿cuánta población hay en los municipios de menos de 10.000 habitantes?@891622,9@651773,41@792459,05@744372,65@4@744372,65
+ Si en el País Vasco la media de población en los municipios de más de 10.000 habitantes es de 40.300, ¿cuál es la media de población en los municipios de menos de 10.000?@2409,8@2391,3@1976,5@2520,6@1@2409,8
+ Si la media de superficie por municipio mayor de 10.000 habitantes es de 50 kilómetros cuadrados (km2), ¿qué Comunidad Autónoma de las siguientes tiene más km2 de media en municipios de menos de 10.000 habitantes?@Andalucía@Comunidad de Madrid@País Vasco@Región de Murcia@4@Región de Murcia
+ Un almacén tiene una capacidad de 1.200 unidades, y su stock actual es de 336 unidades. Cada cargamento que se recibe para almacenar contiene 96 unidades. ¿Cuántos cargamentos puede recibir como máximo antes de llenarse por completo?@12 cargamentos@6 cargamentos@9 cargamentos@5 cargamentos@3@9 cargamentos
+ Una empresa tiene unas ventas totales de 3.721 millones. El 23% se vende en el mercado interior, el 41% en la Unión Europea, y el resto a otros países. Del resto de países, Turquía representante el 55%. ¿Cuál es la cantidad vendida en Turquía?@533,71 millones.@857,52 millones.@736,75 millones.@667,55 millones.@3@736,75 millones.
 .......... es a «educación» como «enfermero» es a ..........@ Colegio - hospital.@ Profesor - sanidad.@ Aprender - curar.@ Maestro - médico.@2@Profesor - sanidad.
-Las palabras «crispación» y «crueldad» tienen como antónimo y sinónimo, respectivamente:@ Conmoción - ferocidad.@ Relajación - bondad.@ Distensión - barbarie.@ Convulsión - brutalidad.@3@Distensión - barbarie.
-Indica entre las siguientes palabras cuál es el sinónimo de la palabra ESPURIO@Dogmático@Tácito@Delgado@Falso@4@Falso
-Tres docenas de limones cuestan tantos euros como limones dan por 16 euros. ¿Cuánto vale la docena de limones?@ 8 euros.@ 10 euros.@ 12 euros.@ 14 euros.@1@8 euros.Llamando «p» al precio de un limón expresado en euros: 36 limones cuestan 36 x p euros.Por 16 euros dan 16 / plimones, luego 36 x p = 16 / p, de donde p = 0,66 euros. Doce limones valdrán entonces aproximadamente 8 euros.
-¿Qué par de palabras sustituirían a las entrecomilladas en la siguiente frase sin alterar el sentido de la misma?La venta de alcohol es «acicate» para la «algarabía» nocturna.@ Incentivo - bulla.@ Aliciente - policía.@ Causa - algarada.@ Motivo - rebelión.@1@Incentivo - bulla.
-De las siguientes oraciones una de ellas es ortográficamente incorrecta. Indíquela.@ La ojiba nuclear absorbió calor.@ La alhaja está en la joroba del baobab.@ La vitola calibra las balas del fusil.@ El eximio diputado divagó vehementemente.@1@La ojiba nuclear absorbió calor. (Correcto ojiva).
-La pregunta que sigue es un ejercicio de resistencia a la fatiga consistente en contar visualmente y sin ninguna otra ayuda el número total de signos que hay como el que aparece entre corchetes indicando la respuesta verdadera.[e]  seseeesssseseseseseseesssseeesessessesseseseseesssseeesesseseesesesesssssesesessseessesesesesesseeseseseseesssseeesesses@ 52@ 53@ 54@ 55@3@54
-De los cuatro pares de palabras que se proponen, uno no guarda relación de sinonimia. Señálelo:@ Asenso - escaño.@ Acicate - incentivo.@ Menester - necesidad.@ Impetu - brío.@1@Asenso - escaño.
-Dadas las siguientes series de palabras, señalar la opción donde el par de palabras no son antónimas entre sí.@ Expulsión - admisión.@ Fragor - guerra.@ Presunción - modestia.@ Fáctico - teórico.@2@Fragor - guerra.
-Señálese la palabra que corresponde a la siguiente definición:«Persona que no ha tomado estado de matrimonio»@ Casto@ Célibe@ Presbítero@ Púber@2@Célibe.
-Una de estas series de antónimos es incorrecta. Señálela:@ Ejecutorio - apelable.@ Tieso - lacio.@ Efusivo - frío.@ Dúctil - maleable.@4@Dúctil - maleable.
-De las siguientes frases una de ellas está acentuada incorrectamente. Indíquela.@ Vine en cuánto me llamaste.@ ¡Cuánto dolor sentía!@ ¿Cuánto vale este libro?@ Vinieron cuantos invitaste.@1@Correcto: Vine en cuanto me llamaste.
 .......... es a «mentira», como «mal» es a ...........@ Falso - peor@ Correcto - bueno@ Verdad - bien.@ Deshonesto - demonio@3@Verdad - bien.
-Señale el antónimo de «desencajar»:@ Sacar.@ Adaptar.@ Entristecer.@ Limpiar.@2@Adaptar.
-Señale qué palabra de las presentadas como opciones responde con mayor exactitud a la siguiente definición.«Procedimiento que se sigue en las ciencias para hallar la verdad y enseñala».@ Razonamiento.@ Método.@ Hipótesis.@ Empirismo@2@Método.
-Indica entre las siguientes palabras cuál es el sinónimo de la palabra REMUNERACIÓN@ Alabanza@ Enumeración@ Ascenso@ Paga@4@Paga
-CACEREÑO es a CÁCERES como EGABRENSE es a ...@ Cabra@ Calatayud@ Gerona@ Cádiz@1@Cabra
-Señale la palabra que no pertenece al grupo:@Alquitrán@Resina@Brea@Asfalto@2@Resina
-Señale la palabra que no pertenece al grupo:@ Explosión@ Rebelión@ Motín@ Levantamiento@1@Explosión
-COCHE es a VOLANTE como BARCO es a ...@ Proa@ Timón@ Ancla@ Sextante@2@Timón
-¿Cuántas faltas de ortografía tiene la siguiente frase?: Aquel sexagenario goza de granflesibilidad.@ Dos@ Cuatro@ Una@ Tres@1@Dos
-Señale la palabra que no pertenece al grupo:@ Extraño@ Advenedizo@ Eximio@ Intruso@3@Eximio
-Señala la palabra que está incorrectamente escrita:@ Lava@ Instantaneo@ Rabia@ Físico@2@Instantaneo
-FLOR es a PISTILO como MUJER es a ...@ Abdomen@ Útero@ Ano@ Vagina@2@Útero
-Señale la palabra que no pertenece al grupo:@ Gallina@ Pichón@ Cordero@ Ternera@1@Gallina
-Señala la palabra que está incorrectamente escrita:@ Levantar@ Escorpión@ Churrería@ Alquitran@4@Alquitran
+.......... es a «principio» como «muerte» es a ..........@ Inicio - Cadáver.@ Nacimiento - Fin.@ Meta - Transcurso.@ Vida - Final.@2@Nacimiento - Fin.
+¿Cuál de las siguientes frases está correctamente construida?.@En la sala habían mucha gente@En la sala había cientos de personas.@En la sala habían cientos de personas.@En la sala habían poca gente.@2@En la sala había cientos de personas.
+¿Cuál de las siguientes opciones tiene un significado más parecido a la palabra REQUERIR?.@Desplegar@Trazar@Solicitar@Imbuir@3@Solicitar
 ¿Cuál de las siguientes series de palabras está correctamente escrita?.@ Agasajar - anhelar - apatía - método - exceso.@ Antojo - abto - menudencia - estasis - fatasma.@ Ajenda - anelar - arrabal - malsano - extorbo.@ Andrajoso - excluir - mestiso - ajustar - alavanza.@1@Agasajar - anhelar - apatía - método - exceso.
-Indica el antónimo de la palabra DERECHO@ Quebrado@ Inclinado@ Torcido@ Recto@3@Torcido
-Indica entre las siguientes palabras cuál es el sinónimo de la palabra ERRAR@ Acertar@ Descalzar@ Herrar@ Fallar@4@Fallar
+¿Cúal es el 20% de 7690?.@1401,5@1538@1600@1640@2@1538
+¿Cúal es el 20% de 8056?.@1611,2@1802,6@1904,6@1501,3@1@1611,2
+¿Cúal es el 20% de 8312?.@1700,5@1800@1662,4@1100@3@1662,4
+¿Cúal es el 26% de 7680?.@1996,8@2072,4@2200,8@2715,6@1@1996,8
+¿Cúal es el 30% de 6571?.@2000,2@1971,3@2200,8@1915,5@2@1971,3
+¿Cúal es el 40% de 4321?.@1800@1728,4@1600,6@1800,9@2@1728,4
+¿Cúal es el 40% de 4400?.@2100@1760@1900@1500@2@1760
+¿Cúal es el 40% de 5430?.@2172@2072@2200@2715@1@2172
+¿Cúal es el 40% de 5542?.@2000@2216,8@2200,8@2715,6@2@2216,8
+¿Cúal es el 40% de 5542?.@2216,8@2072,4@2200,8@2715,6@1@2216,8
+¿Cúal es el 40% de 6573?.@2800,3@2629,2@2700@2506,6@2@2629,2
+¿Cúal es el 40% de 7500?.@3000@3300@2200@2715@1@3000
+¿Cúal es el 42% de 640?.@268,8@202,4@200,8@271,6@1@268,8
+¿Cúal es el 45% de 8401?.@3780,45@2072,4@2200,8@2715,6@1@3780,45
+¿Cúal es el 60% de 8424?.@5054,4@2072,4@4200,8@6715,6@1@5054,4
+¿Cúal es el 60% de 95021?.@4542,1@1800@3000,8@57012,6@4@57012,6
+¿Cúal es el 65% de 700?.@425@455@500@505@2@455
+¿Cuál es el antónimo de «entusiasta»?.@ Ingenuo.@ Frio.@ Fogoso.@ Vehemente.@2@Frio.
+¿Cuál es el máximo común divisor de: 18 y 24?@ 48@ 6@ 3@ 72@2@6
+¿Cuál es el resultado de la siguiente operación: 3.127 + 0,032 + 5,1 + 11,001?:@3139,253@3143,133@3145,113@3141,273@2@3143,133
+¿Cuántas faltas de ortografía tiene la siguiente frase?: Aquel sexagenario goza de granflesibilidad.@ Dos@ Cuatro@ Una@ Tres@1@Dos
+¿Qué letra continúa la serie? (no cuenta la W) B D G K …@O@P@Q@R@1@O
+¿Qué letra continúa la serie? (no cuenta la W) G O M H P N I Q ...@ Ñ@ L@ T@ S@1@Ñ
+¿Qué letra continúa la serie? (no cuenta la W) G O M H P N I Q …@N@M@O@Ñ@4@Ñ
+¿Qué letra continúa la serie? (no cuenta la W) I J M N Ñ R S T U ...@X@Z@A@B@3@A
+¿Qué letra continúa la serie? (no cuenta la W) I J M N Ñ R S T U …@A@E@I@O@1@A
+¿Qué letra continúa la serie? (no cuenta la W) T X B E ...@H@L@I@N@3@I
+¿Qué letra continúa la serie? (no cuenta la W) X E L ...@T@B@R@Z@3@R
+¿Qué letra continúa la serie? (no cuenta la W) X F Y E X D Y ...@Y@C@F@X@2@C
+¿Qué número viene después en la siguiente serie? 9, 16, 25, 36…@49@50@48@51@1@49
+¿Qué palabra significa lo mismo que «enervar»?@ Tranquilizar.@  Fortalecer.@    Indisponer.@    Debilitar.@4@Debilitar.
+¿Qué par de palabras NO mantiene la relación que encontramos en ANGOSTO y AMPLIO?.@Brillante y luminoso@Provisorio y definitivo@Tenaz e Inconstante@Apocado y enérgico@1@Brillante y luminoso
+¿Qué par de palabras sustituirían a las entrecomilladas en la siguiente frase sin alterar el sentido de la misma?La venta de alcohol es «acicate» para la «algarabía» nocturna.@ Incentivo - bulla.@ Aliciente - policía.@ Causa - algarada.@ Motivo - rebelión.@1@Incentivo - bulla.
+¿Qué series de palabras no contienen ningún error ortográfico?.@Expeditivo, zurcir, aviar, contricción.@Baya, inhibición, adherido, estiércol.@Enjuto, inconeso, mexicano, overbooking.@Abaco, cayamiento, exhortante, óbido@2@Baya, inhibición, adherido, estiércol.
+A la vista de que i=4, t=2, p=11, e=9 y g=3. ¿Cuál es el número que resulta de esta operación (g-t)xi?:@34@4@9@6@2@4
 ALTO es a DEPORTE como BAJO es a ...@ Natación@ Tranquilidad@ Actividad@ Inactividad@4@Inactividad
-Señala el antónimo correspondiente de la palabra ANODINO@ Fútil@ Baladí@ Nimio@ Sabroso@4@Sabroso
-Señale la palabra que no pertenece al grupo:@ Proporción@ Coyuntura@ Oportunidad@ Cifra@4@Cifra
-Indica entre las siguientes palabras cuál es el antónimo de la palabra ETÉREO@ Vaporoso@ Elevado@ Sutil@ Corpóreo@4@Corpóreo
-Señala el sinónimo correspondiente de la palabra GRANDE@ Descomunal@ Infundioso@ Magno@ Grave@3@Magno
-FIRME es a ... como VOLUBLE es a ...@ Constante - Idóneo@ Versátil - Arbitrario@ Estable - Versátil@ Enérgico - Espacioso@3@Estable - Versátil
-El número 1.666, en números romanos se escribe@MDCLXVI@LXXXVI@DCCCXCVI@CMXCVI@1@MDCLXVI
-Atendiendo al uso de los pronombres la, lo, le, ¿cuál de las siguientes frases es correcta desde el punto de vista gramatical?.@(A Pedro) no la interesan las nuevas tecnologías@(A Pedro) no lo interesan las nuevas tecnologías@(A Elvira) no la interesan las nuevas tecnologías@(A Elvira) no le interesan las nuevas tecnologías@4@(A Elvira) no le interesan las nuevas tecnologías
-Señale la frase correcta para expresar que un informe tendrá que ser escrito de nuevo@Va a haber que reescribir el informe@Va haber que reescribir el informe@Va a ver que reescribir el informe@Va a ver que reescribir el informe@1@Va a haber que reescribir el informe
+Ana dice a su hija Beatriz: Hace 7 años mi edad era 5 veces la tuya, pero ahora sólo es el triple. ¿Qué edad tiene Ana?@ 38 años@ 35 años@ 40 años@ 42 años@4@42 años
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  1, 0, -1, 0@3@-2@-1@1@4@1
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  1, 1, 2, 3, 5.@6@9@8@10@3@8
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  21, 20, 18, 15, 11.@7@6@9@12@2@6
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  3968, 63, 8, 3.@1@5@2@3@3@2
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  65536, 256, 16@3@2@1@4@4@4
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  8, 6, 7, 5, 6, 4.@8@7@3@5@4@5
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica:  A, D, G, J.@LL@N@O@P@1@LL
+Añadir a cada sucesión de letras o números la letra o número que debe seguir, por lógica: 1, 3, 6, 10.@16@20@15@12@3@15
+Atendiendo a su acentuación gráfica, ¿cuál de los siguientes pares de palabras está convenientemente escrito?.@Regimen-Regímenes.@Regimen-Regimenes.@Régimen-Regímenes.@Régimen-Regimenes.@3@Régimen-Regímenes.
 Atendiendo al uso de los adjetivos ordinales, ¿cuál de las siguientes expresiones sería la correcta?.@Se ha celebrado el trigésimo quinto Congreso de la Administración Pública@Se ha celebrado el 35 Congreso de la Administración Pública@Se ha celebrado el treinta y cinco Congreso de la Administración Pública@Se ha celebrado el treintaicincoavo Congreso de la Administración Pública@1@Se ha celebrado el trigésimo quinto Congreso de la Administración Pública
-¿Cuál de las siguientes frases está correctamente construida@En la sala había mucha gente@En la sala había cientos de personas@En la sala habían cientos de personas@En la sala habían poca gente@2@En la sala había cientos de personas
-La palabra aun se escribe con tilde o acento gráfico (aún) cuando significa@Todavía@También@Incluso@Hasta@1@Todavía
-Las palabras acabadas en “s”@Llevan acento gráfico siempre@No llevan acento gráfico nunca@No se acentúan a excepción de las que acaban en “ps”@Se acentúan cuando no provienen del latín@3@No se acentúan a excepción de las que acaban en “ps”
-¿Cuál de las siguientes frases es correcta?.@Resulta de que Juan no se dio cuenta de que era fiesta@Resulta de que Juan no se dio cuenta que era fiesta@Resulta que Juan no se dio cuenta de que era fiesta@Resulta que Juan no se dio cuenta que era fiesta@3@Resulta que Juan no se dio cuenta de que era fiesta
-La homonimia es@Identidad de significantes de palabras de distinto significado@La identidad de significados@La oposición de significados@La repetición de un mismo sonido@1@Identidad de significantes de palabras de distinto significado
-Atendiendo a su acentuación gráfica, ¿cuál de los siguientes pares de palabras está convenientemente escrito?@Regimen-Regímenes@Regimen-Regimenes@Régimen-Regímenes@Régimen-Regimenes@3@Régimen-Regímenes
-Un determinado Organismo concede un premio de jubilación a tres empleados, al cumplir 65 años de edad, de forma directamente proporcional a sus años de servicio, que son 30, 45 y 25 años. Si el importe total del premio es de 540.000 pesetas, ¿cuánto le corresponderá, respectivamente, a cada uno?@135.000, 202.500, 112.500@125.000, 207.000, 118.000@135.000, 202.500, 113.500@135.000, 205.000, 109.500@1@135.000, 202.500, 112.500
+Atendiendo al uso de los pronombres la, lo, le, ¿cuál de las siguientes frases es correcta desde el punto de vista gramatical?.@(A Pedro) no la interesan las nuevas tecnologías@(A Pedro) no lo interesan las nuevas tecnologías@(A Elvira) no la interesan las nuevas tecnologías@(A Elvira) no le interesan las nuevas tecnologías@4@(A Elvira) no le interesan las nuevas tecnologías
+Averigua las incógnitas para que el resultado de la operación sea el correcto: ? ? ? - ? = 22@ 5, x, 5, 2@ 2, x, 6, 1@ 7, +, 12, 6@ 6, x, 4, 2@4@6, x, 4, 2
+Averigua las incógnitas para que el resultado de la operación sea el correcto: 6 ? ? x ? = -34@ -, 23, 2@ x, 2, 4@ +, 6, 6@ -, 10, 4@4@-, 10, 4
+CACEREÑO es a CÁCERES como EGABRENSE es a ...@ Cabra@ Calatayud@ Gerona@ Cádiz@1@Cabra
+COCHE es a VOLANTE como BARCO es a ...@ Proa@ Timón@ Ancla@ Sextante@2@Timón
+Completa la serie: ? 54 D 49 T 44 C 39 C 34 S 29 S ? O@ U, 24@ B, 30@ C, 27@ X, 26@1@U, 24
+Completa la serie: 2, 10, 5, ?, 20, 100, 95, 475, ?@15, 450@10, 95@25, 470@25, 95@3@25, 470
+Completa la serie: 4 N 8 Q 2 U 6 ?@ Z@ X@ V@ Y@4@Y
+Completa la serie: 4AC7, 8EG11, 16IK15, ...@ 18MÑ19@ 32LM17@ 32LM19@ 32MÑ17@4@32MÑ17
+Completa la serie: A2Z26, C4X24, E6V22, ...@ G8T20@ G8U20@ F8T20@ G8S20@1@G8T20
+Completa la siguiente serie: 3 L 7 M 1 N 5 ?@R@T@P@Ñ@4@Ñ
+Completa la siguiente serie: A 13 B 15 C 18 D …@21@18@22@23@3@22
+Complete la serie de números con las operaciones correspondientes: 56_4_2 = 2@x , –@/ , +@/ , –@d / , x@4@d / , x
+Complete la serie numérica 7 – 3 – 21 – 3 – @72@147@28@63@4@63
+Continúa la secuencia 16, 17, 22, 24, 29, 32,@42@37@34@44@2@37
+Continúa la secuencia 18, 15, 12, 9, 6,@3@5@4@2@1@3
+Continúa la secuencia 25, 1, 24, 2, 23,@3@21@22@4@1@3
+Continúa la secuencia 3, 9, 7, 21, 18,@ 39@ 31@ 19@ 54@4@54
+Continúa la serie (valen las letras dobles) A A, B B B, C C C C, D D D D ...@F@G@E@D@4@D
+Continúa la serie (valen las letras dobles) D C S R G F P ...@O@Q@A@B@1@O
+Continúa la serie (valen las letras dobles) D C S R G F P …@R@S@O@P@3@O
+Continúa la serie (valen las letras dobles) D E F G Z A B C V W ...@H@Y@I@X@4@X
+Continúa la serie (valen las letras dobles) H F D B Z X …@S@R@W@V@4@V
+Continúa la serie (valen las letras dobles) Z A Y B X C W D V E ...@U@S@F@T@1@U
+Continúa la serie (valen las letras dobles) Z Y A B X W C D V ...@U@Y@H@F@1@U
+Continúe la siguiente serie numérica con el grupo de los números (de entre los propuestos) que mejor la completan: 1 10 3 9 5 8 7 7 9 6 ? ?.@11 5@10 5@10 4@11 6@1@11 5
+Cuando no entendemos algo se convierte en un ...............para nosotros.@consuelo@reto@misterio@pesar@3@misterio
+Dada la serie: 0 - 3 - 8 - 6 - 9 - 14 - 16 - 15 - ... señalar qué número está equivocado:@16@14@09@15@1@16
+Dadas las siguientes equivalencias: d=0001, f=0010, g=0100, h=1000, i=011, j=0101. ¿Qué serie de letras corresponde a la siguiente serie de números: 0010100000011000?@h-d-f-g@d-i-d-g@f-i-g-h@f-h-d-h@4@f-h-d-h
+Dadas las siguientes series de palabras, señalar la opción donde el par de palabras no son antónimas entre sí.@ Expulsión - admisión.@ Fragor - guerra.@ Presunción - modestia.@ Fáctico - teórico.@2@Fragor - guerra.
+Dado el bloque de números "222722272277727", agrupe de tres en tres sin cambar el orden. ¿Qué serie de letras resulta si a=727, b=722, c=222, d=272 y e=277?:@cbdea@cbdca@cbcea@abdec@1@cbdea
+Dado el siguiente bloque de letras "bdddbbdddbdbdbd", agrupe de tres en tres sin cambiar el orden. ¿Qué número resulta si 1=dbb, 2=bdb, 4=dbd, 6=bdd y 7=ddd?:@61724@64724@61742@61224@1@61724
+De las siguientes frases una de ellas está acentuada incorrectamente. Indíquela.@ Vine en cuánto me llamaste.@ ¡Cuánto dolor sentía!@ ¿Cuánto vale este libro?@ Vinieron cuantos invitaste.@1@Correcto: Vine en cuanto me llamaste.
+De las siguientes oraciones una de ellas es ortográficamente incorrecta. Indíquela.@ La ojiba nuclear absorbió calor.@ La alhaja está en la joroba del baobab.@ La vitola calibra las balas del fusil.@ El eximio diputado divagó vehementemente.@1@La ojiba nuclear absorbió calor. (Correcto ojiva).
+De los cuatro pares de palabras que se proponen, uno no guarda relación de sinonimia. Señálelo:@ Asenso - escaño.@ Acicate - incentivo.@ Menester - necesidad.@ Impetu - brío.@1@Asenso - escaño.
+Deberíamos estar ............... de nuestras virtudes personales.@agradecidos@dudosos@atentos@orgullosos@4@orgullosos
+Determina que combinación completa la siguiente serie: 40B 43D ? 49H 52J.@46F@46E@46G@45H@1@46F
+Determina que letra continúa la siguiente serie: A B C A B D A B E A B F …@C@A@F@B@2@A
+Determina que letra continúa la siguiente serie: C B A C B A C B A C B …@A@H@I@B@1@A
+Determina que letra continúa la siguiente serie: G A V G B V G C V …@P@O@G@I@3@G
+Determina que letra continúa la siguiente serie: X A Y B Z C A D ?.@W@A@B@D@3@B
+Determina que letra continúa la siguiente serie: X, A, Y, B, Z, C, A, D, B, E, …@C@A@P@Q@1@C
+Determina que número continúa la siguiente serie: 1, 2, 100, 101, 16, 17, 40,….@21@18@41@20@3@41
+Determina que número continúa la siguiente serie: 44, 180, 22, 90, 11,  ?.@33@45@50@19@2@45
+Determine qué número debe reemplazar el signo de interrogación : 1, 2, 3, 4, ?.@7@10@5@4@3@5
+Determine qué número debe reemplazar el signo de interrogación: 0, 1, 1, 2, 3, 5, ?.@6@7@8@9@3@8
+Determine qué número debe reemplazar el signo de interrogación: 0, 2, 4, 6, ?.@4@8@2@0@2@8
+Determine qué número debe reemplazar el signo de interrogación: 1, 1, 8, 5, 15, 9, ?.@23@22@24@20@2@22
+Determine qué número debe reemplazar el signo de interrogación: 12, 19, 26, 33, ?.@41@39@41@40@4@40
+Determine qué número debe reemplazar el signo de interrogación: 13, 15, 20, 22, 27, ?.@30@29@35@31@2@29
+Determine qué número debe reemplazar el signo de interrogación: 32, 35, 39, 44, ?.@47@48@49@50@4@50
+Determine qué número debe reemplazar el signo de interrogación: 89, 76, 65, 52, ?,@39@43@41@45@3@41
+Determine qué número debe reemplazar el signo de interrogación: 987, 864, ?, 618, 495.@741@750@758@738@1@741
+El chico  estaba  enamorado,  por  eso  deseaba  tener  una............... con su compañera de clase.@cita@discusión@carpeta@reconciliación@1@cita
+El mínimo común múltiplo de los números: 18, 24, 20 y 9, resulta ser:@290@540@360@600@3@360
+El número 1.666, en números romanos se escribe@MDCLXVI@LXXXVI@DCCCXCVI@CMXCVI@1@MDCLXVI
+El resultado de la siguiente expresión numérica "- (-3) - [2 - (-5+7) - 4] - (+2) + (-5-3)", es:@3@-13@-3@0@3@-3
+Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “Los métodos contables ........ no difieren en ........ de los clásicos.@nombrados / algo@actuales / exceso@anteriores / demasiado@antigüos / demasía@2@actuales / exceso
+Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “Muchos trabajadores ......... inicialmente los protectores oculares a causa de las inadecuadas campañas de .........@prescindieron / publicidad@prescindirán / anuncios@renegaron / marketing@rechazarán / información@4@rechazarán / información
+Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No estamos.... para abordar la......”@satisfechos / mecanografía@echos / pregunta@listos / situación@preparados / crisis@4@preparados / crisis
+Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No hay ....... para poder concederle lo.........@precedentes / solicitado@inconbeniente / pedido@motibos /generado@razones / acostunbrado@1@precedentes / solicitado
+Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No hay ........ excluyentes cuando los asuntos son de ...... importancia.@solicitudes / otra@ventajas / gran@precedentes / menos@razones / vital@4@razones / vital
+Elija la palabra que corresponde a la definición que se expone: “Cantidad expresada con cifras”.@Monto.@Guarismo.@Ciclópeo.@Ecuación.@1@Monto.
+Elija la palabra que corresponde a la definición que se expone: “Imponer un castigo”.@Infracción.@In fraganti.@Infligir.@Implorar.@3@Infligir.
+En el convento reinaba el ............... en todas las estancias.@silencio@calor@frío@movimiento@1@silencio
+En la pareja, la falta de comunicación favorece su ...............@complicidad@acercamiento@desesperanza@distanciamiento@4@distanciamiento
+En la serie de fracciones 3/5, 9/10, 27/20 el criterio de formación resulta de dividir la fracción anterior por 2/3. Según este criterio, ¿cuál sería el término anterior a 3/5 y posterior a 27/20?@2/5, 81/40@1/1, 80/40@1/4, 54/30@1/6, 64/40@1@2/5, 81/40
+En la siguiente serie hay un número equivocado, que no corresponde con la serie. Señala el número que debería ir en su lugar: 2, 6, 9, 27, 30, 33, 99@18@66@3@81@3@3
+En la siguiente serie hay un número equivocado, que no corresponde con la serie. Señala el número que debería ir en su lugar: 4, 8, 16, 3, 9, 27, 2, 8, 64@10@8@32@6@3@32
+En las siguientes palabras hay tres que mantienen alguna clase de relación desde el punto de vista de su significado y una que no. Se trata de averiguar cuál es la palabra no relacionada semánticamente con las demás.@ Atún@ Rodaballo@ Delfín@ Jurel@3@Delfín. (Todas son especies comestibles, el delfín no).
+Encuentra el numero que completa la serie (-1) - 2 - 7 - 14 - ?@34@46@26@23@4@23
+Encuentra el numero que completa la serie 3 - 12 - 5 - ? - 8 - 16 - 9 - 9 - 2@15@14@6@21@1@15
+Encuentra el número que continúa la serie siguiente: 1,  15,  225,  3375, ?.@50625@759375@5560@55600@1@50625
+Encuentra el número que continúa la serie siguiente: 12,  48,  192,  ?.@350@920@840@768@4@768
+Encuentra el número que continúa la serie siguiente: 13,  26,  52,  ? .@180@150@120@104@4@104
+Encuentra el número que continúa la serie siguiente: 16,  32,  64,  ? .@128@110@127@150@1@128
+Encuentra el número que continúa la serie siguiente: 2,  12,  72,  432, ?.@1500@3480@2592@4100@3@2592
+Encuentra el número que continúa la serie siguiente: 2,  7,  12,  42,  72,  252,  ?.@432@1512@2592@9072@1@432
+Encuentra el número que continúa la serie siguiente: 3,  39,  507, ? .@6591@7689@8190@5900@1@6591
+Encuentra el número que continúa la serie siguiente: 4,  60,  900,  ?.@11500@12400@13500@15100@3@13500
+Encuentra el número que continúa la serie siguiente: 8,  48,  288,  ?.@1728@1010@2592@9072@1@1728
+Encuentra el número que continúa la serie siguiente: 9,  108,  1296,  ?.@11430@14500@15552@16500@3@15552
+Encuentra el número que continúa la serie siguiente: 9,  36,  144,  ?.@240@190@790@576@4@576
+Encuentra el número que continúa las serie siguiente: 11 14 18 21 25 28 …@30@32@50@35@2@32
+Encuentra el número que continúa las serie siguiente: 3 1 6 2 12 4 24…@10@8@7@6@2@8
+Encuentra el número que continúa las serie siguiente: 4 15 8 14 12 13 16 12 …@20@13@11@14@1@20
+Encuentra el número que continúa las serie siguiente: 9 17 8 14 7 11 6 8 …@9@5@10@12@2@5
+Encuentra el número que sigue la secuencia 13, 26, 52, 104, 208,@312@260@416@326@3@416
+Encuentra el número que sigue la secuencia 16, 7, 8, 3.5,@4@32@2.5@3@1@4
+Encuentra la letra que continúa las series siguientes: a m b c m d e f m g h i j …@k@n@k@m@4@m
+Encuentra la letra que continúa las series siguientes: m m b a n n d c ñ ñ f …@b@o@e@c@3@e
+Encuentra la letra que continúa las series siguientes: z b b b y c c x d …@w@x@z@d@1@w
+Encuentra la segunda letra que continuaría la siguiente serie A B A B B C C D C D D E ...@D@F@C@G@2@F
+Encuentra la segunda letra que continuaría la siguiente serie A C A F H F K M K O Q O ...@V@T@S@U@1@V
+Encuentra la segunda letra que continuaría la siguiente serie B C D O P Q E F G Ñ O P H I J …@L@M@N@Ñ@4@Ñ
+Encuentra la segunda letra que continuaría la siguiente serie B D F D H J F L N ...@P@J@O@I@3@O
+Encuentra la segunda letra que continuaría la siguiente serie C D E F D E F G E F G H …@G@H@I@J@1@G
+Encuentra la segunda letra que continuaría la siguiente serie C D E F D E F G H I G H I J K L J K …@N@L@M@J@3@M
+Encuentra la segunda letra que continuaría la siguiente serie C F H E J L G N O ...@Q@S@R@T@1@Q
+Encuentra la segunda letra que continuaría la siguiente serie C F H E J L G N O …@P@Q@R@S@2@Q
+Encuentra la segunda letra que continuaría la siguiente serie F G F G D E H I H I F …@K@L@J@M@3@J
+Encuentra la segunda letra que continuaría la siguiente serie F G J H I J J K L M N J …@S@R@O@P@3@O
+Encuentra la segunda letra que continuaría la siguiente serie F R Q P O G H Ñ N M I J K …@H@I@J@K@4@K
+Encuentra la segunda letra que continuaría la siguiente serie H I J K I J K L J K L M K L M N ...@M@G@E@F@1@M
+Encuentra la segunda letra que continuaría la siguiente serie H I J K I J K L J K L M K L M N …@N@M@P@Q@2@M
+Encuentra la segunda letra que continuaría la siguiente serie R Q P Q P O Ñ N P O M L K O Ñ J I H ...@M@Ñ@O@N@4@N
+Encuentra la segunda letra que continuaría la siguiente serie T V X Y X Y A B C B C E F G F G ...@K@L@I@J@4@J
+Encuentra la segunda letra que continuaría la siguiente serie V Y Z A Z A C D E D E G H I H I …@O@Ñ@N@M@4@M
+Encuentra la segunda letra que continuaría la siguiente serie Y C E Z D …@D@C@B@A@4@A
+Encuentra la segunda letra que continuaría la siguiente serie Y O Q A S U C X Z ...@E@D@B@C@3@B
+Es aconsejable comer ............... cuando se hace una dieta para adelgazar.@carne@en abundancia@despacio@rápido@3@despacio
+FIRME es a ... como VOLUBLE es a ...@ Constante - Idóneo@ Versátil - Arbitrario@ Estable - Versátil@ Enérgico - Espacioso@3@Estable - Versátil
+FLOR es a PISTILO como MUJER es a ...@ Abdomen@ Útero@ Ano@ Vagina@2@Útero
+Indica el antónimo de la palabra DERECHO@ Quebrado@ Inclinado@ Torcido@ Recto@3@Torcido
+Indica entre las siguientes palabras cuál es el antónimo de la palabra ETÉREO@ Vaporoso@ Elevado@ Sutil@ Corpóreo@4@Corpóreo
+Indica entre las siguientes palabras cuál es el sinónimo de la palabra ERRAR@ Acertar@ Descalzar@ Herrar@ Fallar@4@Fallar
+Indica entre las siguientes palabras cuál es el sinónimo de la palabra ESPURIO@Dogmático@Tácito@Delgado@Falso@4@Falso
+Indica entre las siguientes palabras cuál es el sinónimo de la palabra REMUNERACIÓN@ Alabanza@ Enumeración@ Ascenso@ Paga@4@Paga
+Indica qué dos números siguen la serie 66, 63, 65, 62, 64, 61,@59, 60@63, 60@60, 59@60, 63@2@63, 60
+Indique el número que por lógica completa la serie. 2, 3, 5, 9, 17…@32@22@25@33@4@33
+Indique el valor que completa la siguiente operación: 1606,55 : 25,4 = @63,25@52,75@73,25@52,5@1@63,25
+Indique el valor que completa la siguiente operación: 3150/28 + ? = 4725/21 + 791/7:@451/3@902/2@3608/16@2366/7@3@3608/16
+Indique el valor que completa la siguiente operación: 35,7% de 32@127,196@117,96@117,096@210,904@3@117,096
+Indique qué pareja de palabras NO tiene un significado parecido entre sí.@Barato – Costoso@Adrede – Aposta@Pobre – Indigente@Honrar – Ensalzar@1@Barato – Costoso
+Indique, entre las siguientes palabras, cuál es el antónimo de la palabra AFANOSO.@Vago@Gasto@Cocinado@Hablado@1@Vago
+Indique, entre las siguientes palabras, cuál es el antónimo de la palabra OPUESTO.@Ducho@Medieval@Idéntico@Prudente@3@Idéntico
+La homonímia es@Coincidencia en la escritura o en la pronunciación de dos palabras que tienen distinto significado y distinta etimología.@La identidad de significados@La oposición de significados@La repetición de un mismo sonido@1@Coincidencia en la escritura o en la pronunciación de dos palabras que tienen distinto significado y distinta etimología.
+La libertad de una persona ............... donde empiezan los derechos de los demás.@empieza@termina@cambia@radica@2@termina
+La palabra aun se escribe con tilde o acento gráfico (aún) cuando significa:@Todavía@También@Incluso@Hasta@1@Todavía
+La persona ............... es aquella que piensa y actúa de forma poco flexible.@egoísta@fría@antisocial@intransigente@4@intransigente
+La pregunta que sigue es un ejercicio de resistencia a la fatiga consistente en contar visualmente y sin ninguna otra ayuda el número total de signos que hay como el que aparece entre corchetes indicando la respuesta verdadera.[e]  seseeesssseseseseseseesssseeesessessesseseseseesssseeesesseseesesesesssssesesessseessesesesesesseeseseseseesssseeesesses@ 52@ 53@ 54@ 55@3@54
+La suma de dos números es 14. Añadiendo 1 al mayor se obtiene el doble del menor. ¿Cuál es el menor?@ 6@ 5@ 8@ 7@2@5
 Las oposiciones a tres Cuerpos A, B y C de la Administración General del Estado se celebran cada 6 meses, 1 año y 2 meses, y 2 años, respectivamente. Si en la Oferta de Empleo Público para el año 2.000, las 3 oposiciones se realizan simultáneamente, ¿al cabo de cuánto tiempo volverán a coincidir?@15 años@12 años y 2 meses@3 años y 6 meses@14 años@4@14 años
-Elija el par de palabras (de una misma opción) que completa adecuadamente la frase, teniendo en cuenta el significado, la gramática y la ortografía: “No estamos para abordar la .”@satisfechos / mecanografía@echos / pregunta@listos / situación@preparados / crisis@4@preparados / crisis
-¿Cuál de las siguientes opciones tiene un significado más parecido a la palabra REQUERIR?@Desplegar@Trazar@Solicitar@Imbuir@3@Solicitar
-Indique, entre las siguientes palabras, cuál es el antónimo de la palabra AFANOSO@Vago@Gasto@Cocinado@Hablado@1@Vago
-Señale el número de errores ortográficos en la frase siguiente: Los detectores son dispositibos que captan un determinado fenomeno y cuándo el valor sovrepasa un humbral se genera una señal de alarma@3@6@2@5@4@5
-Señale qué palabra corresponde con la siguiente definición: Licencia o consentimiento por hacer o decir algo@Permiso@Alerta@Objetivo@Evento@1@Permiso
-¿Qué par de palabras NO mantiene la relación que encontramos en ANGOSTO y AMPLIO?@Brillante y luminoso@Provisorio y definitivo@Tenaz e Inconstante@Apocado y enérgico@1@Brillante y luminoso
+Las palabras «crispación» y «crueldad» tienen como antónimo y sinónimo, respectivamente:@ Conmoción - ferocidad.@ Relajación - bondad.@ Distensión - barbarie.@ Convulsión - brutalidad.@3@Distensión - barbarie.
+Los diputados…. la nueva enmienda sobre la reforma laboral.@discutieron@hablaron@votaron@negociaron@3@votaron
+No existe nada mejor que estar en ............... con la naturaleza para renovar la energía.@contacto@amistad@harmonía@cercanía@1@contacto
+Ordenar de mayor a menor las siguientes fracciones: 4/6, 1/2, 5/12, 11/24:@5/12, 4/6, 11/24, 5/12@1/2, 4/6, 11/24, 5/12@4/6, 1/2, 11/24, 5/12@11/24, 5/12, 4/6, 1/2@3@4/6, 1/2, 11/24, 5/12
+Para sacar buenas notas en la escuela es necesario hacer ............... que manda el profesor.@las obligaciones@los deberes@las prácticas@ los dictados@2@los deberes
+Para ser habilidosos en algo es preciso..….muchas veces.@leer@probar@corregir@practicar@4@practicar
+Para ser un buen corredor de maratón hay que tener mucha…..física.@resistencia@inteligencia@disciplina@pereza@1@resistencia
+Qué letra sigue la serie (valen las letras dobles) C, D, O, P, G, H, RR, S, K ...@ L@ J@ M@ B@1@L
+Qué letra sigue la serie (valen las letras dobles) C, D, O, P, G, H, RR, S, K ...@M@L@J@B@2@L
+Qué letra sigue la serie (valen las letras dobles) D, C, S, R, G, F, P, ...@ O@ M@ L@ A@1@O
+Qué letra sigue la serie (valen las letras dobles) D, C, S, R, G, F, P, ...@L@M@O@A@3@O
+Qué letra sigue la serie (valen las letras dobles) G, H, I, X, W, V, J, K, L, U, ...@O@N@T@S@3@T
+Qué letra sigue la serie (valen las letras dobles) N, J, L, M, Ñ, P, R, S ...@U@O@T@Q@1@U
+Qué letra sigue la serie (valen las letras dobles) X, A, E, J, Ñ, T, ...@I@L@B@K@3@B
+Qué letra sigue la serie (valen las letras dobles) X, A, Y, B, Z, C, A, D, B, E, …@C@B@A@D@1@C
+Qué letra sigue la serie D, E, F, Ñ, O, P, I, J, K, S, T, U, ...@ V@ M@ L@ N@4@N
+Qué letra sigue la serie D, E, F, Ñ, O, P, I, J, K, S, T, U, ...@V@N@L@M@2@N
+Qué letra sigue la serie G, H, K, L, Ñ, O, R, S, V, ...@X@Y@W@U@3@W
+Qué letra sigue la serie X, Y, Z, B, C, D, F, G, H, ...@A@K@I@J@4@J
+Qué número sigue la secuencia 16, 8, 32, 16, 64,@16@4@8@32@4@32
+Qué número sigue la secuencia 2, 7, 4, 9, 8, 11,@13@28@10@16@4@16
+Qué número sigue la secuencia 25, 50, 100, 200, 400,@700@600@1600@800@4@800
+Quejarse de los contratiempos es ............... si no hacemos nada para evitarlos.@inútil@contradictorio@triste@mejor@1@inútil
+Realiza la siguiente operación: (4 + 3/5) / (2/3 - 1/8) = ?@ -247/130@ 552/65@ 432/130@ 19/13@2@552/65
+Sabiendo que a=8, b=3, c=2, d=1, e=5, f=7, g=9, h=0; ¿qué número resulta de la serie "cchcdgfa":@22087912@22021978@22398721@53299712@2@22021978
+Se almacena toda la lluvia que cae sobre el tejado plano de una casa en un tanque rectangular de 2 x 1,5 metros. Si 5 mm de lluvia cae sobre el tejado plano que tiene un área total de 90 metros cuadrados, el nivel del agua en el tanque se eleva en:@ 1,5 mm@ 1,5 m@ 15 mm@ 150 mm@4@150 mm.En total caen 0,45 metros cúbicos de agua sobre el tejado que hace que el depósito suba 0,15 metros, es decir 150 milímetros.
+Se desea imprimir dos copias de un fichero de texto de 300 páginas con 36 líneas por página. Si se dispone de dos impresoras con velocidades, respectivamente, de 2 páginas por minuto y de 72 líneas por minuto, ¿en cuánto tiempo se puede hacer el trabajo?@2 horas@300 minutos@150 minutos@210 minutos@3@150 minutos
+Sentir ............... es síntoma de que algo no va bien en nuestro cuerpo.@alegría@calor@humedad@dolor@4@dolor
+Señala el antónimo correspondiente de la palabra ANODINO@ Fútil@ Baladí@ Nimio@ Sabroso@4@Sabroso
+Señala el sinónimo correspondiente de la palabra GRANDE@ Descomunal@ Infundioso@ Magno@ Grave@3@Magno
+Señala la palabra que está incorrectamente escrita:@ Lava@ Instantaneo@ Rabia@ Físico@2@Instantaneo
+Señala la palabra que está incorrectamente escrita:@ Levantar@ Escorpión@ Churrería@ Alquitran@4@Alquitran
+Señale el antónimo de «desencajar»:@ Sacar.@ Adaptar.@ Entristecer.@ Limpiar.@2@Adaptar.
+Señale el número de errores ortográficos en la frase siguiente: Los detectores son dispositibos que captan un determinado fenomeno y cuándo el valor sovrepasa un humbral, se genera una señal de alarma.@3@6@2@5@4@5
+Señale la frase correcta para expresar que un informe tendrá que ser escrito de nuevo@Va a haber que reescribir el informe@Va haber que reescribir el informe@Va a ver que reescribir el informe@Va a ver que reescribir el informe@1@Va a haber que reescribir el informe
+Señale la opción que tenga un significado MAS PARECIDO al de la palabra DENOSTAR:@Percatar@Sucumbir@Injuriar@Devaluar@3@Injuriar
+Señale la opción que tenga un significado MAS PARECIDO al de la palabra HEDOR:@Aura@Aroma@Fetidez@Transpiración@3@Fetidez
+Señale la opción que tenga un significado MAS PARECIDO al de la palabra MARISMA:@Planicie@Despeñadero@Albufera@Secarral@3@Albufera
+Señale la opción que tenga un significado MAS PARECIDO al de la palabra REMISO:@Melindroso@Irresoluto@Diligente@Cauto@2@Irresoluto
+Señale la opción que tenga un significado MAS PARECIDO al de la palabra SOLÍCITO:@Cuidadoso@Imponente@Rendido@Firme@1@Cuidadoso
+Señale la palabra que NO pertenece al grupo.@Garantía@Fianza@Hipoteca@Envoltura@4@Envoltura
+Señale la palabra que no pertenece al grupo:@ Explosión@ Rebelión@ Motín@ Levantamiento@1@Explosión
+Señale la palabra que no pertenece al grupo:@ Extraño@ Advenedizo@ Eximio@ Intruso@3@Eximio
+Señale la palabra que no pertenece al grupo:@ Gallina@ Pichón@ Cordero@ Ternera@1@Gallina
+Señale la palabra que no pertenece al grupo:@ Proporción@ Coyuntura@ Oportunidad@ Cifra@4@Cifra
+Señale la palabra que no pertenece al grupo:@Alquitrán@Resina@Brea@Asfalto@2@Resina
+Señale qué definición es la que se corresponde con la palabra ANÁLISIS@Estudio detallado de algo, especialmente de una obra o de un escrito.@Extraer, echar el agua de un sitio o lugar.@Tiempo que ha vivido una persona o ciertos animales o vegetales.@Mandato o decreto publicado con autoridad del príncipe o magistrado.@1@Estudio detallado de algo, especialmente de una obra o de un escrito.
+Señale qué palabra corresponde con la siguiente definición: Licencia o consentimiento por hacer o decir algo.@Permiso@Alerta@Objetivo@Evento@1@Permiso
+Señale qué palabra de las presentadas como opciones responde con mayor exactitud a la siguiente definición.«Procedimiento que se sigue en las ciencias para hallar la verdad y enseñala».@ Razonamiento.@ Método.@ Hipótesis.@ Empirismo@2@Método.
 Señale qué palabra se corresponde con la siguiente definición: Ambiente, lo que rodea@Flujo.@Pantalla.@Entorno.@Página.@3@Entorno.
-Señale qué definición es la que se corresponde con la palabra ANÁLISIS@Estudio, detallado de algo, especialmente de una obra o de un escrito.@Extraer, echar el agua de un sitio o lugar.@Tiempo que ha vivido una persona o ciertos animales o vegetales.@mandato, decreto publicado con autoridad del príncipe o magistrado.@1@Estudio, detallado de algo, especialmente de una obra o de un escrito.
-Indique qué pareja de palabras NO tiene un significado parecido entre sí@Barato – Costoso@Adrede – Aposta@Pobre – Indigente@Honrar – Ensalzar@1@Barato – Costoso
-Señale la palabra que NO pertenece al grupo@Garantía@Fianza@Hipoteca@Envoltura@4@Envoltura
-Señale qué serie indica el orden alfabético correcto de las siguientes palabras@Obeso, Obligar, Objeto, Óbice, Oblicuo@Objeto, Obeso, Obligar, Óbice, Oblicuo@Obligar, Obeso, Objeto, Oblicuo, Óbice@Obeso, Óbice, Objeto, Oblicuo, Obligar@4@Obeso, Óbice, Objeto, Oblicuo, Obligar
-Indique, entre las siguientes palabras, cuál es el antónimo de la palabra OPUESTO@Ducho@Medieval@Idéntico@Prudente@3@Idéntico
+Señale qué serie indica el orden alfabético correcto de las siguientes palabras.@Obeso, Obligar, Objeto, Óbice, Oblicuo.@Objeto, Obeso, Obligar, Óbice, Oblicuo.@Obligar, Obeso, Objeto, Oblicuo, Óbice.@Obeso, Óbice, Objeto, Oblicuo, Obligar.@4@Obeso, Óbice, Objeto, Oblicuo, Obligar.
+Señálese la palabra que corresponde a la siguiente definición:«Persona que no ha tomado estado de matrimonio»@ Casto@ Célibe@ Presbítero@ Púber@2@Célibe.
+Si 1=bddb, 2=dbbd, 3=dbdb y 4=bdbd; ¿Qué número resulta de la serie bdbd-dbdb-bddb-dbbd-dbdb-bdbd-dbdb?:@4-3-1-4-3-4-3@4-3-3-2-3-4-3@4-4-1-2-3-4-3@4-3-1-2-3-4-3@4@4-3-1-2-3-4-3
+Si 1=ppp, 3=qpq, 5=qqp, 7=pqq y 9=pqp. ¿A que serie corresponde el número 371395?:@qpqpqqpppqpqpqqqqp @qpqpqqpqqqpqpqpqqp@qpqpqqpppqpqpqpqqp@pqqpqqpppqpqpqpqqp@3@qpqpqqpppqpqpqpqqp
+Si 2+3=10, 7+2=63, 6+5=66 y 8+4=96, ¿Cuánto es 9+7?@13@112@144@63@3@144
+Si AxB=24; CxD=32; BxD=48 y BxC=24, ¿cuánto es AxBxCxD?.@480@576@744@768@4@768
+Sigue la secuencia (valen las letras dobles) A, C, E, G, I, K, LL, N, …@O@P@Q@R@1@O
+Sigue la secuencia (valen las letras dobles) B, E, H, K, M, O, R, …@T@U@V@W@1@T
+Sigue la secuencia (valen las letras dobles) Q, P, N, M, K, J, G, F ...@C@D@M@L@1@C
+Sigue la secuencia (valen las letras dobles) R, Q, P, L, K, J, O, Ñ, N, ...@L@J@H@I@4@I
+Sigue la secuencia (valen las letras dobles) X, V, T, RR, Q, O, N, LL ...@L@M@K@X@3@K
+Sigue la secuencia 3, 12, 3, 11, 3, 8, 3, ?@6@4@3@5@4@5
+Sigue la secuencia 3, 5, 2, 7, 1, 9, ?@6@10@1@0@4@0
+Sigue la secuencia 4, 6, 9, 13, 18, ?@ 21@ 15@ 19@ 24@4@24
+Sigue la secuencia 4, 6, 9, 13, 18, ?@19@21@24@15@3@24
+Sigue la secuencia 6, 7, 10, 11, 14, 15, ?@ 18@ 15@ 19@ 16@1@18
+Sigue la secuencia 7, 7, 11, 6, 15, 5, ?@13@19@4@14@2@19
+Sigue la secuencia A A, B B B, C C C C, D D D D ...@E@D@F@C@2@D
+Sigue la secuencia A, Z, B, Y, C, X, D, W, E, V, F ...@T@H@U@G@3@U
+Sigue la secuencia: AB(C), KO(Z), AJ(?)@ B@ O@ K@ P@3@K
+Sigue la secuencia: D C B G F E J I H ? ?@N - M@Ñ - N@M - L@L - K@3@M - L
+Sigue la secuencia: D Y J D Y I D Y …@F@H@G@I@2@H
+Sigue la secuencia: I K N Q V B …@A@E@I@O@3@I
+Sigue la secuencia: M H Y L G X K F ...@T@W@E@J@2@W
+Sigue la serie 2187, 729, 243, 81,@36@27@9@18@2@27
+Sigue la serie A A B C C D E E F G G ...@C@B@H@G@3@H
+Sigue la serie A A C C E E G G I I ...@J@K@L@H@2@K
+Sigue la serie A B B C C C D D D D E E E E ...@D@H@E@F@3@E
+Sigue la serie A B C A B C D E F D E F G H I …@D@E@F@G@4@G
+Sigue la serie A B C B C D E F E F G H I H ...@H@J@G@I@4@I
+Sigue la serie A B C C B A D E F F E D G H I ...@L@K@I@J@3@I
+Sigue la serie A B C C B A D E F F E D G H I …@A@E@I@O@3@I
+Sigue la serie A C E G I K M ...@M@K@L@Ñ@4@Ñ
+Sigue la serie A C E G I K M …@O@Ñ@M@N@2@Ñ
+Sigue la serie A M B C M D E F M G H I J …@L@M@N@Ñ@2@M
+Sigue la serie A S B T C U D V E W F X G ...@H@F@X@Y@4@Y
+Sigue la serie A X B Y C Z A X B Y C Z A X B ...@A@Y@C@X@2@Y
+Sigue la serie E F E F C D G H G H C D I J …@I@J@K@L@1@I
+Sigue la serie V  V  V  V  V   W W W W  X X X   Y …@Z@X@Y@W@3@Y
+Tres docenas de limones cuestan tantos euros como limones dan por 16 euros. ¿Cuánto vale la docena de limones?@ 8 euros.@ 10 euros.@ 12 euros.@ 14 euros.@1@8 euros.Llamando «p» al precio de un limón expresado en euros: 36 limones cuestan 36 x p euros.Por 16 euros dan 16 / plimones, luego 36 x p = 16 / p, de donde p = 0,66 euros. Doce limones valdrán entonces aproximadamente 8 euros.
+Un cajón lleno de bolas pesa 69 kilos y vacío 7 kilos. ¿Cuánto pesan las bolas?@ 1 kilo cada bola@ 60 kilos@ 69 kilos@ 62 kilos@4@62 kilos
+Un centro gestor ha ejecutado el 78% de su asignación presupuestaria total, devolviendo al Tesoro Público el resto, que asciende a 220.000.000 de pesetas. ¿Cuál es el crédito total asignado al Centro Gestor en el ejercicio económico siguiente si han sido aprobados los Presupuestos Generales del Estado con una subida del 2% sobre el ejercicio anterior?@1020000000@1200000000@1022000000@1120000000@1@1020000000
+Un determinado organismo concede un premio de jubilación a tres empleados, al cumplir 65 años de edad, de forma directamente proporcional a sus años de servicio, que son 30, 45 y 25 años. Si el importe total del premio es de 540.000 pesetas, ¿cuánto le corresponderá, respectivamente, a cada uno?@135.000, 202.500, 112.500@125.000, 207.000, 118.000@135.000, 202.500, 113.500@135.000, 205.000, 109.500@1@135.000, 202.500, 112.500
+Una ballena es un ............... que vive en el mar.@pez@mamífero@animal@anfibio@2@mamífero
+Una de estas series de antónimos es incorrecta. Señálela:@ Ejecutorio - apelable.@ Tieso - lacio.@ Efusivo - frío.@ Dúctil - maleable.@4@Dúctil - maleable.
 Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. ¿Cuántas revistas imprime la máquina M2 más que la M1 en 5 días?@300@1200@1500@600@3@1500
 Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. ¿Cuántos días aproximadamente llevará la impresión de todas las revistas?@130@845@105@139@4@139
 Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. Si cada revista consume una cantidad de tinta por valor de 0,8 euros, ¿cuál es el valor de la tinta consumida diariamente por la máquina M3?@234 euros@390 euros@384 euros@288 euros@4@288 euros
 Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. La imprenta necesita acabar el trabajo en 90 días y decide encargar a otra empresa la impresión de las revistas que no puede hacer por sus propios medios. ¿Cuántas revistas tendrá que encargar a la empresa externa?@18200@27700@44000@37000@3@44000
 Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Si la máquina M3 permaneciera parada por avería durante 10 días, transcurridos los cuales continuara imprimiendo a su ritmo normal, ¿cuánto se habría alargado el plazo de impresión de las revistas?@Menos de 3 días@Más de 7 días@Entre 6 y 7 días@Entre 3 y 5 días@4@Entre 3 y 5 días
-Indique el valor que completa la siguiente operación: 1606,55 : 25,4 = @63,25@52,75@73,25@52,5@1@63,25
-Indique el valor que completa la siguiente operación: 35,7% de 32@127,196@117,96@117,096@210,904@3@117,096
-Indique el valor que completa la siguiente operación: raiz cuadrada de 1357,1856@36,84@36,34@34,84@34,94@1@36,84
-Indique el valor que completa la siguiente operación: 3150/28 + ? = 4725/21 + 791/7:@451/3@902/2@3608/16@2366/7@3@3608/16
-Averigua las incógnitas para que el resultado de la operación sea el correcto: 6 ? ? x ? = -34@ -, 23, 2@ x, 2, 4@ +, 6, 6@ -, 10, 4@4@-, 10, 4
-¿Cuál es el máximo común divisor de: 18 y 24?@ 48@ 6@ 3@ 72@2@6
-La suma de dos números es 14. Añadiendo 1 al mayor se obtiene el doble del menor. ¿Cuál es el menor?@ 6@ 5@ 8@ 7@2@5
-Ana dice a su hija Beatriz: Hace 7 años mi edad era 5 veces la tuya, pero ahora sólo es el triple. ¿Qué edad tiene Ana?@ 38 años@ 35 años@ 40 años@ 42 años@4@42 años
-Averigua las incógnitas para que el resultado de la operación sea el correcto: ? ? ? - ? = 22@ 5, x, 5, 2@ 2, x, 6, 1@ 7, +, 12, 6@ 6, x, 4, 2@4@6, x, 4, 2
-Realiza la siguiente operación: (4 + 3/5) / (2/3 - 1/8) = ?@ -247/130@ 552/65@ 432/130@ 19/13@2@552/65
-Un cajón lleno de bolas pesa 69 kilos y vacío 7 kilos. ¿Cuánto pesan las bolas?@ 1 kilo cada bola@ 60 kilos@ 69 kilos@ 62 kilos@4@62 kilos
-¿Cuál es el resultado de la siguiente operación: 3.127 + 0,032 + 5,1 + 11,001?:@3139,253@3143,133@3145,113@3141,273@2@3143,133
-El resultado de la siguiente expresión numérica "- (-3) - [2 - (-5+7) - 4] - (+2) + (-5-3)", es:@3@-13@-3@0@3@-3
-El mínimo común múltiplo de los números: 18, 24, 20 y 9, resulta ser:@290@540@360@600@3@360
-Se desea imprimir dos copias de un fichero de texto de 300 páginas con 36 líneas por página. Si se dispone de dos impresoras con velocidades, respectivamente, de 2 páginas por minuto y de 72 líneas por minuto, ¿en cuánto tiempo se puede hacer el trabajo?@2 horas@300 minutos@150 minutos@210 minutos@3@150 minutos
-Un centro gestor ha ejecutado el 78% de su asignación presupuestaria total, devolviendo al Tesoro Público el resto, que asciende a 220.000.000 de pesetas. ¿Cuál es el crédito total asignado al Centro Gestor en el ejercicio económico siguiente si han sido aprobados los Presupuestos Generales del Estado con una subida del 2% sobre el ejercicio anterior?@1020000000@1200000000@1022000000@1120000000@1@1020000000
 Una oficina del TNEM tramita en un año un determinado número de solicitudes de empleo. Dicho número está comprendido entre 20.000 y 30.000 y es múltiplo de 5, 7, 8, 9 y 11 a la vez. ¿De qué número se trata?@27720@29700@23760@25200@1@27720
-Calcule el valor de X en la siguiente operación: 12 (6X – 13) = @4,21@7,38@2,19@1,96@3@2,19
-Si en Canarias, el 65% de su población vive en municipios de más de 10.000 habitantes, ¿cuánta población hay en los municipios de menos de 10.000 habitantes?@891622,9@651773,41@792459,05@744372,65@4@744372,65
-Si en el País Vasco la media de población en los municipios de más de 10.000 habitantes es de 40.300, ¿cuál es la media de población en los municipios de menos de 10.000?@2409,8@2391,3@1976,5@2520,6@1@2409,8
-Si la media de superficie por municipio mayor de 10.000 habitantes es de 50 kilómetros cuadrados (km2), ¿qué Comunidad Autónoma de las siguientes tiene más km2 de media en municipios de menos de 10.000 habitantes?@Andalucía@Comunidad de Madrid@País Vasco@Región de Murcia@4@Región de Murcia
-En una empresa hay cuatro socios con el 10, 25, 30 y 35% de las acciones respectivamente. Si el máximo accionista tiene 196.000€ en acciones, ¿cuánto dinero en acciones tiene el que menos?@92450@72200@68000@56000@4@56000
-Si de una circunferencia, tomamos una porción de 45% del total, ¿cuántos grados tendrá esa porción?@123.33 grados.@162 grados.@99 grados.@130,66 grados.@3@99 grados.
-Un almacén tiene una capacidad de 1.200 unidades, y su stock actual es de 336 unidades. Cada cargamento que se recibe para almacenar contiene 96 unidades. ¿Cuántos cargamentos puede recibir como máximo antes de llenarse por completo?@12 cargamentos@6 cargamentos@9 cargamentos@5 cargamentos@3@9 cargamentos
-Señale qué combinación de números es la correcta para esta operación: _ x _ – _ = 7@10, 15, 4@7, 12, 9@13, 7, 2@9, 11, 5@2@7, 12, 9
-Una empresa tiene unas ventas totales de 3.721 millones. El 23% se vende en el mercado interior, el 41% en la Unión Europea, y el resto a otros países. Del resto de países, Turquía representante el 55%. ¿Cuál es la cantidad vendida en Turquía?@533,71 millones.@857,52 millones.@736,75 millones.@667,55 millones.@3@736,75 millones.
-¿Qué letra continúa la serie? (no cuenta la W) I J M N Ñ R S T U ...@X@Z@A@B@3@A
-Sigue la secuencia A A, B B B, C C C C, D D D D ...@E@D@F@C@2@D
-Sigue la secuencia: D C B G F E J I H ? ?@N - M@Ñ - N@M - L@L - K@3@M - L
-Sigue la secuencia (valen las letras dobles) X, V, T, RR, Q, O, N, LL ...@L@M@K@X@3@K
-Sigue la secuencia (valen las letras dobles) R, Q, P, L, K, J, O, Ñ, N, ...@L@J@H@I@4@I
-Encuentra la segunda letra que continuaría la siguiente serie C F H E J L G N O ...@Q@S@R@T@1@Q
-Qué letra sigue la serie D, E, F, Ñ, O, P, I, J, K, S, T, U, ...@V@N@L@M@2@N
-Continúa la serie (valen las letras dobles) A A, B B B, C C C C, D D D D ...@F@G@E@D@4@D
-Continúa la serie (valen las letras dobles) D C S R G F P ...@O@Q@A@B@1@O
-Continúa la serie (valen las letras dobles) Z A Y B X C W D V E ...@U@S@F@T@1@U
-¿Qué letra continúa la serie? (no cuenta la W) X E L ...@T@B@R@Z@3@R
-Sigue la serie A A C C E E G G I I ...@J@K@L@H@2@K
-Sigue la serie A X B Y C Z A X B Y C Z A X B ...@A@Y@C@X@2@Y
-Sigue la serie A S B T C U D V E W F X G ...@H@F@X@Y@4@Y
-Encuentra la segunda letra que continuaría la siguiente serie B D F D H J F L N ...@P@J@O@I@3@O
-Sigue la serie A B C B C D E F E F G H I H ...@H@J@G@I@4@I
-Qué letra sigue la serie G, H, K, L, Ñ, O, R, S, V, ...@X@Y@W@U@3@W
-Sigue la secuencia A, Z, B, Y, C, X, D, W, E, V, F ...@T@H@U@G@3@U
-Continúa la serie (valen las letras dobles) D E F G Z A B C V W ...@H@Y@I@X@4@X
-Sigue la serie A B B C C C D D D D E E E E ...@D@H@E@F@3@E
-Sigue la secuencia: M H Y L G X K F ...@T@W@E@J@2@W
-Encuentra la segunda letra que continuaría la siguiente serie A C A F H F K M K O Q O ...@V@T@S@U@1@V
-Continúa la serie (valen las letras dobles) Z Y A B X W C D V ...@U@Y@H@F@1@U
-Sigue la serie A A B C C D E E F G G ...@C@B@H@G@3@H
-Sigue la serie A B C C B A D E F F E D G H I ...@L@K@I@J@3@I
-Qué letra sigue la serie (valen las letras dobles) D, C, S, R, G, F, P, ...@L@M@O@A@3@O
-Qué letra sigue la serie (valen las letras dobles) G, H, I, X, W, V, J, K, L, U, ...@O@N@T@S@3@T
-Qué letra sigue la serie (valen las letras dobles) N, J, L, M, Ñ, P, R, S ...@U@O@T@Q@1@U
-Qué letra sigue la serie (valen las letras dobles) X, A, E, J, Ñ, T, ...@I@L@B@K@3@B
-Encuentra la segunda letra que continuaría la siguiente serie A B A B B C C D C D D E ...@D@F@C@G@2@F
-Qué letra sigue la serie (valen las letras dobles) C, D, O, P, G, H, RR, S, K ...@M@L@J@B@2@L
-Sigue la serie A C E G I K M ...@M@K@L@Ñ@4@Ñ
-¿Qué letra continúa la serie? (no cuenta la W) X F Y E X D Y ...@Y@C@F@X@2@C
-Encuentra la segunda letra que continuaría la siguiente serie R Q P Q P O Ñ N P O M L K O Ñ J I H ...@M@Ñ@O@N@4@N
-Qué letra sigue la serie X, Y, Z, B, C, D, F, G, H, ...@A@K@I@J@4@J
-Encuentra la segunda letra que continuaría la siguiente serie T V X Y X Y A B C B C E F G F G ...@K@L@I@J@4@J
-¿Qué letra continúa la serie? (no cuenta la W) T X B E ...@H@L@I@N@3@I
-Encuentra la segunda letra que continuaría la siguiente serie Y O Q A S U C X Z ...@E@D@B@C@3@B
-Sigue la secuencia (valen las letras dobles) Q, P, N, M, K, J, G, F ...@C@D@M@L@1@C
-Encuentra la segunda letra que continuaría la siguiente serie H I J K I J K L J K L M K L M N ...@M@G@E@F@1@M
-Sigue la secuencia: AB(C), KO(Z), AJ(?)@ B@ O@ K@ P@3@K
-Completa la serie: 4AC7, 8EG11, 16IK15, ...@ 18MÑ19@ 32LM17@ 32LM19@ 32MÑ17@4@32MÑ17
-Qué letra sigue la serie D, E, F, Ñ, O, P, I, J, K, S, T, U, ...@ V@ M@ L@ N@4@N
-¿Qué letra continúa la serie? (no cuenta la W) G O M H P N I Q ...@ Ñ@ L@ T@ S@1@Ñ
-Completa la serie: 4 N 8 Q 2 U 6 ?@ Z@ X@ V@ Y@4@Y
-Qué letra sigue la serie (valen las letras dobles) D, C, S, R, G, F, P, ...@ O@ M@ L@ A@1@O
-Completa la serie: A2Z26, C4X24, E6V22, ...@ G8T20@ G8U20@ F8T20@ G8S20@1@G8T20
-Completa la serie: ? 54 D 49 T 44 C 39 C 34 S 29 S ? O@ U, 24@ B, 30@ C, 27@ X, 26@1@U, 24
-Qué letra sigue la serie (valen las letras dobles) C, D, O, P, G, H, RR, S, K ...@ L@ J@ M@ B@1@L
-Qué número sigue la secuencia 2, 7, 4, 9, 8, 11,@13@28@10@16@4@16
-Sigue la secuencia 3, 12, 3, 11, 3, 8, 3, ?@6@4@3@5@4@5
-Continúa la secuencia 18, 15, 12, 9, 6,@3@5@4@2@1@3
-Continúa la secuencia 16, 17, 22, 24, 29, 32,@42@37@34@44@2@37
-Encuentra el numero que completa la serie (-1) - 2 - 7 - 14 - ?@34@46@26@23@4@23
-Sigue la secuencia 4, 6, 9, 13, 18, ?@19@21@24@15@3@24
-Qué número sigue la secuencia 16, 8, 32, 16, 64,@16@4@8@32@4@32
-Encuentra el número que sigue la secuencia 13, 26, 52, 104, 208,@312@260@416@326@3@416
-Encuentra el número que sigue la secuencia 16, 7, 8, 3.5,@4@32@2.5@3@1@4
-Sigue la serie 2187, 729, 243, 81,@36@27@9@18@2@27
-Sigue la secuencia 3, 5, 2, 7, 1, 9, ?@6@10@1@0@4@0
-Indica qué dos números siguen la serie 66, 63, 65, 62, 64, 61,@59, 60@63, 60@60, 59@60, 63@2@63, 60
-Encuentra el numero que completa la serie 3 - 12 - 5 - ? - 8 - 16 - 9 - 9 - 2@15@14@6@21@1@15
-En la siguiente serie hay un número equivocado, que no corresponde con la serie. Señala el número que debería ir en su lugar: 4, 8, 16, 3, 9, 27, 2, 8, 64@10@8@32@6@3@32
-Completa la serie: 2, 10, 5, ?, 20, 100, 95, 475, ?@15, 450@10, 95@25, 470@25, 95@3@25, 470
-Dada la serie: 0 - 3 - 8 - 6 - 9 - 14 - 16 - 15 - ... señalar qué número está equivocado:@16@14@09@15@1@16
-Continúa la secuencia 25, 1, 24, 2, 23,@3@21@22@4@1@3
-Qué número sigue la secuencia 25, 50, 100, 200, 400,@700@600@1600@800@4@800
-En la siguiente serie hay un número equivocado, que no corresponde con la serie. Señala el número que debería ir en su lugar: 2, 6, 9, 27, 30, 33, 99@18@66@3@81@3@3
-Sigue la secuencia 7, 7, 11, 6, 15, 5, ?@13@19@4@14@2@19
-Sigue la secuencia 4, 6, 9, 13, 18, ?@ 21@ 15@ 19@ 24@4@24
-Continúa la secuencia 3, 9, 7, 21, 18,@ 39@ 31@ 19@ 54@4@54
-Sigue la secuencia 6, 7, 10, 11, 14, 15, ?@ 18@ 15@ 19@ 16@1@18
-Ordenar de mayor a menor las siguientes fracciones: 4/6, 1/2, 5/12, 11/24:@5/12, 4/6, 11/24, 5/12@1/2, 4/6, 11/24, 5/12@4/6, 1/2, 11/24, 5/12@11/24, 5/12, 4/6, 1/2@3@4/6, 1/2, 11/24, 5/12
-En la serie de fracciones 3/5, 9/10, 27/20 el criterio de formación resulta de dividir la fracción anterior por 2/3. Según este criterio, ¿cuál sería el término anterior a 3/5 y posterior a 27/20?@2/5, 81/40@1/1, 80/40@1/4, 54/30@1/6, 64/40@1@2/5, 81/40
-Complete la serie numérica 7 – 3 – 21 – 3 – @72@147@28@63@4@63
-Dadas las siguientes equivalencias: d=0001, f=0010, g=0100, h=1000, i=011, j=0101. ¿Qué serie de letras corresponde a la siguiente serie de números: 0010100000011000?@h-d-f-g@d-i-d-g@f-i-g-h@f-h-d-h@4@f-h-d-h
-Complete la serie de números con las operaciones correspondientes: 56_4_2 = 2@x , –@/ , +@/ , –@d / , x@4@d / , x
