@@ -3,10 +3,10 @@ Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máqui
 Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Cada día las máquinas hacen 6 horas de trabajo efectivo. Si cada revista consume una cantidad de tinta por valor de 0,8 euros, ¿cuál es el valor de la tinta consumida diariamente por la máquina M3?@234 euros@390 euros@384 euros@288 euros@4@288 euros
 Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. La imprenta necesita acabar el trabajo en 90 días y decide encargar a otra empresa la impresión de las revistas que no puede hacer por sus propios medios. ¿Cuántas revistas tendrá que encargar a la empresa externa?@18200@27700@44000@37000@3@44000
 Una imprenta tiene que imprimir 125.000 revistas y cuenta para ello con 3 máquinas (M1, M2 y M3) que imprimen respectivamente 40, 50 y 60 revistas por hora. Si la máquina M3 permaneciera parada por avería durante 10 días, transcurridos los cuales continuara imprimiendo a su ritmo normal, ¿cuánto se habría alargado el plazo de impresión de las revistas?@Menos de 3 días@Más de 7 días@Entre 6 y 7 días@Entre 3 y 5 días@4@Entre 3 y 5 días
-Indique el valor que completa la siguiente operación: 1606,55 : 25,4 = ?.@63,25@52,75@73,25@52,5@1@63,25
+Indique el valor que completa la siguiente operación: 1606,55/25,4 = ?.@63,25@52,75@73,25@52,5@1@63,25
 Indique el valor que completa la siguiente operación: 35,7% de 32.@127,196@117,96@117,096@210,904@3@117,096
-Indique el valor que completa la siguiente operación: raiz cuadrada de 1357,1856:@36,84@36,34@34,84@34,94@1@36,84
-Indique el valor que completa la siguiente operación: 3150/28 + ? = 4725/21 + 791/7:@451/3@902/2@3608/16@2366/7@3@3608/16
+Indique el valor que completa la siguiente operación: raiz cuadrada de 1357,1856@36,84@36,34@34,84@34,94@1@36,84
+Indique el valor que completa la siguiente operación: 3150/28 + ? = 4725/21 + 791/7@451/3@902/2@3608/16@2366/7@3@3608/16
 Averigua las incógnitas para que el resultado de la operación sea el correcto: 6 ? ? x ? = -34.@ -, 23, 2@ x, 2, 4@ +, 6, 6@ -, 10, 4@4@-, 10, 4
 ¿Cuál es el máximo común divisor de: 18 y 24?.@ 48@ 6@ 3@ 72@2@6
 La suma de dos números es 14. Añadiendo 1 al mayor se obtiene el doble del menor. ¿Cuál es el menor?.@ 6@ 5@ 8@ 7@2@5
