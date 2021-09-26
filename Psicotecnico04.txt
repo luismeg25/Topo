@@ -53,3 +53,15 @@ Si 2+3=10, 7+2=63, 6+5=66 y 8+4=96, ¿Cuánto es 9+7?.@13@112@144@63@3@144
 ¿Cúal es el 40% de 4321?.@1800@1728,4@1600,6@1800,9@2@1728,4
 ¿Cúal es el 40% de 6573?.@2800,3@2629,2@2700@2506,6@2@2629,2
 ¿Cúal es el 20% de 7690?.@1401,5@1538@1600@1640@2@1538
+Indique el valor que completa la siguiente operación: 321*34-12=?.@10902@10901@7062@10506@1@10902
+Indique el valor que completa la siguiente operación: 321*(34-12)=?.@10902@10901@7062@10506@3@7062
+Indique el valor que completa la siguiente operación: 12*3/6-2=?.@-18@-12@9@4@4@4
+Indique el valor que completa la siguiente operación: 12*(3/6-2)=?.@-12@-18@9@4@2@-18
+Señale qué combinación de números es la correcta para esta operación: _ x _ – _ =71.@21, 4, 13@21, 5, 13@22, 4, 13@22, 5, 12@1@21, 4, 13
+Señale qué combinación de números es la correcta para esta operación: _ x _ – _ =92.@21, 4, 13@21, 5, 13@22, 4, 13@22, 5, 12@2@21, 5, 13
+Señale qué combinación de números es la correcta para esta operación: _ x _ – _ =75.@21, 4, 13@21, 5, 13@22, 4, 13@22, 5, 12@3@22, 4, 13
+Señale qué combinación de números es la correcta para esta operación: _ x _ – _ =98.@21, 4, 13@21, 5, 13@22, 4, 13@22, 5, 12@4@22, 5, 12
+Señale qué combinación de números es la correcta para esta operación: _  ÷ _ – _ = -2,6.@32, 5, 6@31, 4, 6@32, 5, 7@31, 5, 6@1@32, 5, 6
+Señale qué combinación de números es la correcta para esta operación: _  ÷ _ – _ = 1,75.@32, 5, 6@31, 4, 6@32, 5, 7@31, 5, 6@2@31, 4, 6
+Señale qué combinación de números es la correcta para esta operación: _  ÷ _ – _ = -0,6.@32, 5, 6@31, 4, 6@32, 5, 7@31, 5, 6@3@32, 5, 7
+Señale qué combinación de números es la correcta para esta operación: _  ÷ _ – _ = 0,2.@32, 5, 6@31, 4, 6@32, 5, 7@31, 5, 6@4@31, 5, 6
