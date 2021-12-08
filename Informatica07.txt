@@ -1,10 +1,10 @@
-¿Cómo se llama el pequeño módulo publicitario que se inserta en una página web?.@ Bug@ Bing@ Banner@ Baudio@3@ Banner
-¿Cuál de las siguientes funciones de Windows 10 NO es una ayuda de accesibilidad?@Lupa@Narrador@OneDrive@Subtítulos@3@OneDrive
-¿Cuál de los siguientes tipos de datos sirve para valores lógicos del tipo Verdadero o Falso?.@Número entero.@Número de coma flotante.@Carácter.@Booleano.@4@Booleano.
-¿Qué diferencia existe entre Internet e intranet?.@Una es monitorizada, la otra no.@Una tiene mayor seguridad que la otra.@Una es pública y la otra privada.@Una es un buscador y la otra un sistema operativo.@3@Una es pública y la otra privada.
-¿Qué es considerado SPAM?.@ Son mensajes no solicitados, no deseados o de remitentes no conocidos.@ Son mensajes de remitentes conocidos con avisos de publicidad.@ Es una sigla en inglés que significa Sistema de Alertas de Mensaje de Publicidad.@ Es un motor de búsqueda de Internet.@1@ Son mensajes no solicitados, no deseados o de remitentes no conocidos.
-¿Qué lenguajes pueden interpretar los navegadores o exploradores de páginas web?.@HTML@C++@Pascal@Ensamblador@1@HTML
-Para introducir un carácter especial en el texto, como los de Copyright o Registrado, en la pestaña Insertar, ¿cuál de las siguientes herramientas se emplea en Word?.@Marcador@WordArt@Elementos rápidos@Símbolo@4@Símbolo
+ ¿Cómo se llama el pequeño módulo publicitario que se inserta en una página web?.@ Bug@ Bing@ Banner@ Baudio@3@ Banner
+ ¿Cuál de las siguientes funciones de Windows 10 NO es una ayuda de accesibilidad?@Lupa@Narrador@OneDrive@Subtítulos@3@OneDrive
+ ¿Cuál de los siguientes tipos de datos sirve para valores lógicos del tipo Verdadero o Falso?.@Número entero.@Número de coma flotante.@Carácter.@Booleano.@4@Booleano.
+ ¿Qué diferencia existe entre Internet e intranet?.@Una es monitorizada, la otra no.@Una tiene mayor seguridad que la otra.@Una es pública y la otra privada.@Una es un buscador y la otra un sistema operativo.@3@Una es pública y la otra privada.
+ ¿Qué es considerado SPAM?.@ Son mensajes no solicitados, no deseados o de remitentes no conocidos.@ Son mensajes de remitentes conocidos con avisos de publicidad.@ Es una sigla en inglés que significa Sistema de Alertas de Mensaje de Publicidad.@ Es un motor de búsqueda de Internet.@1@ Son mensajes no solicitados, no deseados o de remitentes no conocidos.
+ ¿Qué lenguajes pueden interpretar los navegadores o exploradores de páginas web?.@HTML@C++@Pascal@Ensamblador@1@HTML
+ Para introducir un carácter especial en el texto, como los de Copyright o Registrado, en la pestaña Insertar, ¿cuál de las siguientes herramientas se emplea en Word?.@Marcador@WordArt@Elementos rápidos@Símbolo@4@Símbolo
 ¿Cómo agregar más filas en la misma celda?.@Shift + Enter@Ctrl + Enter@Alt + Enter@Shift + Ctrl + Enter@3@Alt + Enter
 ¿Cómo Agregar una columna?.@Seleccionar columna Ctrl +.@Seleccionar columna Ctrl -.@Seleccionar columna + Shift + Enter.@Seleccionar columna Ctrl+c.@1@Seleccionar columna Ctrl, +.
 ¿Cómo agregar una Fila?.@Seleccionar fila + Ctrl + C@Ctrl + Shift + Enter@Seleccionar fila y Ctrl, -@Seleccionar Fila Ctrl, +@4@Seleccionar Fila Ctrl, +
