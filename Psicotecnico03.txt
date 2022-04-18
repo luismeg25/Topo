@@ -84,3 +84,7 @@ Sigue la secuencia: I, K, N, Q, V, B, …@A@E@I@O@3@I
 Encuentra la segunda letra que continuaría la siguiente serie: F, R, Q, P, O, G, H, Ñ, N, M, I, J, K, …@H@I@J@K@4@K
 Sigue la secuencia: D, Y, J, D, Y, I, D, Y, …@F@H@G@I@2@H
 ¿Qué letra continúa la serie? (no cuenta la W): I, J, M, N, Ñ, R, S, T, U, …@A@E@I@O@1@A
+Qué letra continúa la serie: b a z y d c x... (no tenga en cuenta la "ch", "ll" y "rr"):@w@v@y@u@1@w
+Qué letra continúa la serie: a b f g k l o ... (no tenga en cuenta la "ch", "ll" y "rr"):@q@p@ñ@r@2@p
+Qué letra continúa la serie: ñ m q j u f z ... (no tenga en cuenta la "ch", "ll" y "rr"):@n@b@x@a@4@a
+Qué letra continúa la serie: z y c d v u g ... (no tenga en cuenta la "ch", "ll" y "rr"):@f@i@h@t@3@h

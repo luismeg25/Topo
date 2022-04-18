@@ -65,3 +65,6 @@ Señale qué combinación de números es la correcta para esta operación: _  ÷
 Señale qué combinación de números es la correcta para esta operación: _  ÷ _ – _ = 1,75.@32, 5, 6@31, 4, 6@32, 5, 7@31, 5, 6@2@31, 4, 6
 Señale qué combinación de números es la correcta para esta operación: _  ÷ _ – _ = -0,6.@32, 5, 6@31, 4, 6@32, 5, 7@31, 5, 6@3@32, 5, 7
 Señale qué combinación de números es la correcta para esta operación: _  ÷ _ – _ = 0,2.@32, 5, 6@31, 4, 6@32, 5, 7@31, 5, 6@4@31, 5, 6
+Se hace un pedido de conceptos: bolígrafos al precio unitario de euros (IVAno incluido) cada bolígrafo; paquetes de papel de A4 a euros (IVA incluido) cada paquete; carpetas a euros (IVA no incluido) cada carpeta. Si el IVA de todos los conceptos es del , ¿cuál es el importe de la factura, IVAno incluido?@21.425,64 euros@17.810,70 euros@17.754,00 euros@21.482,34 euros@3@17.754,00 euros
+¿Cuál es el valor del 3,1% del 82,5% de 3.840?.@98,208@1,443@9820,8@1021,935@1@98,208
+Del presupuesto disponible en un departamento para material fungible, se gastan del mismo. Más tarde se recibe la aportación de euros. Posteriormente se gastan de la cantidad disponible en ese momento. Quedan euros. ¿Cuál era el presupuesto inicial? Tenga en cuenta que el cálculo se ha realizado redondeando a dos decimales.@5.367,11 euros@4.253,11 euros@4.685,57 euros@4.719,00 euros@4@4.719,00 euros

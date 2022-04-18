@@ -88,3 +88,16 @@ Una ballena es un ............... que vive en el mar.@pez@mamífero@animal@anfib
 La libertad de una persona ............... donde empiezan los derechos de los demás.@empieza@termina@cambia@radica@2@termina
 No existe nada mejor que estar en ............... con la naturaleza para renovar la energía.@contacto@amistad@harmonía@cercanía@1@contacto
 El chico  estaba  enamorado,  por  eso  deseaba  tener  una............... con su compañera de clase.@cita@discusión@carpeta@reconciliación@1@cita
+Recto es a torcido como afable es a….@Enflautado@Grave@Desagradable@Nato@3@Desagradable
+Mesura es a desmesura como inmediatez es a…@Tardanza@Irrealidad@Prominencia@Distracción@1@Tardanza
+Encontrar es a perder como estorbar es a…@Distraer@Facilitar@Limpiar@Injertar@2@Facilitar
+"Observe el siguiente grupo de palabras: ""estío - estrépito - cesión - desprecio - lustre"". Indique la respuesta que contenga un sinónimo para cada una de las palabras
+del grupo observado.@confluencia / desdén / renuncia / esplendor / verano@renuncia / esplendor / verano / ostentación / desdén@ostentación / verano / extensión / renuncia / desdén@esplendor / desdén / ostentación / lentitud / verano@2@renuncia / esplendor / verano / ostentación / desdén"
+"Observe el siguiente grupo de palabras: ""ropero - pócima - garganta - doblez - rastrillo"". Indique la respuesta que contenga un sinónimo para cada una de las palabras
+del grupo observado.@mercadillo / estrechura / malicia / cocimiento / efigie@armario / fuste / mercadillo / estrechura / cocimiento@cocimiento / malicia / armario / advertencia / mercadillo@malicia / mercadillo / armario / cocimiento / estrechura@4@malicia / mercadillo / armario / cocimiento / estrechura"
+"Indique cuántas palabras contienen algún error ortográfico en cada uno de los siguientes grupos de palabras: exacerbar, habilidad, yelmo, ehuforia, selladura,
+ventisca, tracción, probocador, abadejo, asiológico.@3@4@5@2@1@3"
+"Indique cuántas palabras contienen algún error ortográfico en cada uno de los siguientes grupos de palabras: bayena, auecado, ebullición, baladí, oyente,oxidante,
+devacle, tayudo, activo, orda.@4@7@6@5@4@5"
+Indique cuántas palabras contienen algún error ortográfico relativo a la tilde en cada uno de los siguientes grupos de palabras: específicamente, lápiz, algodón, cesped, pértiga, aguarrás, árido, artífice, absorbér, reiterádamente.@3@4@5@2@1@3
+Indique cuántas palabras contienen algún error ortográfico relativo a la tilde en cada uno de los siguientes grupos de palabras: ámbos, inquietud, cuadrúpedo, contrarrelój, datil, aquí, torax, epica, adiós, verosímil.@4@6@7@5@4@5
