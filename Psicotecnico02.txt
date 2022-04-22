@@ -63,3 +63,44 @@ Encuentra el número que continúa la serie siguiente: 9,  36,  144,  ?.@240@190
 Encuentra el número que continúa la serie siguiente: 8,  48,  288,  ?.@1728@1010@2592@9072@1@1728
 Encuentra el número que continúa la serie siguiente: 13,  26,  52,  ? .@180@150@120@104@4@104
 Encuentra el número que continúa la serie siguiente: 16,  32,  64,  ? .@128@110@127@150@1@128
+¿Qué número continua la secuencia: 4, 1, 5, 2, 7, _?@11@10@3@9@4@9
+Continua la serie:  11 – 20 – 19 – 27 – 25 – 32 – 29 – ?.@36@38@35@30@3@35
+Continua la serie:  1 – 1 – 2 – 3 – 5 – 8 – ?.@12@13@5@1@2@13
+Continua la serie:  4 – 6 – 2 – 22 – 24 – 20 – 40 – ?.@42@38@44@36@1@42
+Continua la serie:  2 – 3 – 4 – 9 – 6 – 7 – 8 – 21 – 1 – 2 – 3 – ?.@6@9@22@3@1@6
+Continua la serie:  5 – 15 – 37 – 63 – ?.@101@106@102@99@1@101
+Continua la serie:  90 – 45 – 50 – 25 – 30 – 15 – ?.@25@20@15@10@2@20
+Continua la serie:  84 – 6 – 82 – 18 – 80 – 54 – 78 – ?.@76@45@162@324@3@162
+Continua la serie:  3 – 2 – 5 – 6 – 4 – 4 – 9 – 6 – ?.@6@1@2@3@4@3
+Continua la serie:  23 – 26 – 29 – 32 – 35 – 38 – ?.@40@41@43@46@2@41
+Continua la serie:  6 – 8 – 12 – 24 – 24 – 72 – 48 – ?.@216@96@24@42@1@216
+Continua la serie:  6 – 6 – 6 – 4 – 4 – 4 – 2 – 2 – 2 – ?.@1@2@3@0@4@0
+Continua la serie:  21 – 13 – 32 – 24 – 43 – 35 – ?.@46@44@54@64@3@54
+Continua la serie:  33 – 28 – 29 – 32 – 27 – 28 – 31 – 26 – 27 – ?.@29@30@31@32@2@30
+Continua la serie:  2 – 12 – 16 – 17 – 18 – ?.@19@20@23@15@1@19
+Continua la serie:  5 – 10 – 15 – 45 – 50 – 55 – ?.@80@85@40@45@2@85
+Continua la serie:  72 – 68 – 67 – 63 – 62 – 58 – ?.@55@56@57@58@3@57
+Continua la serie:  6 – 24 – 192 – 768 – 6144 – ?.@24576@45576@36556@54776@1@24576
+Continua la serie:  18 – 9 – 3 – 6 – 3 – 1 – ?.@6@9@2@3@4@3
+Continua la serie:  50 – 49 – 17 – 23 – 22 – 8 – 14 – ?.@12@10@13@1@3@13
+Continua la serie:  5 – 14 – 41 – 122 – ?.@265@365@465@565@2@365
+Continua la serie:  6 – 15 – 33 – 69 – ?.@198@256@221@141@4@141
+Continua la serie:  2 – 10 – 12 – 16 – 17 – 18 – 19 – ?.@20@200@22@29@2@200
+Continua la serie:  102 - C - 204 - D - 308 - T - 416 – ?.@A@C@D@Q@2@C
+Continua la serie:  33 – 35 – 44 – 36 – 55 – ?.@37@36@47@48@1@37
+Continua la serie:  1 – 3 – 4 – 5 – 7 – 12 – 13 – 15 – ?.@16@20@25@28@4@28
+Continua la serie:  2 – 3 – 4 – 2 – 6 – 1 – 8 – ?.@3@2@10@0@4@0
+Continua la serie:  1 – 3 – 7 – 51 – ?.@1299@1359@2599@3299@3@2599
+Continua la serie:  5 – 16 – 49 – ?.@147@148@130@159@2@148
+Continua la serie:  1 – 3 – 11 – 123 – ?.@226@162@15131@3126@3@15131
+Continua la serie:  7 – 14 – 22 – 31 – 41 – ?.@52@53@54@55@1@52
+Continua la serie:  11 – 21 – 1211 – 111221 – 312211 – ?.@3121122@13112221@13121121@2211312@2@13112221
+Continua la serie:  2 – 4 – 4 – 3 – 6 – 2 – 8 – ?.@3@2@1@0@3@1
+Continua la serie:  9 – 7 – 5 – 6 – 4 – ?.@2@3@4@5@1@2
+Continua la serie:  3 – 4 – 7 – 11 – 18 – ?.@27@28@29@30@3@29
+Continua la serie:  2 – 4 – 8 – 16 – 32 – ?.@60@62@64@66@3@64
+Continua la serie:  30 – 5 – 1 – 4 – 12 – 6 – ?.@6@3@2@1@1@6
+Continua la serie:  90 – 45 – 50 – 25 – 30 – 15 – ?.@10@20@80@50@2@20
+Continua la serie:  6 – 9 – 15 – 24 – 36 – ?.@38@39@40@51@4@51
+Continua la serie:  121 – 81 – 49 – 25 – ?.@16@9@4@12@2@9
+Continua la serie:  44 – 40 – 36 – 18 – 14 – ?.@18@7@14@40@2@7

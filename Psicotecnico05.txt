@@ -101,3 +101,56 @@ ventisca, tracción, probocador, abadejo, asiológico.@3@4@5@2@1@3"
 devacle, tayudo, activo, orda.@4@7@6@5@4@5"
 Indique cuántas palabras contienen algún error ortográfico relativo a la tilde en cada uno de los siguientes grupos de palabras: específicamente, lápiz, algodón, cesped, pértiga, aguarrás, árido, artífice, absorbér, reiterádamente.@3@4@5@2@1@3
 Indique cuántas palabras contienen algún error ortográfico relativo a la tilde en cada uno de los siguientes grupos de palabras: ámbos, inquietud, cuadrúpedo, contrarrelój, datil, aquí, torax, epica, adiós, verosímil.@4@6@7@5@4@5
+En una compañía se lleva el registro de los clientes por orden alfabético. El cajón 1 comienza por “Álvarez, Carlos”; el 2 por “Balcarce, María”; el 3 por “Carlo, Vanesa”; el 4 por “Duarte, Alberto”; el 5 por “Estrada, Damián”; el 6 por “Gómez, Luis”; el 7 por “Iglesia, Manuel”; el 8 por “López, Catalina”. ¿En qué cajón se coloca a González, Henry?.@En el cajón 4.@En el cajón 6.@En el cajón 5.@En el cajón 7. @2@En el cajón 6.
+Indique, entre las siguientes palabras, cuál es el antónimo de la palabra SOLIDARIDAD:@Animación.@Indiferencia.@Castigo.@Ambiente.@2@Indiferencia.
+¿Qué par de palabras NO mantiene la relación que encontramos entre TAZA y CAFÉ?@Bosque y Árbol.@Mar y Arena.@Gafa y Ojo.@Libro y Video.@4@Libro y Video.
+Señale qué palabra se corresponde con la siguiente definición: “Entendimiento, inteligencia, razón natural”:@Opinión.@Conocimiento.@Emprendimiento.@ Elemental.@2@Conocimiento.
+Señale qué definición es la que se corresponde con la palabra INCIERTO:@No seguro, dudoso.@No saber algo o no tener noticia de ello.@Que hurta o roba.@Acto de discurrir el entendimiento.@1@No seguro, dudoso.
+Señale el número de errores ortográficos en la frase siguiente: La ceguadora luz que provenia de los automóbiles no permitia a los ciclistas avanzar la questa de la montaña.@2@5@7@3@2@5
+¿Qué pareja de SINÓNIMOS es INCORRECTA?@Impecable – Impoluto. Grandeza – Magnitud.@Impecable – Impoluto. Grandeza – Magnitud.@Simple – Complejo. Orgullo – Altivez.@Simple – Complejo. Orgullo – Altivez.@3@Simple – Complejo. Orgullo – Altivez.
+¿Cuál de las siguientes opciones tiene un significado más parecido a la palabra INTEGRAR?@Componer.@Sustituir.@Convertir.@Marcar.@1@Componer.
+Guarnición es a adorno como inflexión es a:@Perplejidad@Torcimiento@Desdén@Encomio@2@Torcimiento
+Pantomima es a representación como suspensión es a:@Acidez@Tinaja@Lienzo@Marasmo@4@Marasmo
+Ilustre es a insigne como menudo es a:@Exacto@Lacustre@Virulento@Rupestre@1@Exacto
+Dificultar es a facilitar como obstruir es a:@Requintar@Bufar@Afianzar@Desatrancar@4@Desatrancar
+Nebuloso es a claro como velloso es a:@Lampiño@Dócil@Jocoso@Ampuloso@1@Lampiño
+Indique el sinónimo de "ACÉMILA".@Afrenta@Burro@Albedrío@Jugo@2@Burro
+Indique el sinónimo de "PAGEL".@Pez@Benévolo@Fanal@Impuro@1@Pez
+Indique el sinónimo de "SUBLIME".@Ruar@Tenaz@Magnífico@Parvo@3@Magnífico
+Indique el sinónimo de "ODISEA".@Paz@Aventura@Actuar@Bulo@2@Aventura
+Indique el sinónimo de "JACO".@Caballo@Jácaro@Paladín@Orador@1@Caballo
+Indique el sinónimo de "ESBIRRO".@Enemigo@Otero@Secuaz@Dengue@3@Secuaz
+Indique el sinónimo de "AUNAR".@Acunar@Unir@Ahuyar@Ayudar@2@Unir
+Indique el sinónimo de "SERA".@Rufián@Odre@Deseo@Cesta@4@Cesta
+Indique el sinónimo de "FALAZ".@Engañoso@Franco@Verdadero@Fistol@1@Engañoso
+Indique el sinónimo de "FALÚA".@Hazaña@Ejercicio@Deseo@Embarcación@4@Embarcación
+Indique el sinónimo de "BEFA".@Basura@Úlcera@Burla@Ladrón@3@Burla
+Indique el sinónimo de "INDAGAR".@Encontrar@Fulgurar@Guardar@Fisgar@4@Fisgar
+Indique el sinónimo de "DESIDIA".@Duradero@Abandono@Arcaico@Zafio@2@Abandono
+Indique el sinónimo de "LIBAR".@Probar@Bailar@Ligar@Arrojar@1@Probar
+Indique el sinónimo de "ABANICO".@Pericón@Adusto@Baladí@Fistol@1@Pericón
+Indique el sinónimo de "MOLICIE".@Pereza@Destreza@Mordaz@Rareza@1@Pereza
+Indique el sinónimo de "PIGMEO".@Piel@Enorme@Recio@Enano@4@Enano
+Indique el sinónimo de "PERFIDIA".@Procaz@Infidelidad@Recelo@Perverso@2@Infidelidad
+Indique el sinónimo de "PRECINTO".@Prolijo@Sucinto@Lacre@Tronera@3@Lacre
+Indique el sinónimo de "ATEO".@Sospecha@Avezado@Benévolo@Yerro@1@Sospecha
+Indique el sinónimo de "UBICUIDAD".@Ausencia@Cuidar@Lugar@Presencia@4@Presencia
+Indique el sinónimo de "LAGAR".@Bodega@Beber@Tronera@Vulgo@1@Bodega
+Indique el sinónimo de "LECHÓN".@Blancuzco@Marrano@Cría@Ebúrneo@2@Marrano
+Indique el sinónimo de "BRUÑIR".@Gruñir@Abrillantar@Ensuciar@Arrojar@2@Abrillantar
+Indique el sinónimo de "DESABRIDO".@Basura@Laudo@Afable@Desagradable@4@Desagradable
+Indique el sinónimo de "GALERNA".@Barco@Tempestad@Tronera@Burla@2@Tempestad
+Indique el sinónimo de "SINUOSO".@Tranquilo@Suave@Ondulado@Oscuro@3@Ondulado
+Indique el sinónimo de "HEDIONDO".@Apestoso@Profundo@Bohemio@Liso@1@Apestoso
+Indique el sinónimo de "GALLOFO".@Torta@Galleta@Mendigo@Palmada@3@Mendigo
+Indique el sinónimo de "JAMAR".@Quitar@Llamar@Comer@Pegar@3@Comer
+Indique el sinónimo de "LASO".@Pobre@Cansado@Valiente@Liso@2@Cansado
+Indique el sinónimo de "MISCELÁNEA".@Mezcla@División@Omisión@Gentío@1@Mezcla
+Indique el sinónimo de "ONEROSO".@Grande@Pesado@Honrado@Dinero@2@Pesado
+Indique el sinónimo de "CARCAMAL".@Viejo@Fuerte@Feo@Pesado@1@Viejo
+Indique el sinónimo de "DÁDIVA".@Magia@Caos@Donación@Lugar@3@Donación
+Indique el sinónimo de "PALIO".@Broma@Linaje@Ladrón@Cubierta@4@Cubierta
+Indique el sinónimo de "EMPALIZADA".@Cerril@Atrapada@Barrera@Duda@3@Barrera
+Indique el sinónimo de "BALDÓN".@Ofensa@Homenaje@Burlón@Escalón@1@Ofensa
+Indique el sinónimo de "JIRÓN".@Camino@Rasgadura@Chiste@Lícito@2@Rasgadura
+Indique el sinónimo de "TILDAR".@Tirar@Arrastrar@Gritar@Tachar@4@Tachar

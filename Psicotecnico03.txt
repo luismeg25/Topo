@@ -88,3 +88,50 @@ Qué letra continúa la serie: b a z y d c x... (no tenga en cuenta la "ch", "ll
 Qué letra continúa la serie: a b f g k l o ... (no tenga en cuenta la "ch", "ll" y "rr"):@q@p@ñ@r@2@p
 Qué letra continúa la serie: ñ m q j u f z ... (no tenga en cuenta la "ch", "ll" y "rr"):@n@b@x@a@4@a
 Qué letra continúa la serie: z y c d v u g ... (no tenga en cuenta la "ch", "ll" y "rr"):@f@i@h@t@3@h
+¿Qué serie indica el orden alfabético correcto de las siguientes palabras?@Pacto, Pareja, Patrimonio, Paleontólogo, Partido.@Patrimonio, Partido, Pareja, Pacto, Paleontólogo.@Paleontólogo, Pacto, Partido, Pareja, Patrimonio.@Pacto, Paleontólogo, Pareja, Partido, Patrimonio.@4@Pacto, Paleontólogo, Pareja, Partido, Patrimonio.
+¿Qué letra completa la siguiente serie? B, 3, F, 4, K, 5, _ :@L@X@P@G@3@P
+Observar el conjunto de letras y establecer la relación que guardan entre sí para saber con qué letra debe continuar la serie (sí incluye la ”ñ” y no incluye: “ch”, “ll”, “rr”):  a c f h k m o…@s.@p.@r.@q.@4@q.
+Observar el conjunto de letras y establecer la relación que guardan entre sí para saber con qué letra debe continuar la serie (sí incluye la ”ñ” y no incluye: “ch”, “ll”, “rr”): a f d k i o n…@t.@u.@s.@p.@1@t.
+Observar el conjunto de letras y establecer la relación que guardan entre sí para saber con qué letra debe continuar la serie (sí incluye la ”ñ” y no incluye: “ch”, “ll”, “rr”): ñ m k p r i g…@u.@t.@e.@s@2@t.
+Observar el conjunto de letras y establecer la relación que guardan entre sí para saber con qué letra debe continuar la serie (sí incluye la ”ñ” y no incluye: “ch”, “ll”, “rr”): a e d c i h g…@o.@l.@m.@k.@3@m.
+Observar el conjunto de letras y establecer la relación que guardan entre sí para saber con qué letra debe continuar la serie (sí incluye la ”ñ” y no incluye: “ch”, “ll”, “rr”): z a a x c c v…@e.@f.@t.@d.@1@e.
+Continua la serie:  A – C – E – G – ?.@H@I@J@K@2@I
+Continua la serie:  B – D – F – H – ?.@G@H@I@J@4@J
+Continua la serie:  B – M – W – H – ?.@R@S@T@Q@1@R
+Continua la serie:  V – O – I – ?.@A@B@K@L@2@B
+Continua la serie:  Y – A – L – N – X – Z – ?.@I@J@K@L@3@K
+Continua la serie:  Z – X – U – Q – ?.@K@L@M@N@3@M
+Continua la serie:  B – D – Ñ – P – ?.@Z@A@B@C@2@A
+Continua la serie:  A – C – M – Ñ – X – ?.@W@X@Y@Z@4@Z
+Continua la serie:  P – N – L – ?.@J@K@L@M@2@K
+Continua la serie:  A – B – C – E – H – M – ?.@T@U@V@X@1@T
+Continua la serie:  J – R – N – L – T – O – N - V – ?.@N@Ñ@Q@P@3@Q
+Continua la serie:  B – J – G – C – K – H – D – L – ?.@I@M@P@T@1@I
+Continua la serie:  L – P – T – W – ?.@Z@X@W@Y@4@Y
+Continua la serie:  F – M – A – M – J – ?.@H@I@J@K@3@J
+Continua la serie:  C – H – M – Ñ – ?.@P@Q@R@S@1@P
+Continua la serie:  B – L – U- -E – ?.@L@M@N@Ñ@4@Ñ
+Continua la serie:  N – O – S – S – C – C – T – D – ?.@T@U@V@W@2@U
+Continua la serie:  A – G – L – O – ?.@P@Q@R@S@3@R
+Continua la serie:  L – E – R – E – I – E – U – E – F – ?.@D@E@F@G@2@E
+Continua la serie:  B – C – A – L – M – E – U – V – I – E – F – O – Ñ – O – ?.@R@S@T@U@4@U
+Continua la serie:  R - R – R – R – A – T – T – T – B – V – V – C – ?.@D@E@X@Y@3@X
+Continua la serie:  L – M – M – J – ?.@T@U@V@W@3@V
+Continua la serie:  T – U – R – T – P – Q – Ñ – P – M – ?.@N@Ñ@O@P@1@N
+Continua la serie:  M – Ñ – P – N – O – ?.@P@Q@R@S@2@Q
+Continua la serie:  D – F – E – G – F – ?.@H@I@J@K@1@H
+Continua la serie:  G – I – L – N – P – R – ?.@R@S@T@U@4@U
+Continua la serie:  A – B – D – G – K – ?.@N@Ñ@O@P@3@O
+Continua la serie:  L – V – G – Q – B – ?.@M@N@O@P@1@M
+Continua la serie:  S – W – B – F – ?.@I@J@K@L@3@K
+Continua la serie:  D – E – H – I – M – N – ?.@P@Q@R@S@3@R
+Continua la serie:  Z – A – C – F – J – N – P – ?.@O@P@Q@R@4@R
+Continua la serie:  G – J – N – R – X – ?.@D@E@F@G@2@E
+Continua la serie:  B – K – S – C – L – T – D – ?.@M@K@I@U@1@M
+Continua la serie:  A – B – C – M – N – Ñ – X –Y – Z – ?.@I@J@K@L@2@J
+Continua la serie:  M – Ñ – W – Y – ?.@G@H@I@J@2@H
+Continua la serie:  M – N – P – Q – R – V – W – X – Y – ?.@B@C@D@E@3@D
+Continua la serie:  C – K – S– A – ?.@J@R@S@T@1@J
+Continua la serie:  F – O – Y – ?.@G@H@I@J@3@I
+Continua la serie:  S – U – X – B – ?.@D@E@F@G@4@G
+Continua la serie:  C – M – V – ?.@E@F@G@H@2@F
