@@ -1,5 +1,6 @@
 1@Psicotécnico@Psicotécnico
 2@Constitución@Constitución
 3@Informática@Informática
-4@Auxiliar Administrativo@Aux Administrativo
-5@Ley 39/2015 y 40/2015@Leyes
+4@Administrativo@Administrativo
+5@Auxiliar Administrativo@Aux Administrativo
+6@Ley 39/2015 y 40/2015@Leyes
