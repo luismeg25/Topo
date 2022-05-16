@@ -63,3 +63,33 @@ La Regencia se ejercerá por mandato:@Constitucional@Del propio Rey@De las Corte
 El Regente o Regentes, ¿prestarán el mismo juramento que el Rey?:@No@Sí, al hacerse cargo de sus funciones@No, es un juramento voluntario@Sí, al producirse el llamamiento@2@Sí, al hacerse cargo de sus funciones
 ¿Quién manifiesta el consentimiento del Estado para obligarse internacionalmente por medio de tratados?:@El Presidente del Gobierno@El Presidente del Congreso@El Ministro de Asuntos Exteriores@El Rey@4@El Rey
 El Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de:@Su Familia y Casa@Su Familia@Su Casa@Su Familia y Corona@1@Su Familia y Casa
+Según el artículo 59 de la CE, en caso de que el Rey sea menor de edad:@Únicamente podrá ejercer la Regencia el Príncipe Heredero.@Ejercerá la Regencia su cónyuge.@Podrá ejercer como Rey aunque esa menor de edad.@Ninguna de las otras respuestas es válida.@4@Ninguna de las otras respuestas es válida.
+En virtud de lo dispuesto en el artículo 60 de la CE, ¿cuándo es nombrado el Tutor del Rey menor por las Cortes Generales?@En ningún caso.@Siempre que sea necesario.@Cuando el Rey lo haya indicado en su Testamento.@Cuando no exista Tutor testamentario ni legítimo.@4@Cuando no exista Tutor testamentario ni legítimo.
+¿Quién refrenda al Rey en la convocatoria de elecciones generales periódicas?@El Presidente del Congreso de los Diputados.@El Presidente de las Cortes Generales.@Ese acto no requiere refrendo.@El Presidente del Gobierno.@4@El Presidente del Gobierno.
+Los poderes del Estado emanan:@De la nación@Del pueblo español@De las Cortes Generales@Del Rey@2@Del pueblo español 
+El Jefe del Estado es:@El Presidente del Gobierno@El Rey@El Presidente del Congreso@Ninguna de las contestaciones anteriores es correcta@2@El Rey 
+El Rey ejerce las funciones que le atribuyen expresamente:@Las leyes@La Constitución y las leyes@Las leyes y la costumbre@La Constitución, las leyes y la costumbre@2@La Constitución y las leyes 
+La persona del Rey, ¿está sujeta a responsabilidad?:@No@Sí@Depende del acto constitucional que ejecute@Depende del acto político que ejecute@1@No 
+Cuando el Rey fuera menor de edad, ¿quién entrará a ejercer la Regencia en defecto de quien tuviera que ejercerla en primer lugar, según el orden establecido en la Constitución?:@El pariente mayor de edad más próximo a suceder en la Corona@El hermano mayor de edad@El padre o la madre del Rey@Quien determinen las Cortes Generales@1@El pariente mayor de edad más próximo a suceder en la Corona 
+La Regencia se ejercerá por mandato:@Constitucional@Del propio Rey@De las Cortes Generales@Del Consejo de Regencia@1@Constitucional 
+¿Qué requisitos se le exigen al tutor del Rey?:@Ser español@Ser mayor de edad@Ser mayor de edad y español de nacimiento@Ser español de nacimiento@3@Ser mayor de edad y español de nacimiento 
+El Regente o Regentes, ¿prestarán el mismo juramento que el Rey?:@No@No, es un juramento voluntario@Sí, al producirse el llamamiento@Sí, al hacerse cargo de sus funciones@4@Sí, al hacerse cargo de sus funciones 
+¿Quién manifiesta el consentimiento del Estado para obligarse internacionalmente por medio de tratados?:@El Presidente del Gobierno@El Rey@El Presidente del Congreso@El Ministro de Asuntos Exteriores@2@El Rey 
+El Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de:@Su Familia@Su Casa@Su Familia y Casa@Su Familia y Corona@3@Su Familia y Casa 
+¿Quién convoca un referéndum?:@El Presidente del Congreso@El Rey@El Presidente del Gobierno@El Congreso de los Diputados@2@El Rey 
+¿Quién propone la convocatoria de un referéndum?:@El Presidente del Congreso@El Rey@El Presidente del Gobierno@El Congreso de los Diputados@3@El Presidente del Gobierno 
+¿Quién dirige la acción del Gobierno?:@Su Presidente@Su Vicepresidente@Todos sus miembros@El Rey@1@Su Presidente 
+¿Quién coordina las funciones de los demás miembros del Gobierno?:@Su Presidente@Su Vicepresidente@Todos sus miembros@El Rey@1@Su Presidente 
+El Rey propondrá un candidato a la Presidencia del Gobierno previa consulta con:@Los Diputados@Los representantes designados por todos los Partidos políticos@Los representantes designados por todos los Grupos políticos@Los representantes designados por los Grupos políticos con representación parlamentaria@4@Los representantes designados por los Grupos políticos con representación parlamentaria 
+El Presidente del Gobierno será nombrado por:@El Presidente del Congreso@El Presidente de las Cortes Generales@El Rey@El Presidente del Senado@3@El Rey 
+El Gobierno responde parlamentariamente de su gestión política ante:@El Congreso de los Diputados@El Senado@Las Cortes Generales@El Rey@1@El Congreso de los Diputados 
+¿Quién puede exigir la responsabilidad política del Gobierno?:@El Congreso de los Diputados@El Senado@Las Cortes Generales@El Rey@1@El Congreso de los Diputados 
+Si el Congreso niega su confianza al Gobierno:@Éste se someterá a una nueva moción de confianza@Éste presentará su dimisión al Rey@Éste presentará su dimisión ante las Cortes Generales@Éste presentará su dimisión ante el propio Congreso@2@Éste presentará su dimisión al Rey 
+Si el Congreso adopta una moción de censura, ¿qué hará el Rey con el candidato incluido en aquélla?:@Nada@Lo propondrá para Presidente del Gobierno@Lo nombrará Presidente del Gobierno@Lo someterá a la confianza de la Cámara@3@Lo nombrará Presidente del Gobierno 
+La justicia emana:@De las Cortes Generales@Del pueblo@Del Rey@Del poder judicial@2@Del pueblo 
+¿Quién nombra a los miembros del Consejo General del Poder Judicial?:@El Congreso@El Senado@El Rey@El Gobierno@3@El Rey 
+El Presidente del Tribunal Supremo será nombrado a propuesta:@Del Congreso@Del Consejo General del Poder Judicial@Del Rey@Del Gobierno@2@Del Consejo General del Poder Judicial 
+El Fiscal General del Estado será nombrado a propuesta:@Del Congreso@Del Consejo General del Poder Judicial@Del Rey@Del Gobierno@4@Del Gobierno 
+El Fiscal General del Estado será nombrado oído:@El Congreso@El Consejo General del Poder Judicial@El Rey@El Gobierno@2@El Consejo General del Poder Judicial 
+El Presidente de una Comunidad Autónoma es nombrado:@Por el Presidente del Gobierno@Por la Asamblea, de entre sus miembros@Por el Rey@Por el Consejo de Gobierno@3@Por el Rey 
+Los miembros del Tribunal Constitucional son nombrados por:@El Congreso@El Senado@Las Cortes Generales@El Rey@4@El Rey
