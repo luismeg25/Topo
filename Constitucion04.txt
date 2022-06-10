@@ -11,7 +11,6 @@ La elección de Diputados se verificará:@En cada circunscripción, atendiendo c
 La convocatoria de referéndum es autorizada por:@El Rey.@El Gobierno.@El presidente del Gobierno.@El Congreso de los Diputados.@4@El Congreso de los Diputados.
 Las leyes que aprueban los estatutos de autonomía son:@Ordinarias.@Orgánicas o de bases, indistintamente.@De bases.@Orgánicas.@4@Orgánicas.
 Para que el Congreso se pronuncie sobre la convalidación o derogación del decreto ley, el reglamento establecerá un procedimiento:@Regular y sumario.@Sumario.@Regular.@Especial y sumario.@4@Especial y sumario.
-Podrá requerir al tribunal constitucional para que declare existe una contradicción entre un tratado que la Constitución:@El Gobierno o cualquiera de las Cámaras.@El Gobierno.@El Senado.@El Congreso.@1@El Gobierno o cualquiera de las Cámaras.
 Se puede ser simultáneamente:@Diputado y Senador.@Todas las opciones son ciertas.@Senador y miembro de una Asamblea Legislativa.@Diputado y miembro de una Asamblea Legislativa.@3@Senador y miembro de una Asamblea Legislativa.
 A Gran Canaria le corresponden:@3 Senadores.@5 Senadores.@2 Senadores.@4 Senadores.@1@3 Senadores.
 Si el texto presentado por la Comisión mixta del Congreso y el Senado no fuese aprobado por ambas Cámaras:@Decidirá el Senado por mayoría simple.@Decidirá Congreso por mayoría simple.@Decidirá el Congreso por mayoría absoluta cuando la decisión afecte a los tratados internacionales, Fondo de Compensación interterritorial, acuerdos de cooperación o convenios entre comunidades autónomas.@Quedará sin efecto.@3@Decidirá el Congreso por mayoría absoluta cuando la decisión afecte a los tratados internacionales, Fondo de Compensación interterritorial, acuerdos de cooperación o convenios entre comunidades autónomas.
@@ -51,10 +50,10 @@ Los miembros del Congreso se llaman:@Congresistas.@Diputados.@Ninguna de las opc
 ¿A quién deben dirigirse las Asambleas de las Comunidades Autónomas para solicitar la adopción de un proyecto de ley conforme al artículo 87 de la Constitución Española?@Al Senado.@Al Rey.@Al Gobierno.@Todas las respuestas son correctas.@3@Al Gobierno.
 En virtud de lo establecido en la CE, ¿cuántos senadores se elegirán en las islas?.@Se elegirán 3 senadores por las islas mayores: Mallorca y Tenerife, y 1 en cada una de las siguientes: Gran Canaria, Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma.@Se elegirán 3 senadores por las Islas mayores: Gran Canaria y Mallorca, y 1 en cada una de las siguientes: Ibiza, Formentera, Menorca, Tenerife, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma.@Se elegirán 3 senadores por las Islas mayores: Gran Canaria, Mallorca y Tenerife, y 1 en cada una de las siguientes: Ibiza, Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma.@Todas son falsas.@4@Todas son falsas.
 El Título de la Constitución que se refiere a las Cortes Generales es el:@Título IV@Título V@Título II@Título III@4@Título III
-Las Cortes Generales son:@  Improrrogables@  Inmunes@Inviolables@  Indisolubles@3@Inviolables
-El Congreso se compone de un mínimo de:@300 Diputados@250 Diputados@  350 Diputados@375 Diputados@1@300 Diputados
-La circunscripción electoral para elección de Diputados del Congreso es:@La provincia @  El municipio@  El partido judicial@La Comunidad Autónoma@1@La provincia 
-El Congreso es elegido por:@3 años@  5 años@4 años@  6 años@3@4 años
+Las Cortes Generales son:@  Improrrogables@  Inmunes@Inviolables@  Indisolubles@3@Inviolables
+El Congreso se compone de un mínimo de:@300 Diputados@250 Diputados@  350 Diputados@375 Diputados@1@300 Diputados
+La circunscripción electoral para elección de Diputados del Congreso es:@La provincia @  El municipio@  El partido judicial@La Comunidad Autónoma@1@La provincia 
+El Congreso es elegido por:@3 años@  5 años@4 años@  6 años@3@4 años
 La validez de las actas y credenciales de los miembros de ambas Cámaras estará sometida al control:@Judicial@Político@Fiscal@Reglamentario@1@Judicial
 El Senado es elegido por:@3 años@4 años@5 años@6 años@2@4 años
 Las Cámaras eligen a:@Sus respectivos Presidentes@Sus respectivos Presidentes y a los demás miembros de sus Mesas@Los miembros de sus Mesas@Los Secretarios de sus Mesas@2@Sus respectivos Presidentes y a los demás miembros de sus Mesas
@@ -64,7 +63,7 @@ El procedimiento sobre los tratados internacionales se iniciará:@Por el Gobiern
 El procedimiento sobre el fondo de compensación se iniciará:@Por el Gobierno@Por las Cortes Generales@Por el Senado @Por el Congreso@1@Por el Senado 
 La Diputación Permanente:@Existe en el Congreso, exclusivamente@Existe en el Senado, exclusivamente@No existe@Existe en cada Cámara@4@Existe en cada Cámara
 Las Diputaciones Permanentes, ¿seguirán ejerciendo sus funciones hasta la constitución de las nuevas Cortes Generales?:@Sí, cuando expire el mandato de éstas@Sí, en caso de disolución de éstas@No, en ningún caso @Sí, cuando expire el mandato o en caso de disolución de éstas@4@Sí, cuando expire el mandato o en caso de disolución de éstas
-En cada provincia se elegirán:@3 Senadores@4 Senadores@2 Senadores @5 Senadores@3@4 Senadores
+En cada provincia se elegirán:@3 Senadores@4 Senadores@2 Senadores@5 Senadores@3@4 Senadores
 El voto de Senadores y Diputados es:@Personal e intransferible@Impersonal@Personal e indelegable @Indirecto@1@Personal e indelegable 
 Los signatarios de una moción de censura no pueden presentar otra en:@La misma legislatura@En la misma Cámara@En ningún momento@El mismo periodo de sesiones@3@El mismo periodo de sesiones
 Son leyes orgánicas:@Las que aprueban los Presupuestos Generales del Estado@Las que aprueben las bases del régimen local@Las que aprueben el Estatuto del Presidente del Gobierno@Las que aprueben el régimen electoral general@4@Las que aprueben el régimen electoral general
@@ -75,7 +74,7 @@ Respecto de la iniciativa legislativa, las Asambleas de las Comunidades Autónom
 ¿Quién convoca un referéndum?:@El Presidente del Congreso@El Presidente del Gobierno@El Rey@El Congreso de los Diputados@3@El Rey
 ¿Quién propone la convocatoria de un referéndum?:@El Presidente del Gobierno@El Presidente del Congreso@El Rey@El Congreso de los Diputados@1@El Presidente del Gobierno
 La institución del Defensor del Pueblo se regulará:@Mediante una ley ordinaria@Mediante una ley orgánica@Mediante un Decreto-Ley@Mediante un Decreto Legislativo@2@Mediante una ley orgánica
-La Constitución instituye la figura del Defensor del Pueblo como:@Alto comisionado del Congreso@Alto comisionado de las Cortes Generales@A) Defensor de todos los derechos delos ciudadanos@       Defensor del interés público antela Justicia@2@Alto comisionado de las Cortes Generales
+La Constitución instituye la figura del Defensor del Pueblo como:@Alto comisionado del Congreso@Alto comisionado de las Cortes Generales@A) Defensor de todos los derechos delos ciudadanos@       Defensor del interés público antela Justicia@2@Alto comisionado de las Cortes Generales
  ¿Cómo se regulan las condiciones y el procedimiento de las distintas modalidades de referéndum previstas en la CE? @Mediante una ley ordinaria@Mediante una ley orgánica@Mediante un Decreto-Ley@Mediante un Decreto Legislativo@4@Mediante una ley orgánica
 ¿Quién designa al Defensor del Pueblo?:@Las Cortes Generales@El Gobierno@El Congreso@El Senado@1@Las Cortes Generales
 ¿A quién dará cuenta de su actividad el Defensor del Pueblo?:@Al Gobierno@Al Congreso@Al Senado@A las Cortes Generales@4@A las Cortes Generales
