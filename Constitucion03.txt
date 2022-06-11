@@ -82,6 +82,6 @@ La justicia emana:@De las Cortes Generales.@Del pueblo.@Del Rey.@Del poder judic
 ¿Quién nombra a los miembros del Consejo General del Poder Judicial?.@El Congreso.@El Senado.@El Rey.@El Gobierno.@3@El Rey.
 El Presidente del Tribunal Supremo será nombrado a propuesta:@Del Congreso.@Del Consejo General del Poder Judicial.@Del Rey.@Del Gobierno.@2@Del Consejo General del Poder Judicial.
 El Fiscal General del Estado será nombrado a propuesta:@Del Congreso.@Del Consejo General del Poder Judicial.@Del Rey.@Del Gobierno.@4@Del Gobierno.
-El Fiscal General del Estado será nombrado oído:@El Congreso.@El Consejo General del Poder Judicial.@El Rey.@El Gobierno.@2@El Consejo General del Poder Judicial.
+El Fiscal General del Estado será nombrado por:@El Congreso.@El Consejo General del Poder Judicial.@El Rey.@El Gobierno.@2@El Consejo General del Poder Judicial.
 El Presidente de una Comunidad Autónoma es nombrado:@Por el Presidente del Gobierno.@Por la Asamblea, de entre sus miembros.@Por el Rey.@Por el Consejo de Gobierno.@3@Por el Rey.
 Los miembros del Tribunal Constitucional son nombrados por:@El Congreso.@El Senado.@Las Cortes Generales.@El Rey.@4@El Rey.
