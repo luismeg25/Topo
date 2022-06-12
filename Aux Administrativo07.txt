@@ -33,8 +33,8 @@ DFH es a JLN como CEG es a:@IKM@GTR@GHY@HKM@1@IKM
 Señale el número de errores ortográficos en la frase siguiente: “Estubo pensatibo duránte interminables mínutos, pero, al final habia tomado una decision que le llebaba ha la tanquilidad”.@9@15@13@14 @1@9
 Un mecanógrafo debe transcribir la siguiente cadena de caracteres: ORIGINAL: 57-45-26-15-66-23-1,5-32-12-7,9-8,5-9,3. COPIA: 57-54-26-1,5-66-23-1,5-23-12-7,9-8,5-93. ¿Cuántos errores ha cometido?@5@6@4@8@2@6
 Entre la siguiente serie de palabras hay una con una incorrección:@Babieca – boato – visera – bizcocho – bullir – vestigio.@Convoy – bistec – pillo – borrufalla – exudar – extradicción.@Potaje – fingir – cognación – cinegético – agestarse – girasol.@Ornamento – mohíno – hollín – olmo – fehaciente – cohibir.@2@Convoy – bistec – pillo – borrufalla – exudar – extradicción.
-Completa la siguiente serie numérica: 3, 7, 9, 21,27,61,@81@99@105@75@1@81
-Continúa la serie: 21, 20, 22, 21, 23, 22, 24,@23@25@26@22@1@23
+Completa la siguiente serie numérica: 3, 7, 9, 21,27,61,...@81@99@105@75@1@81
+Continúa la serie: 21, 20, 22, 21, 23, 22, 24,...@23@25@26@22@1@23
 Señale la letra que continuaría la serie D F G I J K M N Ñ O@P@Q@R@S@2@Q
 Señale la letra que continuaría la serie A E I M P T ...@V@X@W@Y @2@X
 Una enciclopedia está dividida en 6 tomos. El tomo I comprende desde la A hasta COO; el tomo II desde COP hasta INC; el tomo III desde IND hasta LAM; el tomo IV desde LAN hasta ORT; el tomo V desde ORU hasta TIL; el tomo VI desde TIM hasta la Z. ¿A qué tomos corresponden las palabras JABATO y CONEJO?@JABATO al tomo IV y CONEJO al tomo II@JABATO al tomo IV y CONEJO al tomo III@JABATO al tomo II y CONEJO al tomo IV@JABATO al tomo III y CONEJO al tomo I@4@JABATO al tomo III y CONEJO al tomo I
@@ -117,7 +117,7 @@ Señale el número de errores ortográficos en la frase siguiente: “Estubo ref
 Un mecanógrafo debe transcribir la siguiente cadena de caracteres: ORIGINAL: 80-5,9-27-88-23-2,9-46-6,9-01-7,9-8,3-41. COPIA: 80-5,9-72-88-23-2,9-64-6,9-11-7,9-8,3-11. ¿Cuántos errores ha cometido?@7@6@5@8 @2@6
 En las siguientes frases hay una incorrectamente escrita:@Los tres parecían conservados en una urna conventual.@Los primeros principios son evidentes por si mismos.@Tratamos el indispensable proceso de abstracción.@Hay que adecuar el término medio en el silojismo@4@Hay que adecuar el término medio en el silojismo
 Completa la siguiente serie numérica: 5, 7, 10, 14, 20 ,28@42@40@56@82@2@40
-Continúa la serie: 62, 60, 64, 62, 66, 64, 68,@66@64@62@60@1@66
+Continúa la serie: 62, 60, 64, 62, 66, 64, 68,...@66@64@62@60@1@66
 Señale la letra que continuaría la serie B D E G H I K L M N …@P@Q@O@S@3@O
 Señale la letra que continuaría la serie C G K Ñ R V ...@A@X@Z@Y@3@Z
 Una enciclopedia está dividida en 6 tomos. El tomo I comprende desde la A hasta COO; el tomo II desde COP hasta INC; el tomo III desde IND hasta LAM; el tomo IV desde LAN hasta ORT; el tomo V desde ORU hasta TIL; el tomo VI desde TIM hasta la Z. ¿A qué tomos corresponden las palabras ALBACETE y MURCIA?@ALBACETE al tomo IV y MURCIA al tomo II@ALBACETE al tomo IV y MURCIA al tomo III@ALBACETE al tomo I y MURCIA al tomo IV@ALBACETE al tomo III y MURCIA al tomo I@3@ALBACETE al tomo I y MURCIA al tomo IV
