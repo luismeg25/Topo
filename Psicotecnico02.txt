@@ -46,7 +46,7 @@ Añadir a cada sucesión de letras o números la letra o número que debe seguir
 Continúe la siguiente serie numérica con el grupo de los números (de entre los propuestos) que mejor la completan: 1, 10, 3, 9, 5, 8, 7, 7, 9, 6, ?, ?.@11 5@10 5@10 4@11 6@1@11 5
 ¿Qué número viene después en la siguiente serie? 9, 16, 25, 36…@49@50@48@51@1@49
 Indique el número que por lógica completa la serie: 2, 3, 5, 9, 17…@32@22@25@33@4@33
-Determina que número continúa la siguiente serie: 44, 180, 22, 90, 11,  ?.@33@45@50@19@2@45
+Determina que número continúa la siguiente serie: 44, 180, 22, 90, 11, _?.@33@45@50@19@2@45
 Determina que número continúa la siguiente serie: 1, 2, 100, 101, 16, 17, 40,….@21@18@41@20@3@41
 Encuentra el número que continúa las serie siguiente: 4, 15, 8, 14, 12, 13, 16, 12, …@20@13@11@14@1@20
 Encuentra el número que continúa las serie siguiente: 9, 17, 8, 14, 7, 11, 6, 8, …@9@5@10@12@2@5
@@ -63,7 +63,7 @@ Encuentra el número que continúa la serie siguiente: 9,  36,  144,  ?.@240@190
 Encuentra el número que continúa la serie siguiente: 8,  48,  288,  ?.@1728@1010@2592@9072@1@1728
 Encuentra el número que continúa la serie siguiente: 13,  26,  52,  ? .@180@150@120@104@4@104
 Encuentra el número que continúa la serie siguiente: 16,  32,  64,  ? .@128@110@127@150@1@128
-¿Qué número continua la secuencia: 4, 1, 5, 2, 7, _?@11@10@3@9@4@9
+¿Qué número continua la secuencia: 4, 1, 5, 2, 7, _?.@11@10@3@9@4@9
 Continua la serie:  11 – 20 – 19 – 27 – 25 – 32 – 29 – ?.@36@38@35@30@3@35
 Continua la serie:  1 – 1 – 2 – 3 – 5 – 8 – ?.@12@13@5@1@2@13
 Continua la serie:  4 – 6 – 2 – 22 – 24 – 20 – 40 – ?.@42@38@44@36@1@42
