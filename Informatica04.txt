@@ -19,18 +19,18 @@ Para localizar una dirección de Internet determinada:@Se pulsa un enlace para i
 ¿Cuál de éstos es un navegador web?.@Archie.@Bing.@ARPANET.@Chrome.@4@Chrome.
 ¿Cuál de éstos es un navegador web?.@Archie.@Mozilla Firefox.@ARPANET.@Yahoo.@2@Mozilla Firefox.
 ¿Cuál de éstos es un navegador web?.@Microsoft Edge.@Terra.@ARPANET.@Yahoo.@1@Microsoft Edge.
-¿Qué es Hipervinculo?.@Es un enlace para ingresar en Internet.@Es un enlace, normalmente entre dos páginas web de un mismo sitio.@Es un enlace, normalmente entre dos páginas web de un mismo sitio, pero un enlace también puede apuntar a una página de otro sitio web.@Ninguno.@3@Es un enlace, normalmente entre dos páginas web de un mismo sitio, pero un enlace también puede apuntar a una página de otro sitio web.
+¿Qué es Hipervínculo?.@Es un enlace para ingresar en Internet.@Es un enlace, normalmente entre dos páginas web de un mismo sitio.@Es un enlace, normalmente entre dos páginas web de un mismo sitio, pero un enlace también puede apuntar a una página de otro sitio web.@Ninguno.@3@Es un enlace, normalmente entre dos páginas web de un mismo sitio, pero un enlace también puede apuntar a una página de otro sitio web.
 ¿Qué función realiza el botón "Atrás"?.@Regresa a la página de Inicio.@Regresa a la página anterior.@Ninguno.@Abre otra nueva ventana.@2@Regresa a la página anterior.
 ¿Qué es un dominio?.@Un servidor de la World Wide web.@Un servidor que aloja páginas Web.@Un cliente que se conecta a Internet.@Un nombre que identifica una página o empresa en internet.@4@Un nombre que identifica una página o empresa en internet.
 ¿Qué es TCP/IP?.@Es uno de los mejores navegadores de Internet.@Permite buscar información en Internet.@Programa que permite navegar en Internet.@Protocolo que permite la comunicación entre los ordenadores pertenecientes a una red.@4@Protocolo que permite la comunicación entre los ordenadores pertenecientes a una red.
 ¿Qué es FTP?.@Es un protocolo que se utiliza para transferir todo tipo de archivos entre equipos conectados a una red.@Es una aplicación de internet.@Es una herramienta de búsqueda avanzada de Internet Explorer.@Ninguna de las anteriores.@1@Es un protocolo que se utiliza para transferir todo tipo de archivos entre equipos conectados a una red.
 ¿Qué es ICMP?.@Protocolo que mapea direcciones IP en relación a las direcciones de hardware utilizados por un protocolo de enlace datos.@Es un protocolo que apoya al proceso de control de errores y consulta de  gestión.@Protocolo que garantiza que los datos se transmiten de manera adecuada a través de Internet.@Protocolo que permite que los navegadores y servidores web se comuniquen adecuadamente.@2@Es un protocolo que apoya al proceso de control de errores y consulta de  gestión.
-¿Cúal de los siguientes no es un protocolo de internet?.@FTP.@HTTP.@LHP.@UDP.@3@LHP.
+¿Cual de los siguientes no es un protocolo de internet?.@FTP.@HTTP.@LHP.@UDP.@3@LHP.
 ¿Qué lenguajes pueden interpretar los navegadores o exploradores de páginas web?.@HTML.@C++.@Pascal.@Ensamblador.@1@HTML.
 ¿En qué se diferencia los enlaces https y http?.@La seguridad.@La velocidad de conexión.@La omisión de información.@Ninguna de las anteriores.@1@La seguridad.
-¿Cúal de los siguientes es un navegador de internet?.@NetScape.@Naptchat.@Adobe.@Ninguna de las anteriores.@4@Ninguna de las anteriores.
-¿Cúal de los siguientes es un navegador de internet?.@NetScape.@Opera.@Adobe.@Ninguna de las anteriores.@2@Opera.
-¿Cúal de los siguientes es un navegador de internet?.@NetScape.@Naptchat.@Mozilla Firefox.@Ninguna de las anteriores.@3@Mozilla Firefox.
+¿Cual de los siguientes es un navegador de internet?.@Netscape.@Naptchat.@Adobe.@Ninguna de las anteriores.@4@Ninguna de las anteriores.
+¿Cual de los siguientes es un navegador de internet?.@Netscape.@Opera.@Adobe.@Ninguna de las anteriores.@2@Opera.
+¿Cual de los siguientes es un navegador de internet?.@Netscape.@Naptchat.@Mozilla Firefox.@Ninguna de las anteriores.@3@Mozilla Firefox.
 ¿En qué navegador se pueden guardar páginas web visitadas?.@Sólo en Chrome.@Sólo en Mozilla.@Sólo en Opera.@En todas las anteriores.@4@En todas las anteriores.
 En Internet Explorer, ¿cómo se denominan los vínculos a un sitio Web que se visita con frecuencia?.@Historial.@Páginas de inicio.@Cookies.@Favoritos.@4@Favoritos.
 Sobre los sistemas de nombres de dominio DNS, ¿cuál de las siguientes afirmaciones es falsa?.@Un servidor DNS resuelve el nombre de dominio de manera iterativa, mientas que un servidor DRN lo hace de forma recursiva.@La asignación de nombres a direcciones IP es la función principal de los protocolos DNS.@El crecimiento explosivo de la red causó que el sistema de nombres centralizados o locales en archivos hosts no resultase práctico.@CNAME, NS, MX, PTR y SOA son algunos tipos de registros DNS.@1@Un servidor DNS resuelve el nombre de dominio de manera iterativa, mientas que un servidor DRN lo hace de forma recursiva. 
@@ -177,7 +177,7 @@ La precursora de Internet fue:@Milnet.@WWW.@Darpanet.@Arpanet.@4@Arpanet.
 De los protocolos siguientes, ¿cuál no es de correo electrónico?.@NNTP.@SMTP.@IMAP.@POP3.@1@NNTP.
 El proceso que consiste en poder enviar información desde varias aplicaciones a través de una conexión se denomina:@Multiplexación.@Indexación.@Demultiplexación.@Arquitectura Cliente/ Servidor.@1@Multiplexación.
 ¿Quién creó el primer dispositivo que permitía transmitir datos binarios sobre una línea telefónica simple?.@Thomas Edison.@Samuel B. Morse.@La compañía IBM.@La compañía Bell.@4@La compañía Bell. 
-La publicación de WWW tuvo lugar en el año:@1989@1992@1991@1995 @3@1991
+La publicación de WWW tuvo lugar en el año:@1989@1992@1991@1995@3@1991
 Para que la exploración de lnPrivate esté activada utilizaremos:@Ctrl+ Mayús+ P.@Ctrl+ Mayús+ L.@Alt+ Mayús+ K.@Alt+ Mayús+ L.@1@Ctrl+ Mayús+ P.
 De los siguientes servicios de Internet, ¿cuál de ellos permite que el usuario encuentre y evalúe información sin necesidad de obtener una copia para determinar su contenido?.@Gopher.@Telnet.@FTP.@HTTP.@1@Gopher.
 ¿Cuál fue el primer sistema que permitió pasar de un sitio a otro seleccionando una opción en el menú de una página?.@WWW.@Archie.@Gopher.@Telnet.@3@Gopher.
@@ -209,7 +209,7 @@ El conjunto de reglas de etiqueta, usos y buenas costumbres de Internet se conoc
 El sistema de envío continuo de información que permite ver un video a medida que se baja de la red es:@Cloud.@BitTorrent.@Telnet.@Streaming.@4@Streaming. 
 El software adicional necesario para controlar la comunicación entre el sistema y un cierto dispositivo físico se conoce como:@Driver.@Finger.@Firewall.@Freeware.@1@Driver.
 El nivel 3 en el patrón de organización jerárquica de Internet es:@Red Troncal.@Redes corporativas.@Redes de Proveedores de Acceso Local.@Redes de Proveedores de Tránsito y Acceso Internacional.@3@Redes de Proveedores de Acceso Local.
-El programa o script que realiza funciones que de otra manera habría que hacer de forma manual es:@Bot.@Broadcast.@Bug.@Algoritmo@1@Bot.
+El programa o script que realiza funciones que de otra manera habría que hacer de forma manual es:@Bot.@Broadcast.@Bug.@Algoritmo.@1@Bot.
 Las direcciones que proporcionan los sitios web o blogs de internet, mediante la cual se puede conocer cuando publican un nuevo artículo son:@Los Torrents.@Los dominios.@Los RSS.@Los subdominios.@3@Los RSS.
 En relación al proxy, señala la respuesta correcta:@Es un dispositivo físico.@Une dos redes.@Es un programa que realiza la tarea de encaminador, utilizado en redes locales.@Todas son correctas.@3@Es un programa que realiza la tarea de encaminador, utilizado en redes locales.
 El servidor más utilizado es:@Servidor Apache.@Servidor DNS.@Servidor ISS de Microsoft.@Ninguno de los anteriores.@1@Servidor Apache.
