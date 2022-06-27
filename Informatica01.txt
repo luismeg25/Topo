@@ -338,3 +338,203 @@ Si accedemos mediante el Panel de control a Cuentas de usuario con una cuenta co
 En el sistema operativo MS-DOS, la tecla "Supr":@Borra el carácter situado encima del cursor.@Borra el carácter situado a la izquierda del cursor.@Borra el carácter situado a la derecha del cursor.@No tiene ninguna función.@1@Borra el carácter situado encima del cursor.
 De las siguientes funciones, ¿cuál no corresponde al sistema operativo?.@Crear hojas de cálculo.@Administrar la distribución del procesador entre los distintos programas.@Gestionar la RAM para asignar el espacio de memoria a cada aplicación.@Gestionar la lectura y escritura en el sistema de archivos asignado.@1@Crear hojas de cálculo.
 De los siguientes caracteres ¿cuáles se pueden incluir en el nombre de un archivo en Windows?.@<@?@*@=@4@=
+¿Por quién fue inventado el término "Informática"?.@John Von Neumann.@Joseph M. Jacquard.@Phillippe Dreyfus.@Blaise Pascal.@3@Phillippe Dreyfus.
+Al proceso de traducir la información que viene expresada en lenguaje natural a lenguaje binario se le denomina:@Unificación.@Codificación.@Proceso.@Decodificación.@2@Codificación.
+El firmware es:@El software que viene grabado de fábrica.@La parte inmaterial constituida por los programas de ordenador.@La parte material o tangible del sistema informático.@La BIOS, sistema básico de entrada y salida.@1@El software que viene grabado de fábrica.
+Las memorias que están dentro de la placa base del ordenador reciben el nombre de:@Memorias principales.@Memorias secundarias.@Memorias de almacenamiento masivo.@Memorias auxiliares.@1@Memorias principales.
+Un Pentabyte es igual a:@2^10 Gigabytes.@2^50 Kilobytes.@2^50 bytes.@2^20 Terabytes.@3@2^50 bytes.
+El escáner es un dispositivo:@De entrada.@De salida.@De entrada y salida.@Interno.@1@De entrada.
+El número de pantallas que aparecen en un monitor por segundo se denomina:@Pixel.@Resolución.@Tasa de refresco.@Dot pitch.@3@Tasa de refresco.
+Las impresoras de matriz de puntos también se denominan:@De inyección de tinta.@Matriciales.@De margarita.@Térmicas.@2@Matriciales.
+El lugar de la placa base donde se insertan las tarjetas necesarias en un equipo informático se conoce como:@Chipset.@Disipador.@Buses.@Slots.@4@Slots. 
+El conjunto de instrucciones que le dicen al ordenador qué tiene que hacer con los datos para obtener un resultado se denomina:@Software.@Programas.@Algoritmo.@Sistema operativo.@2@Programas.
+Señala la respuesta correcta. El backup es:@Una copia de seguridad de información.@Un periférico de salida utilizado para trazar planos.@Un sistema antivirus.@Una aplicación que nos permite controlar el acceso a nuestro equipo.@1@Una copia de seguridad de información.
+Los Mainframes son:@Los ordenadores más específicos y pequeños que existen.@Ordenadores que tienen la misma arquitectura que los IBM PC iniciales pero fabricados por otras compañías.@Equipos que funcionan como Servidores y soportan la comunicación de muchos usuarios conectados a la vez.@Ordenadores que no tienen marca.@3@Equipos que funcionan como Servidores y soportan la comunicación de muchos usuarios conectados a la vez.
+El teclado y el ratón se conectan a la CPU mediante:@Puertos en serie COM.@Puertos en paralelo LPT.@Puertos USB.@Conectores PS/2.@4@Conectores PS/2. 
+El elemento encargado de realizar todas las operaciones que se llevan a cabo en el ordenador se conoce como:@Chipset.@CPU.@Buses.@Slots.@2@CPU.
+El equipo lógico o parte inmaterial del ordenador se denomina:@Hardware.@Firmware.@Groupware.@Software.@4@Software. 
+El Registro de instrucción es un elemento principal:@De los buses de datos.@Del disipador.@De la unidad de control.@De la unidad aritmético-lógica.@3@De la unidad de control.
+Las memorias de almacenamiento masivo son:@Memorias principales.@Memorias centrales.@Memorias auxiliares.@Memorias secundarias.@4@Memorias secundarias. 
+En un disco duro, la información se va guardando en líneas concéntricas llamadas:@Pistas.@Sectores.@Cabezales.@Cilindros.@1@Pistas.
+Los primeros lenguajes de programación aparecieron en:@La primera generación.@La segunda generación.@La tercera generación.@La cuarta generac1on.@2@La segunda generación.
+Las señales eléctricas de tipo continuo son:@Analógicas.@Digitales.@Discretas.@Ninguna es correcta.@1@Analógicas.
+El número 47 en base 2 sería:@111101@111011@101111@110111@3@101111
+De los siguientes periféricos, ¿cuál no es de entrada?.@Webcam.@Datapen.@Lectora de cinta perforada.@Perforadora de tarjetas.@4@Perforadora de tarjetas. 
+Los ordenadores digitales son aquellos que trabajan con señales:@Analógicas.@Continuas.@Discretas.@Continuas y discretas.@3@Discretas.
+La memoria existente en el disco duro de un equipo informático que permite guardar copias temporales de archivos para poder acceder a ellos en ciertos momentos se denomina:@Cache.@Banner.@Cookie.@Floppy.@1@Cache.
+La aplicación destinada para tener bien actualizado nuestro sistema informático con las últimas actualizaciones del sistema operativo Windows es:@Windows Anytime Upgrade.@Windows Update.@Windows Defender.@Windows CardSpace.@2@Windows Update.
+Los errores o fallos de software en un programa o sistema que desencadenan un resultado indeseado se conocen como:@Virus.@Bug.@Banner.@Parches.@2@Bug.
+El principal componente electrónico que se encuentra en el microprocesador es:@Ventilador.@Fuente de alimentación.@Circuitos.@Transistores.@4@Transistores. 
+La configuración del Sistema Básico de Entrada y Salida se puede modificar mediante un programa llamado:@Setup.@Exe.@Config.@Esc.@1@Setup.
+Un Byte está formado por:@Ocho octetos.@Ocho bits.@Una palabra.@Treinta y dos bits.@2@Ocho bits.
+La memoria BIOS es una memoria:@Volátil.@RAM.@ROM.@Caché de segundo nivel.@3@ROM.
+La máquina analítica fue un invento de:@Herman Hollerith.@Eckert y Mauchly.@Blaise Pascal.@Charles Babbage.@4@Charles Babbage. 
+¿Cuál es el elemento encargado de procesar los datos de la CPU y transformarlos en información comprensible y representable en una pantalla?.@Memoria de solo lectura ROM.@Disco duro.@Tarjeta de vídeo.@Tarjeta de sonido.@3@Tarjeta de vídeo.
+Definimos el concepto longitud de palabra como:@Número de bits que un ordenador puede procesar en una única operación.@Número de bytes que un ordenador puede procesar en una única operación.@La cantidad mínima de información que se puede representar.@La cantidad de veces por minuto que se refresca una pantalla.@1@Número de bits que un ordenador puede procesar en una única operación.
+De los siguientes tipos de buses cuál es unidireccional:@Los buses de datos.@Los buses de control.@Los buses de direcciones.@Todos son unidireccionales.@3@Los buses de direcciones.
+Los programas de evaluación que forman parte del software de un sistema informático se conocen como:@Freeware.@Groupware.@Firmware.@Shareware.@4@Shareware. 
+¿Dentro de qué tipo de software se encuentran los navegadores de internet?.@Firmware.@Software de programación.@Software de aplicación.@Software de sistema.@3@Software de aplicación.
+El conjunto o secuencia de instrucciones que se escriben para realizar tareas específicas en un ordenador se conoce como:@Algoritmo.@Programa.@Aplicación.@Periférico.@2@Programa.
+El término POST hace referencia a.@Sistema básico de entrada y salida.@Protocolo de correo electrónico.@Auto prueba de encendido.@Sistema de alimentación ininterrumpida.@3@Auto prueba de encendido.
+De los siguientes dispositivos, ¿cuál no se verifica en el POST en el momento del arranque?.@Placa base.@Fuente de alimentación.@RAM.@Teclado.@4@Teclado. 
+La memoria ROM:@Es de solo lectura con lo cual ni la escritura ni la lectura son destructivas.@Es de lectura y escritura.@Es de solo escritura, con lo cual ni la lectura ni la escritura son destructivas.@Es de solo escritura.@1@Es de solo lectura con lo cual ni la escritura ni la lectura son destructivas.
+Un Sistema Operativo es un software:@De aplicación.@De programación.@De sistema.@Forma parte del hardware, no del software.@3@De sistema.
+El Sistema Operativo es:@El conjunto de lenguajes de programación.@El conjunto de software de aplicación.@El conjunto de programas de aplicación.@El conjunto de programas de sistema de un ordenador.@4@El conjunto de programas de sistema de un ordenador. 
+El sistema con el que se representa la información dentro del equipo informático es:@El sistema binario.@El sistema decimal.@El sistema en base diez.@Octeto.@1@El sistema binario.
+El primer sistema operativo en la historia de la informática fue:@MS-DOS.@Unix.@DrDos.@Windows.@2@Unix.
+De los siguientes dispositivos, ¿cuáles pertenecen a la tecnología magnética?.@Disquette.@CD.@Blu-ray Disc.@DVD@1@Disquette.
+El tipo de software que se encarga de obtener y memorizar las pulsaciones que se realizan en un teclado se conocen como:@Gusano informático.@Qwerty.@Keylogger.@Troyano.@3@Keylogger.
+La unidad mínima de información que necesita un ordenador para almacenar algo es:@Byte.@Bit.@Palabra.@Octeto.@2@Bit.
+El proceso en que se verifican los dispositivos de hardware básicos e indispensables para el correcto arranque del sistema y que se encuentra la memoria ROM se conoce como:@Post (Power on self-test)@Bias (System basic input output).@CMDS.@SETUP.@1@Post (Power on self-test)
+El dispositivo de tecnología óptica CD-R:@No permite modificar ni eliminar los datos contenidos en el mismo.@Permite añadir contenidos al disco pero una vez añadidos no se pueden modificar ni eliminar.@Permite añadir contenidos al disco y una vez añadidos los datos se pueden modificar y eliminar.@Ninguna de las respuestas anteriores es correcta.@2@Permite añadir contenidos al disco pero una vez añadidos no se pueden modificar ni eliminar.
+El equipo físico o parte material o tangible del sistema informático se denomina:@Software.@Shareware.@Freeware.@Hardware.@4@Hardware. 
+La velocidad de procesamiento, de trabajo o frecuencia de reloj de un procesador se mide en:@Bytes.@Bits.@Megabytes.@Megahertzios.@4@Megahertzios. 
+Aquel programa informático diseñado para su distribución sin costo monetario pero que aun así tiene ciertas restricciones de uso tales como mantener el código fuente del programa en secreto para evitar su copiado por otras empresas se conoce como:@Software de código abierto.@Freeware.@Software libre.@Demoware.@2@Freeware.
+La zona de más rápido acceso dentro de la memoria RAM se denomina:@Buffer.@Cache.@CPU.@Memoria secundaria.@2@Cache.
+¿En qué año fue adoptado en España el término informática?.@1962.@1965.@1978.@1972.@3@1978. 
+El software dirigido al ordenador para controlar su funcionamiento y conseguir que las aplicaciones del usuario que funcionen de forma eficiente se conoce como:@Lenguaje de programación.@Software básico.@Software de aplicación.@Software de programación.@2@Software básico.
+El conjunto de símbolos que representan una orden de operación o tratamiento para la computadora recibe el nombre de:@Programa.@Hardware.@Instrucción.@Algoritmo.@3@Instrucción.
+Con seis dígitos ¿cuántas combinaciones posibles obtendremos?.@32.@64.@128.@64.@4@64. 
+Señala la respuesta incorrecta respecto a la memoria ROM:@Es una memoria de solo lectura.@Se borra el apagar el ordenador.@Los programas almacenados en los chips ROM no se pueden modificar.@Es una memoria no volátil.@2@Se borra el apagar el ordenador.
+¿En dónde se almacenan todos los datos propios de la configuración del PC?.@En la memoria RAM@En la memoria ROM.@En la CMOS.@En la memoria Flash.@3@En la CMOS.
+Una resolución de pantalla de 800*600 significa que.@La imagen la vemos por puntos ordenados en 800 filas y 600 columnas.@Hay 800 combinaciones de colores distintas.@Hay 480.000 combinaciones de colores distintas.@La imagen la vemos por puntos ordenados en 800 columnas y 600 filas.@1@La imagen la vemos por puntos ordenados en 800 filas y 600 columnas.
+Las impresoras de burbuja:@Son impresoras de no impacto.@Son impresoras matriciales.@Son impresoras donde se imprimen los caracteres calentando un papel mediante electrodos.@Usan un dispositivo denominado tóner.@1@Son impresoras de no impacto.
+Cuando tengamos más de un disco duro instalado en nuestro ordenador, el que vaya a ser el disco secundario se denominará:@Esclavo.@Auxiliar.@Dependiente.@Maestro.@1@Esclavo.
+El bloque de caracteres que acompaña a un documento o fichero acreditando quién es su autor y que no ha existido ninguna manipulación posterior de los datos es:@Firma manuscrita.@El sistema de cifrado simétrico.@La criptología.@Firma digital.@4@Firma digital. 
+¿Cuál de las siguientes unidades es mayor?.@Exabyte.@Petabyte.@Zettabyte.@Yottabyte.@4@Yottabyte. 
+La longitud de palabra o tamaño de palabra se puede definir como:@La unidad mínima de información que puede tratar el ordenador.@La unidad mínima de información que necesita un ordenador para almacenar algo.@El número de bytes que un ordenador puede procesar en una única operación.@El número de bits que un ordenador puede procesar en una única operación.@4@El número de bits que un ordenador puede procesar en una única operación. 
+El Sistema Operativo MS-DOS posee una interfaz basada en:@Gráficos.@Vectores.@Caracteres.@Comandos.@4@Comandos. 
+¿Cuál fue el primer sistema operativo que prescindía del uso del MS-DOS?.@Windows 3.1.@Windows 98.@Windows 95.@Windows 2000.@3@Windows 95.
+El servicio de no repudio aplicable a documentos y transacciones consiste en:@Probar quién es el creador de un determinado documento.@Determinar la propiedad de un determinado documento.@Comprobar la veracidad de la firma manuscrita.@Impedir que una persona niegue haber recibido un documento electrónico.@4@Impedir que una persona niegue haber recibido un documento electrónico. 
+La categoría general de agresión a la seguridad informática conocida como modificación es una agresión a:@La integridad.@La disponibilidad.@La confidencialidad.@La autenticidad.@1@La integridad.
+La copia ilícita de ficheros o programas se puede encuadrar dentro de la categoría general de agresión a la seguridad de un sistema informático de:@Modificación.@Intercepción.@Interrupción.@Fabricación.@2@Intercepción.
+La aplicación con identidad propia diseñada para buscar zonas de memoria desocupadas donde autocopiarse repetidas veces, hasta conseguir desbordar la memoria se denomina:@Gusano.@Caballo de Troya.@Virus crucero.@Virus de equipo lógico.@1@Gusano.
+La aplicación dañina que necesita una condición lógica para activarse se conoce como:@Virus de equipo lógico.@Bomba lógica.@Caballo de Troya.@Virus crucero.@2@Bomba lógica.
+Un yottabyte equivale a:@1024 zettabytes.@1024 exabytes.@10204 petabytes.@1024 terabytes.@1@1024 zettabytes.
+Emite un código de sonidos que indica el resultado de la verificación del POST:@BIOS.@CMD.@Speaker.@Ninguno es correcto.@3@Speaker.
+La calidad de una impresora se mide en:@PPP (puntos por pulgada).@PPM (páginas por minuto).@Píxeles.@PPM (puntos por minuto).@1@PPP (puntos por pulgada).
+Entre los dispositivos mixtos de entrada y salida encontramos:@Pantalla.@Escáner.@Altavoces.@Bus.@4@Bus. 
+Un sistema de numeración hexadecimal utiliza:@2 dígitos diferentes.@10 dígitos diferentes.@16 dígitos diferentes.@100 dígitos diferentes.@3@16 dígitos diferentes.
+Con 6 bits, ¿cuántas combinaciones o posibilidades tendríamos?.@32.@64.@128.@256.@2@64.
+Por cuántos bits está formado un byte?.@8.@1024.@128.@256.@1@8.
+Los ordenadores analógicos son aquellos que trabajan con señales:@Continuas.@Discretas.@Híbridas.@Continuas y discretas.@1@Continuas.
+Todos los componentes del PC están insertados en el dispositivo denominado:@CPU.@RAM.@Fuente de alimentación.@Placa base.@4@Placa base. 
+La velocidad de proceso se mide en:@Hertzios.@Bits.@Vatios.@Bytes.@1@Hertzios.
+Los elementos del hardware que ayudan a liberar de calor los procesadores son:@Los refrigeradores.@Las fuentes de alimentación.@Los buses.@Los disipadores.@4@Los disipadores. 
+En qué generación aparecieron lenguajes de programación como el Fortran, Cobol y Algol?.@En la primera generación.@En la segunda generación.@En la tercera generación.@En la cuarta generación.@2@En la segunda generación.
+¿Qué tipo de impresoras utilizan un dispositivo denominado Tóner?.@Las matriciales.@Las láser.@Las térmicas.@Las de inyección de tinta.@2@Las láser.
+El reconocimiento óptico de caracteres se puede relacionar:@Con un dispositivo de entrada.@Con un dispositivo de salida.@Con un dispositivo mixto.@Con el software básico.@1@Con un dispositivo de entrada.
+Un trackball es un dispositivo:@De entrada.@De salida.@Mixto.@No es un dispositivo.@1@De entrada.
+Se encuentra alojada en la placa base y es la encargada de arrancar el sistema:@Flash.@PB.@ROM.@RAM.@3@ROM.
+El sistema que se encarga de digitalizar los textos de manera que puedan ser editados a posteriori con cualquier procesador de textos es:@TFT.@OCR.@POST.@SAI.@2@OCR.
+Señala la respuesta incorrecta. La memoria RAM:@Es una memoria volátil.@Es una memoria de acceso aleatorio.@La lectura en dicha memoria no es destructiva.@La escritura en dicha memoria no es destructiva.@4@La escritura en dicha memoria no es destructiva. 
+El disco compacto o CD Compact Disc:@Es un soporte magnético.@Es un periférico de almacenamiento de datos formado por una pieza circular de material magnético.@Es un soporte digital óptico.@Es un periférico de almacenamiento volátil.@3@Es un soporte digital óptico.
+El registro en el procesador más rápido y el de menor capacidad es:@L1.@L2@L3.@Ninguna es correcta.@1@L1.
+El dispositivo que se utiliza para la digitalización de texto e imágenes se denomina:@Escáner.@Tableta digitalizadora.@Módem.@Trackball.@1@Escáner.
+Una de las siguientes afirmaciones referente al escáner no es correcta. Indica cuál:@Es un periférico de entrada.@Introduce información en el ordenador sin usar el teclado.@Es similar al datapen, pero este último se usa para escanear pequeñas porciones de texto.@Es un periférico de entrada y salida.@4@Es un periférico de entrada y salida. 
+Al usar el término QWERTY nos estamos refiriendo:@A un tipo de monitor.@A un tipo de pantalla.@A un tipo de teclado.@A un tipo de impresora.@3@A un tipo de teclado.
+De las siguientes unidades de información, ¿cuál es la mayor?.@Kilobyte.@Gigabyte.@Petabyte.@Terabyte.@3@Petabyte.
+Los programas que controlan y optimizan las operaciones del equipo informático son:@Software básico.@Programas de aplicación.@Software de aplicación.@Lenguaje de programación.@1@Software básico.
+La tecnología utilizada en monitores LCD es:@CRT.@CDR.@TFT.@HZ.@3@TFT.
+Los discos magnéticos aparecieron en:@La primera generación.@La segunda generación.@La tercera generación.@La cuarta generación.@3@La tercera generación.
+El conjunto de cables que nos permiten transferir información de un lugar a otro son en un equipo informático son:@Bahias.@Buses.@Chipset.@Slots.@2@Buses.
+La tecnología empleada por los CD-R para almacenar la información es del tipo:@Óptica.@Magnética.@Binaria.@Ninguna de las anteriores es correcta.@1@Óptica.
+La parte de la memoria RAM en la que el Sistema Operativo almacena la información a la que accede de manera más frecuente es:@ROM.@Auxiliar.@Caché.@Virtual.@3@Caché.
+De las siguientes resoluciones de pantalla, ¿con cuál veremos los contenidos en menor tamaño?.@800*600.@1280*720.@1600*900.@1920*1080.@4@1920*1080. 
+Una tarjeta de sonido se puede clasificar como un dispositivo:@De entrada.@De salida.@Mixto.@No se puede considerar un dispositivo.@3@Mixto.
+Aquella memoria cuya principal función es contener los programas de inicialización del ordenador y los programas de chequeo del ordenador es:@La memoria ROM.@La memoria SRAM.@La memoria RAM.@La memoria PROM.@1@La memoria ROM.
+El Sistema Operativo que permite abrir varias aplicaciones aunque solo procesa una y admite un usuario procesando una sola tarea es:@Monousuario y monotarea.@Monousuario y multitarea.@Multitarea.@De programación.@1@Monousuario y monotarea.
+Una de las siguientes no es una característica de la interfaz gráfica del usuario:@Los programas y archivos se representan mediante imágenes llamadas iconos.@Las aplicaciones y los objetos sobre la pantalla se presentan en ventanas.@Integran en su funcionamiento un apuntador gráfico que se puede desplazar por toda el área de la pantalla, controlado por un dispositivo de entrada, generalmente el ratón.@Todas las respuestas anteriores son características de dicha interfaz.@4@Todas las respuestas anteriores son características de dicha interfaz. 
+De los siguientes dispositivos, uno no es un periférico de entrada:@Touchpad.@Pantalla táctil.@Monitor.@Escáner.@3@Monitor.
+¿Quién inventó la primera máquina calculadora?.@Leibnitz.@Blas Pascal.@Charles Babbage.@John Von Neumann.@2@Blas Pascal.
+De los siguientes dispositivos ¿cuál se considera un periférico de entrada y salida?.@Plotter.@Escáner.@Módem.@Touchpad.@3@Módem.
+El lenguaje ensamblador es:@Un lenguaje máquina.@Un lenguaje de bajo nivel.@Un lenguaje de alto nivel.@Un código objeto.@2@Un lenguaje de bajo nivel.
+Los sistemas de cifrado asimétrico también son llamados:@Sistemas PGP.@Sistemas de cifrado de clave privada.@Sistemas de cifrado de clave pública.@Sistemas de cifrado híbridos.@3@Sistemas de cifrado de clave pública.
+El sistema de codificación que se basa en la división de la representación binaria en distintos grupos y se da a cada uno de ellos un significado se conoce como:@Codificación por secuencias de códigos.@Sistema de codificación directa.@Codificación mediante sistema de representación numérica.@Sistema de codificación por campos.@4@Sistema de codificación por campos. 
+En el código alfanumérico ASCII, cada letra es representada por:@8 bits.@8 bytes.@2 bits.@16 bits.@1@8 bits.
+Respecto a la Unidad de Control señala la respuesta correcta:@Su función principal es dirigir la secuencia de pasos para que así el ordenador pueda llevar a cabo el ciclo de instrucción.@Recibe entradas y procesa los datos para proporcionar unos resultados determinados.@Es el circuito digital que realiza operaciones tanto lógicas como aritméticas.@Es el componente que almacena la información que va a ser procesada en la Unidad Aritmética­Lógica.@1@Su función principal es dirigir la secuencia de pasos para que así el ordenador pueda llevar a cabo el ciclo de instrucción.
+Los medios físicos a través de los cuales es posible la transmisión de la información entre los componentes de una CPU son:@Slots.@Buses de datos.@Mainframe.@CPU.@2@Buses de datos.
+De los siguientes periféricos, ¿cuál no es de salida?.@Tableta digitalizadora.@Sintetizador de voz.@Plotter.@Perforadora de tarjetas.@1@Tableta digitalizadora.
+¿Cuál es la capacidad de un DVD-ROM?.@1024 Gigabytes.@8 bits.@4.7 Gigabytes.@700 Megabytes.@3@4.7 Gigabytes.
+La aplicación horizontal capaz de detectar y subsanar los problemas creados por los virus se conoce como:@SAI.@Copia de seguridad.@Firewall.@Antivirus.@4@Antivirus. 
+Los ordenadores híbridos son aquellos que trabajan con señales:@Digitales y discretas.@Analógicas y continuas.@Discretas y discontinuas.@Discretas y continuas.@4@Discretas y continuas.
+Los navegadores de Internet forman parte del:@Software de aplicación.@Software de sistema.@Software de programación.@Freeware.@1@Software de aplicación.
+Aquel programa cuyas características han sido limitadas en aras de ofrecer una muestra del producto final que últimamente debería ser comprado se conoce como:@Shareware.@Freeware.@Payware.@Software de código abierto.@1@Shareware.
+El término informática proviene de la contracción de las palabras:@Información y automática.@Tratamiento e información.@Información y ofimática.@Ofimática y automática.@1@Información y automática.
+Sobre la memoria ROM, señala la sentencia incorrecta:@Es una memoria permanente.@Contiene los programas de chequeo del ordenador.@Es de solo lectura.@La escritura en dicha memoria es destructiva.@4@La escritura en dicha memoria es destructiva. 
+Los controladores de dispositivos forman parte del software:@De Shareware.@De aplicación.@De sistema.@De programación.@3@De sistema.
+El componente del hardware cuya función es transformar la información que suministra el ordenador en señales que pueda interpretar la pantalla es:@La tarjeta gráfica.@El bus.@La unidad de control.@El microprocesador.@1@La tarjeta gráfica.
+El elemento encargado de conectar la CPU con la memoria RAM es:@El bus de sistema.@El bus de control.@El bus de datos.@La unidad de control.@1@El bus de sistema.
+Los nano ordenadores:@Son equipos con una gran capacidad de cálculo que se componen de varios procesadores trabajando en paralelo.@Son equipos que funcionan como servidores y soportan la comunicación de muchos usuarios conectados a la vez.@Son los ordenadores centrales de las pequeñas empresas.@Son los ordenadores más específicos y más pequeños utilizados principalmente en medicina.@4@Son los ordenadores más específicos y más pequeños utilizados principalmente en medicina. 
+La longitud de palabra se mide en:@Bits o valores binarios.@Megahertzios.@Gigahertzios.@Pixels.@1@Bits o valores binarios.
+Uno de los siguientes elementos no forma parte de la unidad de control indica cuál.@Registro de instrucción.@Decodificador.@Reloj.@Disipador.@4@Disipador. 
+Los elementos capaces de intercambiar información entre la CPU y un soporte se denominan:@Drivers.@Controladores.@Periféricos.@Software.@3@Periféricos.
+En los puertos en serie la transmisión de la información se realiza:@Bit a bit.@Byte a byte.@Palabra a palabra.@Octeto a octeto.@1@Bit a bit.
+La lectora de tarjeta perforada es un periférico:@De entrada.@De salida.@De entrada y salida.@No es un periférico.@1@De entrada.
+Las memorias que existen en un ordenador se clasifican atendiendo a la ubicación de las mismas en:@Memorias principales y memorias secundarias.@Memorias centrales y memorias auxiliares.@Memorias maestras y memorias esclavas.@Ninguna de las respuestas anteriores es correcta.@1@Memorias principales y memorias secundarias.
+En la memoria RAM:@Tanto la lectura como la escritura son destructivas.@La lectura es destructiva, mientras que la escritura no lo es.@La lectura no es destructiva, mientras que la escritura sí que es destructiva.@Ni la lectura ni la escritura son destructivas.@3@La lectura no es destructiva, mientras que la escritura sí que es destructiva.
+Aquellas impresoras en las cuales la alimentación del papel puede ser únicamente por fricción son:@Impresoras de no impacto.@Impresoras de impacto.@Impresoras matriciales.@Impresoras de margarita.@1@Impresoras de no impacto.
+Windows, Linux y Mac-Os, ¿dentro de qué software se encuadran?.@Software comercial.@Software de programación.@Software de aplicación.@Software de sistema.@4@Software de sistema. 
+La memoria principal está estructurada en forma de una colección de:@Octetos.@Bytes.@Campos.@Celdas.@4@Celdas. 
+Una consola es:@Un periférico de entrada y salida.@Un periférico de entrada.@Un periférico de salida.@Un controlador o driver.@1@Un periférico de entrada y salida.
+El lenguaje ensamblador:@Es un lenguaje de alto nivel.@Es un lenguaje máquina.@Forma parte del software del sistema.@Es un lenguaje de bajo nivel.@4@Es un lenguaje de bajo nivel.
+Los sistemas de cifrado asimétrico:@Son sistemas de cifrado híbridos.@También son llamados sistemas de cifrado de clave privada.@Utilizan la misma clave para cifrar y descifrar un documento.@Ninguna de las respuestas anteriores es correcta.@4@Ninguna de las respuestas anteriores es correcta. 
+Los programas que indican al equipo informático cómo resolver problemas específicos del usuario son:@Software de aplicación.@Programas de sistema.@Software básico.@Lenguajes de programación.@1@Software de aplicación.
+El tamaño de un monitor:@Es la unidad mínima homogénea en color.@Es la distancia entre dos puntos del mismo color en la pantalla.@Es la distancia en diagonal de un vértice de la pantalla al opuesto.@Es la distancia en la que el monitor es capaz de mostrar imágenes estables en la pantalla.@3@Es la distancia en diagonal de un vértice de la pantalla al opuesto.
+La firma digital utiliza el método de encriptación llamado:@Simétrico.@Asimétrico o de clave pública.@Híbrido.@Simétrico o de clave privada.@2@Asimétrico o de clave pública.
+Las aplicaciones que nos permiten controlar el acceso a nuestro equipo para que solo puedan acceder aquellas personas o programas que estén autorizadas para ello son:@Antivirus.@Backups.@Firewall.@Tape Drivers.@3@Firewall.
+La memoria donde el ordenador guarda los datos que esté ejecutando en ese momento es la:@Memoria RAM.@Memoria ROM.@Memoria permanente.@Memoria EPROM.@1@Memoria RAM.
+La fabricación del ENIAC que se aplicó en el cálculo de las trayectorias de proyectiles de guerra corresponde a:@La primera generación.@La segunda generación.@La tercera generación.@La cuarta generac1on.@1@La primera generación.
+Aquellas impresoras en las que la calidad de la impresión viene determinada por el número de pasadas que se dan para imprimir un carácter son:@Láser.@De no impacto.@De impacto.@De inyección de tinta.@3@De impacto.
+La distancia que hay entre dos pixeles de un monitor que vayan consecutivos en pantalla se traduce como:@Resolución.@Dot pitch.@Tasa de refresco.@Ninguna es correcta.@2@Dot pitch.
+Un Terabyte equivale a:@2^20 Gigabytes.@2^30 Megabytes.@2^50 Bytes.@2^30 Kilobytes.@4@2^30 Kilobytes. 
+Una magnitud o señal cuando es continua en el tiempo se denomina:@Analógica.@Digital.@Discreta.@Híbrida.@1@Analógica.
+Un registro en informática es:@Una agrupación información a nivel lógico.@Una agrupación lógica de campos.@La representación de una letra, dígito, signo de puntuación o código especial.@La agrupación de ocho bits que se trata como una única unidad de información.@2@Una agrupación lógica de campos.
+El número de bits que un ordenador puede procesar en una única operación se conoce como:@Carácter.@Campo.@Palabra.@Registro.@3@Palabra.
+Señala la respuesta incorrecta respecto a las puertas lógicas:@Son circuitos digitales elementales que transforman una información de entrada muy básica en otra de salida según los principios de la lógica booleana.@Tienen una o varias entradas y una salida.@Las transformaciones que sufren las señales al pasar por la puerta se representa en unas tablas denominadas tablas de la verdad.@Todas las respuestas anteriores son correctas.@4@Todas las respuestas anteriores son correctas. 
+Las señales digitales son:@Discretas.@Analógicas.@Continuas.@Simétricas.@1@Discretas.
+Al conjunto de elementos relacionados funcionalmente cuya misión es realizar una tarea y obtener ciertos resultados se le conoce como:@Instrucción.@Programa.@Algoritmo.@Sistema.@4@Sistema. 
+Una interfaz es:@Una unidad intercambiable que realiza una función concreta.@Es un punto de contacto entre dos módulos o entre un módulo y en el exterior del sistema.@Un conjunto de elementos relacionados funcionalmente cuya misión es realizar una tarea y obtener ciertos resultados.@El número de bits que el ordenador puede procesar en una única operación.@2@Es un punto de contacto entre dos módulos o entre un módulo y en el exterior del sistema.
+De entre los siguientes sistemas informáticos, ¿cuál de ellos se considera más rápido y también uno de los más caros?.@Estaciones de trabajo.@Supercomputadores.@Mainframes.@Microordenadores.@2@Supercomputadores.
+De los siguientes dispositivos uno no es de almacenamiento externo. Indica cuál:@DVD.@CD-ROM.@Diskette.@Blue Tooth.@4@Blue Tooth. 
+Al conjunto de uno o varios programas que realizan un determinado trabajo se le denomina:@Aplicación informática.@Sistema informática.@Software.@Software de Sistema.@1@Aplicación informática.
+La memoria RAM:@Es una memoria de acceso directo.@Es una memoria de acceso secuencial.@Es una memoria no volátil.@Es una memoria de solo escritura.@1@Es una memoria de acceso directo.
+¿Quién es la encargada de interpretar las instrucciones de los programas y la secuencia de ejecución de las mismas?.@La memoria ROM.@La memoria RAM.@La Unidad Aritmético-Lógica.@La Unidad de Control.@4@La Unidad de Control. 
+¿De qué generación son las cintas perforadas?.@De la 1º generación.@De la 2º generación.@De la 3º generación.@De la 4º generación.@1@De la 1º generación.
+Un procesador de textos es:@Un software básico de programación de control.@Un software básico de programación de proceso.@Un software de aplicación horizontal.@Un software de aplicación vertical.@3@Un software de aplicación horizontal.
+¿En qué generación surge la inteligencia artificial?.@En la 2º generación.@En la 3º generación.@En la 4º generación.@En la 5º generación. @4@En la 5º generación.  
+Dentro de la Unidad de Control, ¿quién se encarga de extraer y analizar el código de operación de la instrucción en curso y dar las señales necesarias al resto de los elementos para su ejecución?.@Reloj.@Decodificador.@Secuenciador.@Registro de Instrucción.@2@Decodificador.
+Conectar la unidad central con la memoria central es función de:@El Registro de Control de Secuencia.@Los Buses.@El Registro de Instrucción.@El Registro de Resultado.@2@Los Buses.
+El término UPS hace referencia a:@Sistema de alimentación ininterrumpida.@Puntos por pulgada.@Unidad Central de Proceso.@Reconocimiento óptico de caracteres.@1@Sistema de alimentación ininterrumpida.
+Los programas de proceso ensambladores:@Traducen el código escrito en lenguajes simbólicos de alto nivel a lenguaje máquina.@Traducen y ejecutan instrucción a instrucción código escrito en lenguaje de alto nivel a lenguaje máquina.@Se encargan de convertir el código de un programa fuente a lenguaje máquina.@Traducen el código escrito en los lenguajes de bajo nivel a lenguaje máquina.@4@Traducen el código escrito en los lenguajes de bajo nivel a lenguaje máquina. 
+Los programas de manipulación de datos:@Son programas de servicio.@Son programas de proceso.@Son programas traductores.@Son programas compiladores.@1@Son programas de servicio.
+El lenguaje máquina:@Es el más parecido al lenguaje humano.@Es un lenguaje de bajo nivel.@Es el único lenguaje que entiende directamente el ordenador.@Es un lenguaje de alto nivel.@3@Es el único lenguaje que entiende directamente el ordenador.
+Un antivirus se puede considerar:@Un software de control.@Un software de programación.@Un software de sistema.@Un software de aplicación.@3@Un software de sistema.
+Son funciones del Sistema Operativo:@Interpretar y ejecutar las órdenes de los usuarios.@Secuenciar los procesos y tareas a realizar.@Autodiagnóstico del funcionamiento del hardware.@Todas son funciones del Sistema Operativo.@4@Todas son funciones del Sistema Operativo. 
+La CPU está formada por:@Los periféricos de entrada, de salida y la memoria.@La Unidad de Control, la Unidad Aritmético-Lógica y la Memoria.@Los periféricos de entrada y salida, la Memoria, la Unidad de Control y la Unidad Aritmética-Lógica.@Los periféricos de almacenamiento, la Memoria, la Unidad de Control y la Unidad Aritmética­Lógica.@2@La Unidad de Control, la Unidad Aritmético-Lógica y la Memoria.
+Una memoria caché tiene como finalidad:@Leer más rápido los programas de la memoria expandida.@Aumentar la velocidad de las operaciones de entrada y salida.@Dar mayor capacidad a la memoria convencional.@Optimizar la CPU evitando esperas de los datos leídos de la memoria.@4@Optimizar la CPU evitando esperas de los datos leídos de la memoria. 
+¿A quién le corresponde ordenar la transferencia de datos entre memoria y la Unidad Aritmética-Lógica?.@A la Unidad Aritmético-Lógica.@A la memoria Caché.@A la Unidad de Control.@A la memoria RAM.@3@A la Unidad de Control.
+Los circuitos integrados aparecen en:@La 1º generación.@La 2º generación.@La 3º generación.@La 4º generación.@3@La 3º generación.
+Para agilizar las operaciones de entrada y salida se usa la memoria:@Buffer.@RAM.@ROM.@Caché.@1@Buffer.
+La memoria Caché es una memoria:@EPROM.@RAM.@ROM.@SMRAM.@2@RAM.
+Aquel Malware que tiene la propiedad de duplicarse a sí mismo recibe el nombre de:@Bug.@Rootkits.@Worm.@Spyware.@3@Worm.
+Al conjunto formado por Hardware y Software se le llama:@Computadora.@Equipo Informático.@Consola.@Sistema informático.@4@Sistema informático. 
+¿En qué parte de la memoria RAM se almacenan las rutinas con la configuración del ordenador?.@Superior.@Expandida.@Caché.@Estática.@1@Superior.
+De las siguientes memorias ROM, ¿Cuál de ellas se puede reprogramar?.@PROM.@ROM estática.@Las memorias ROM no se pueden reprogramar.@EPROM.@4@EPROM. 
+¿De qué generación es el microprocesador?.@De la 1º generación.@De la 2º generación.@De la 3º generación.@De la 4º generación.@4@De la 4º generación. 
+El tiempo de acceso es una característica de:@Las Memorias.@La Unidad de Control.@La Unidad Aritmético-Lógica.@Los Buses.@1@Las Memorias.
+Los streamers son:@Cintas magnéticas.@Discos magnéticos.@Discos ópticos.@Cintas perforadas.@1@Cintas magnéticas.
+Señala la respuesta incorrecta sobre las impresoras de inyección:@Son impresoras de impacto.@Al igual que las impresoras matriciales, los caracteres están formados por puntos.@Pueden imprimir en blanco y negro y en color.@Se llaman también de chorro de tinta.@1@Son impresoras de impacto.
+El dispositivo utilizado para la digitalización de imágenes y texto se denomina:@Pantalla táctil.@Módem.@Escáner.@Datapen.@3@Escáner.
+¿Cuál de los siguientes Software es imprescindible para el funcionamiento de un ordenador?.@Software de programación.@Software de sistema.@Software de desarrollo.@Software de programación.@2@Software de sistema.
+Se entiende por rootkits:@Los mensajes no solicitados enviados de manera masiva.@El software dedicado a la recolección de información del usuario de manera no autorizada.@Es un método para eludir los procedimientos habituales de autentificación al conectarse a un ordenador.@La colección de programas que utilizan los hackers para evitar su detección mientras intentan acceder de manera no autorizada a un equipo informático.@4@La colección de programas que utilizan los hackers para evitar su detección mientras intentan acceder de manera no autorizada a un equipo informático. 
+De las siguientes impresoras ¿cuál es de impacto?.@La de líneas.@La térmica.@La de burbuja.@La láser.@1@La de líneas.
+El trackball es:@Un periférico apuntador.@Un periférico de entrada.@Una variante del ratón.@Todas las respuestas anteriores son correctas.@4@Todas las respuestas anteriores son correctas. 
+El registro que actúa como comunicación entre la CPU y el resto del sistema se llama:@Registro de Instrucción.@Registro de control.@Registro de dirección.@Decodificador.@1@Registro de Instrucción.
+¿En qué generación surgieron los primeros lenguajes de programación?.@En la 1º generación.@En la 2º generación.@En la 3º generación.@En la 4º generación.@2@En la 2º generación.
+Señala la información incorrecta respecto al disco magnético:@La información se graba en circunferencias concéntricas denominadas pistas.@El disco magnético se divide en arcos llamados sectores.@Es un soporte de almacenamiento de información de acceso secuencial.@Consiguen tiempos de acceso menores que las cintas magnéticas.@3@Es un soporte de almacenamiento de información de acceso secuencial.
+Las señales o magnitudes discretas:@Son continuas en el tiempo.@Son todas las magnitudes de la naturaleza.@Se pueden representar en una gráfica como una línea continua, sin interrupciones.@Varían a lo largo del tiempo, tomando valores definidos, nunca toman valores intermedios.@4@Varían a lo largo del tiempo, tomando valores definidos, nunca toman valores intermedios. 
+Señala la respuesta incorrecta:@La memoria ROM es no volátil o permanente.@La memoria RAM se borran al apagar el ordenador.@La CMOS no se pierde al apagar la CPU.@El conjunto de rutinas de Software esenciales que inician el sistema operativo se conoce como POST.@4@El conjunto de rutinas de Software esenciales que inician el sistema operativo se conoce como POST. 
+¿Quién se encargará de realizar todas las operaciones que lleve a cabo el ordenador?.@La unidad aritmético-lógica.@La unidad de control.@La memoria.@El Sistema Operativo.@1@La unidad aritmético-lógica.
+Una perforadora de tarjeta es un dispositivo de:@Entrada.@Salida.@Mixto.@De entrada y salida.@2@Salida.
+¿Quién actúa como intermediario entre los dispositivos de hardware y los programas usados por el usuario para utilizar una computadora?.@El Sistema Operativo.@La Unidad de Control.@La CPU.@El Chipset.@1@El Sistema Operativo.
