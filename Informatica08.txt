@@ -1,0 +1,22 @@
+¿Cómo se accede a OneDrive?@Descargando la aplicación en tu teléfono@Accediendo desde un navegador web@Comprando una licencia en línea@Todas las anteriores@2@Accediendo desde un navegador web
+¿Cuál es el espacio de almacenamiento gratuito que ofrece OneDrive?@5 GB@10 GB@15 GB@20 GB@1@5 GB
+¿Qué tipo de archivos se pueden almacenar en OneDrive?@Solo archivos de texto@Solo archivos de audio@Solo archivos de imagen@Cualquier tipo de archivo@4@Cualquier tipo de archivo
+¿Qué se puede hacer con los archivos almacenados en OneDrive?@Editarlos en línea@Compartirlos con otros usuarios@Descargarlos en tu dispositivo@Todas las anteriores@4@Todas las anteriores
+¿Qué función de seguridad ofrece OneDrive?@Encriptación de archivos@Protección contra virus y malware@Autenticación de dos factores@Todas las anteriores@4@Todas las anteriores
+¿Cuál es la versión de pago de OneDrive?@OneDrive Personal@OneDrive para Empresas@OneDrive para la Educación@Todas las anteriores@4@Todas las anteriores
+¿Qué tipo de planes de pago ofrece OneDrive Personal?@Plan mensual@Plan anual@Plan de 2 años@Todas las anteriores@4@Todas las anteriores
+¿Qué es OneDrive para la Educación?@Una versión gratuita para estudiantes y profesores@Una versión premium para estudiantes y profesores@Una versión exclusiva para profesores@Todas las anteriores@1@Una versión gratuita
+¿Qué es OneDrive?@Un servicio de correo electrónico@Un servicio de almacenamiento en la nube@Una red social@Un programa de edición de textos@2@Un servicio de almacenamiento en la nube
+¿Cuál es el límite de tamaño de archivo que se puede subir a OneDrive para Empresas por defecto a través de la aplicación de Escritorio?@2 GB@5 GB@10 GB@15 GB@4@15 GB
+¿Es posible compartir archivos y carpetas con otros usuarios en OneDrive?@Sí, es posible.@No, no es posible.@Solo se pueden compartir archivos, no carpetas.@Solo se pueden compartir carpetas, no archivos.@1@Sí, es posible.
+¿Cuál es el máximo de usuarios con los que se puede compartir un archivo en OneDrive?@5 usuarios@10 usuarios@20 usuarios@No hay límite de usuarios.@4@No hay límite de usuarios.
+¿Qué tipo de archivos se pueden visualizar directamente en OneDrive sin necesidad de descargarlos?@Solo archivos de texto.@Solo archivos de imagen.@Solo archivos de audio.@Archivos de texto, imagen, audio y video.@4@Archivos de texto, imagen, audio y video.
+¿Es posible editar documentos de Microsoft Office directamente en OneDrive?@Sí, es posible.@No, no es posible.@Solo se pueden editar documentos de Word.@Solo se pueden editar documentos de Excel.@1@Sí, es posible.
+¿Cómo se pueden sincronizar archivos de OneDrive en diferentes dispositivos?@Descargando y subiendo los archivos manualmente en cada dispositivo.@Utilizando una herramienta de sincronización de OneDrive.@Enviando los archivos por correo electrónico a cada dispositivo.@No es posible sincronizar archivos en diferentes dispositivos.@2@Utilizando una herramienta de sincronización de OneDrive.
+¿Qué función de OneDrive permite recuperar versiones anteriores de un archivo?@Historial de versiones.@Copias de seguridad.@Protección de archivos.@Ninguna de las anteriores.@1@Historial de versiones.
+¿Qué función de OneDrive permite proteger archivos con contraseña?@Protección de archivos.@Copias de seguridad.@Historial de versiones.@Ninguna de las anteriores.@1@Protección de archivos.
+¿Qué función de OneDrive permite colaborar en tiempo real en documentos con otros usuarios?@Comentarios.@Edición conjunta.@Compartir archivos.@Ninguna de las anteriores.@2@Edición conjunta.
+¿Es posible acceder a OneDrive desde cualquier dispositivo con conexión a Internet?@Sí, es posible.@No, solo se puede acceder desde dispositivos con Windows.@No, solo se puede acceder desde dispositivos con iOS.@No, solo se puede acceder desde dispositivos con Android.@1@Sí, es posible.
+¿Cuál es el límite de tamaño de archivo que se puede subir a OneDrive para Empresas por defecto a través de la página web de OneDrive?@2 GB@5 GB@100 GB@15 GB@3@100 GB
+¿Qué tipo de archivos no pueden ser cargados en OneDrive?@Archivos de configuración personales.@Archivos de Sistema.@Archivos comprimidos.@Todos los arhivos pueden ser cargados.@2@Archivos de Sistema.
+¿Qué es OneDrive-D?.@Versión no oficial de OneDrive utilizada para entornos Linux.@Es la misma aplicación oficial para sistema operativo mac-OS.@Es una versión minimizada para ejecutarse en ordenadores con recursos reducidos.@Ninguna de las anteriores.@1@Versión no oficial de OneDrive utilizada para entornos Linux.
